@@ -1,0 +1,424 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>What are cookies and how to use them in PHP ? - harkuchh</title>
+  <meta name="author" content="harkuchh">
+
+  
+  <meta name="description" content="What is a cookie A cookie is a small file that we create on user&#8217;s computer. Almost every website we visit on internet create and save many &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://harkuchh.com/what-are-cookies-and-how-to-use-them-in-php/">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+   <link href="/stylesheets/data-table.css" media="screen, projection" rel="stylesheet" type="text/css" />
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="harkuchh" type="application/atom+xml">
+  <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+
+<!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href='http://fonts.googleapis.com/css?family=Lato:400,100,100italic,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Lora:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Source+Code+Pro:200,300,400,500,600,700,900' rel='stylesheet' type='text/css'>
+
+
+
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-30924112-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+  <style>html{background: url("/images/background.png") no-repeat center center fixed;-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;}</style>
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+</hgroup>
+
+</header>
+  <!-- <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:harkuchh.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+
+</nav> -->
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">What Are Cookies and How to Use Them in PHP ?</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-09-09T00:00:00+05:30" pubdate data-updated="true"></time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><h3><span style="color: #000000;"><em><strong>What is a cookie</strong></em></span></h3>
+<span style="color: #000000;"><a href="http://harkuchh.com/what-are-cookies-and-how-to-use-them-in-php/what-are-cookies/" rel="attachment wp-att-3951"><img class="alignleft  wp-image-3951" title="what are cookies" alt="" src="http://harkuchh.com/wp-content/uploads/2012/09/what-are-cookies.jpg" width="114" height="115" /></a>A cookie is a small file that we create on user&#8217;s computer. Almost every website we visit on internet create and save many cookies on our computer for different purposes.</span>
+
+<span style="color: #000000;"> </span><span style="color: #000000;">If we think our websites as a building, a cookie can be understood as an ID card that is given to every person to distingush that person from all the others who enter the building (</span><span style="color: #000000;"><a href="http://codersapiens.github.com" target="_blank"><span style="color: #000000;">visit our site</span></a></span><span style="color: #000000;">).<!--more--></span>
+
+<span style="color: #000000;"> </span><span style="color: #000000;">Use this </span><a href="https://addons.mozilla.org/en-US/firefox/addon/cookies-manager-plus/developers" target="_blank"><span style="color: #000000;">firefox addon</span></a><span style="color: #000000;">. Install it, and then open from</span><strong style="color: #000000;"> Tools&gt;Cookie Manager+</strong><span style="color: #000000;">. It will show you all the cookies that are present in your browser and you can also edit and delete cookies with this.</span>
+
+<span style="color: #000000;">Use this addon for debugging your application (i.e. to see whether the cookies are really set and with what values).</span>
+
+<span style="color: #000000;"> </span>
+<h3><span style="color: #000000;"><strong> <em>Why we use cookeis</em></strong></span></h3>
+<span style="color: #000000;">Cookies are used to save information. That information can be anything. It&#8217;s usually used to save information that is used to identify a user across different pages. For example, when you login to Facebook, it save many cookies to save information to identify you. (use cookie manager+ to see that yourself. Delete all cookies, then login to fb and see how many and what information it save in cookies).</span>
+
+<span style="color: #000000;"><em>Basic purpose is to identify the user who has logged in.</em></span>
+
+<span style="color: #000000;"> </span>
+<h3><strong><span style="color: #000000;"><em><a href="http://harkuchh.com/tag/how/" target="_blank"><span style="color: #000000;">How to</span></a> use cookies</em></span></strong></h3>
+<span style="color: #000000;">We use setcookie() php function.</span>
+
+<span style="color: #000000;">It has following syntax:</span>
+
+<span style="color: #000000;"> </span>
+
+<span style="color: #000000;">setcookie(name, value, expire, path, domain);</span>
+
+<span style="color: #000000;">Here,</span>
+<ol start="1">
+	<li><span style="color: #000000;">name is the name with which cookie is saved in browser</span></li>
+	<li><span style="color: #000000;">value is the value of cookie saved</span></li>
+	<li><span style="color: #000000;">expire is the expiration time stamp</span></li>
+	<li><span style="color: #000000;">path is the path on your domain to which the cookie is available</span></li>
+	<li><span style="color: #000000;">domain is domain which can access the cookie (it is your site by default)</span></li>
+</ol>
+<span style="color: #000000;"> </span>
+
+<span style="color: #000000;">Just take care of the &#8216;expire&#8217; parameter. It is a timestamp (like Sept 9, 2012 6:11AM), not how much time to expire the cookie (like 2 hours). People often get confused with this. We use time() function to know current server time, and then add no. of seconds after which it&#8217;ll be expired in it. e.g.</span>
+
+<span style="color: #000000;"> </span>
+
+<span style="color: #3366ff;">setcookie(&#8220;TestCookie&#8221;, $value, time()+3600);  /* expire in 1 hour */</span>
+
+<span style="color: #000000;"> </span>
+
+<span style="color: #000000;">Here</span>
+<ol start="1">
+	<li><span style="color: #000000;">&#8220;TestCookie&#8221; is the name of cookie</span></li>
+	<li><span style="color: #000000;">$value is the information we want to save in that cookie</span></li>
+	<li><span style="color: #000000;">and third parameter is the expiration time</span></li>
+</ol>
+<span style="color: #000000;">Information we want to save is kept in the &#8216;value&#8217; parameter.</span>
+
+<span style="color: #000000;">Go <a href="http://php.net/manual/en/function.setcookie.php" target="_blank"><span style="color: #000000;">here (official php documentation)</span></a> for complete information.</span>
+
+<span style="color: #000000;"> </span>
+<h3><span style="color: #000000;"><em><strong>How to Retrieve Information from Cookies</strong></em></span></h3>
+<span style="color: #000000;">Everything we save in cookies is simply available in $_COOKIE[&#8216;cookie_name&#8217;] array.</span>
+
+<span style="color: #000000;"> Do you know : <a href="http://harkuchh.com/how-to-access-multiple-facebook-accounts-in-same-browser/" target="_blank"><span style="color: #000000;"><em>The way to Access Multiple Facebook Accounts in Same Browser</em></span></a></span>
+
+&nbsp;
+<h3><span style="color: #000000;"><em><strong>How to Use cookies in real world</strong></em></span></h3>
+<span style="color: #000000;">When the user successfully login to your site, set a cookie with some unique identifier that&#8217;d help to identify that user all over the site. We do that by setting a cookie with a value that&#8217;s unique for every user, like their user_name or user_id (this approach is actually not at all safe, I&#8217;ll tell you why in a min). And then when user visit the profile page, read the cookie data and show different pages for different users.</span>
+
+<span style="color: #000000;">Here&#8217;s a little example meta-code:</span>
+
+<span style="color: #000000;"> </span><span style="color: #000000;">After a user successfully logs in, execute this code and redirect user to wherever you want (may be their profile page)</span>
+
+<span style="color: #000000;"> </span>
+<p style="padding-left: 60px;"><span style="color: #ff0000;">if(login == &#8216;successful&#8217;) {</span></p>
+<p style="padding-left: 60px;"><span style="color: #ff0000;">  setcookie(&#8220;authenticated&#8221;, &#8220;true&#8221;, time()+3600);</span></p>
+<p style="padding-left: 60px;"><span style="color: #ff0000;"> setcookie(&#8220;user_id&#8221;, &#8220;9&#8221;, time()+3600);</span></p>
+<p style="padding-left: 60px;"><span style="color: #ff0000;">}</span></p>
+<span style="color: #000000;"> </span>
+
+<span style="color: #000000;">And then on user.php page, fetch the data for user with user_id 9.</span>
+
+<span style="color: #000000;">i.e. <span style="color: #008000;">SELECT * FROM users_db WHERE user_id= $_COOKIE[&#8216;user_id&#8217;]</span></span>
+
+<span style="color: #000000;"> </span>
+
+<span style="color: #000000;">But this approach is not safe. Anyone can change the user_id value in cookie (with addons like above) and access other users&#8217; data. Simplest way to avoid this is by &#8216;not&#8217; using cookies for login data. Sites like facebook use cookies, but they use complex algorithms to make them secure.</span>
+
+<span style="color: #000000;"> </span>
+
+<span style="color: #000000;">Use session variables instead of cookies. Sessions are stored on server, so they are not directly accessible to user and hence offer more security.</span>
+
+<span style="color: #000000;"><strong><em>For example</em></strong>, after a successful user login:</span>
+
+<span style="color: #000000;"> </span>
+<p style="padding-left: 30px;"><span style="color: #ff0000;">if(login == &#8216;successful&#8217;) {</span></p>
+<p style="padding-left: 30px;"><span style="color: #ff0000;"> $_SESSION[&#8216;logged_in&#8217;] = true;</span></p>
+<p style="padding-left: 30px;"><span style="color: #ff0000;"> $_SESSION[&#8216;user_id&#8217;] = $user_id;</span></p>
+<p style="padding-left: 30px;"><span style="color: #ff0000;">}</span></p>
+<p style="padding-left: 30px;"><span style="color: #ff0000;"> </span></p>
+<span style="color: #000000;">and they can be accessed as regular php variables after that. On user.php page, just check if user is &#8216;logged_in&#8217; and</span>
+
+<span style="color: #000000;">fetch his personal data from database:</span>
+
+<span style="color: #000000;"> </span>
+<p style="padding-left: 30px;"><span style="color: #008000;">if($_SESSION[&#8216;logged_in&#8217;] == true) {</span></p>
+<p style="padding-left: 30px;"><span style="color: #ff0000;"> SELECT * FROM user_db WHERE user_id = &#8220;$_SESSION[&#8216;user_id&#8217;]&#8221;</span></p>
+<span style="color: #000000;"> </span>
+
+<span style="color: #000000;">This approach is safe</span>
+
+<span style="color: #000000;"> </span>
+
+<span style="color: #000000;">In short,</span>
+<ol start="1">
+	<li><span style="color: #000000;">Use cookies for saving non critical data (not needed in your project)</span></li>
+	<li><span style="color: #000000;">Use $_SESSION variables for checking the logged_in users</span></li>
+</ol>
+<span style="color: #000000;">And if you want to use cookies anyway (for learning or whatever reason you have),</span>
+<ol start="1">
+	<li><span style="color: #000000;">Set cookies when user successfully log in with setcookie()</span></li>
+	<li><span style="color: #000000;">Set a cookie with a value that will uniquely identify a user (like his user_id)</span></li>
+	<li><span style="color: #000000;">Use those cookies (with $_COOKIE[&#8216;cookie_name&#8217;]) wherever you need, like on user&#8217;s profile page</span></li>
+</ol>
+<span style="color: #000000;">Same goes for the session variables.</span>
+
+<span style="color: #000000;"> </span>
+
+<span style="color: #000000;">You must read tutorial to get it better, because all the <a href="http://harkuchh.com/top-blogs-and-bloggers-of-india-and-their-earnings/">top blogger</a> and everyone says everytime Nothing teaches better than a quick tutorial. Click here..</span>
+
+<span style="color: #000000;">You also love : <em><a href="http://harkuchh.com/how-to-manage-a-lot-of-downloads/" target="_blank"><span style="color: #000000;">How To Manage a Lot Of Downloads</span></a></em></span>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">harkuchh</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-09-09T00:00:00+05:30" pubdate data-updated="true"></time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/new-technology/'>NEW TECHNOLOGY</a>, <a class='category' href='/blog/categories/tips/'>TIPS</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://harkuchh.com/what-are-cookies-and-how-to-use-them-in-php/" data-via="" data-counturl="http://harkuchh.com/what-are-cookies-and-how-to-use-them-in-php/" >Tweet</a>
+  
+  
+  <div class="g-plusone" data-size="medium"></div>
+  
+  
+    <div class="fb-like" data-send="true" data-width="450" data-show-faces="false"></div>
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/tutorial-to-understand-cookies-better/" title="Previous Post: Tutorial To Understand 'COOKIES' Better">&laquo; Tutorial To Understand 'COOKIES' Better</a>
+      
+      
+        <a class="basic-alignment right" href="/all-basic-abbreviations-valuable-information/" title="Next Post: All basic Abbreviations, Valuable Information">All basic Abbreviations, Valuable Information &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section id="titles">
+  <a href="http://harkuchh.com" title="harkuchh"><img id="logo" src="http://harkuchh.com/images/" /></a>
+  <h1 id="site_title"><a href="http://harkuchh.com" title="harkuchh">harkuchh</a></h1>
+  <h3 id="site_subtitle">of your taste...</h3>
+</section>
+
+<section id="menu">
+  <ul>
+    <li><i class="fa fa-home fa-lg"></i><a href="http://harkuchh.com"> Home </a></li>
+    <li><i class="fa fa-user fa-group"></i><a href="http://harkuchh.com/blog/categories/blogging"> Blogging </a></li>
+    <li><i class="fa fa-user fa-terminal"></i><a href="http://harkuchh.com/blog/categories/technology"> Technology </a></li>
+    <li><i class="fa fa-user fa-coffee"></i><a href="http://harkuchh.com/blog/categories/entertainment"> Entertainment </a></li>
+    <li><i class="fa fa-calendar fa-lg"></i><a href="http://harkuchh.com/blog/archives/"> Archives </a></li>
+    <li><i class="fa fa-user fa-lg"></i><a href="http://harkuchh.com/about/"> About </a></li>
+
+<!--     <li><i class="fa fa-rss fa-lg"></i><a href="http://harkuchh.com/atom.xml"> Feed </a></li> -->
+  </ul>
+</section>
+
+<section id="social">
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+</section>
+
+
+<section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/trick-to-copy-content-from-a-website-with-copy-protector-enabled/">Trick to copy content from a website with Copy Protector enabled</a>
+      </li>
+    
+      <li class="post">
+        <a href="/corporate-society-is-fraud-bitch-please/">Corporate Society is Fraud, Bitch Please !</a>
+      </li>
+    
+      <li class="post">
+        <a href="/why-your-comments-not-getting-approved/">Why Your Comments not Getting Approved</a>
+      </li>
+    
+      <li class="post">
+        <a href="/how-to-optimize-your-database-from-cpanel/">How to Optimize your Database from cPanel</a>
+      </li>
+    
+      <li class="post">
+        <a href="/how-to-get-pr-for-my-blog/">How to Get PR for my Blog ?</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2014 - harkuchh -
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'harkuchh';
+      
+        
+        var disqus_script = 'count.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+  <script type="text/javascript">
+    (function() {
+      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
+      script.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
+    })();
+  </script>
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

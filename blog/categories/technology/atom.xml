@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: technology | harkuchh]]></title>
+  <link href="http://harkuchh.com/blog/categories/technology/atom.xml" rel="self"/>
+  <link href="http://harkuchh.com/"/>
+  <updated>2014-01-29T23:47:22+05:30</updated>
+  <id>http://harkuchh.com/</id>
+  <author>
+    <name><![CDATA[harkuchh]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Trick to copy content from a website with Copy Protector enabled]]></title>
+    <link href="http://harkuchh.com/trick-to-copy-content-from-a-website-with-copy-protector-enabled/"/>
+    <updated>2014-01-29T22:16:18+05:30</updated>
+    <id>http://harkuchh.com/trick-to-copy-content-from-a-website-with-copy-protector-enabled</id>
+    <content type="html"><![CDATA[<p>Copy protector is a wordpress plugin which is used by many wordpress sites to stop readers from copying the site content. When you visit a site and find it good to share some part of it, this type of plugins irritate us the most. In these cases, you either share the whole page, or you don&rsquo;t share anything.</p>
+
+<!-- more -->
+
+
+<p>There are many such plugins which prevent users from copying partial content from a website.
+Here we have a solution to this problem.</p>
+
+<p>The solution we are mentioning here work against all plugins which prevent copying content. This means you don&rsquo;t need to know which plugin is used by the website that is stopping you from copying, following solution simply work against anything.</p>
+
+<h3>How do these plugins work?</h3>
+
+<p>Although this is not necessary to stop those copy protector plugins, but having proper knowledge is a good thing.</p>
+
+<p>What we see on a web page is HTML content which is styled with CSS stylesheets. HTML and CSS do not offer much programming power to do anything like stopping people from copying content.<br/>
+But there is a third power on the webpage which is actually used for programming fancy things on a web page. Its called javascript.</p>
+
+<p><strong>Javascript</strong> is a web scripting language that run in our browser, which can do many many awesome things. Preventing us from copying is one of them. So if we can somehow disable the execution of javascript in our browser, all those plugins which stop us from copying content will simply stop working.</p>
+
+<h3>But how do we do it?</h3>
+
+<p>In previous versions of most browsers, one setting was provided to switch off javascript. But not anymore. New browser no more provide this option since more and more websites are becoming javascript heavy and they simply do not work if javascript is disabled.<br/>
+So we need a third party tool which can disable javascript in the browser.</p>
+
+<h3>Browser plugins to the rescue</h3>
+
+<p>Most browsers have addons or plugins which we can install in the browser. Various plugins are available to disable javascript in browsers. We can search the browser addon market and find many.</p>
+
+<h4>Our favorite plugin for this purpose</h4>
+
+<p><strong><a href="http://noscript.net/">No Script</a></strong></p>
+
+<p><img src="" alt="Category: technology" /></p>
+
+<p>The NoScript Firefox extension provides extra protection for Firefox browsers. It is free and open source add-on which allows JavaScript, Java, Flash and other plugins to be executed only by trusted web sites of your choice. NoScript also provides the most powerful anti-XSS and anti-Clickjacking protection ever available in a browser. <br/>
+With noscript we can choose which site can execute javascript and which can&rsquo;t.</p>
+
+<p><strong>So what we actually have to do?</strong></p>
+
+<p>Just install noscript in firefox and follow the tutorial.</p>
+
+<h2>Tutorial to copy content from a website with Copy Protector enabled</h2>
+
+<p>Okay this is a really small tutorial here.<br/>
+When you have noscript installed in firefox, there will appear an icon like this in your firefox window.</p>
+
+<p>By default noscript do not allow any site to execute any javascript, java or flash code. So most sites will just stop working the way they usually do.</p>
+
+<p>So first thing we have to do is disable the noscript gloablly.</p>
+
+<ul>
+<li>Click on the noscript icon and unselect &ldquo;Forbid Scripts globally&rdquo;.</li>
+</ul>
+
+
+<p>It will show a warning messag saying</p>
+
+<p>&ldquo;Scripts are going to be allowed globally (for every site).
+  This is a potentially dangerous action.
+  Do you really want to proceed?&rdquo;</p>
+
+<p>Just ignore it and press ok.</p>
+
+<ul>
+<li>Now open the site from which you want to copy content.</li>
+<li>With that site&rsquo;s page open, again click on the no-script icon and select  &ldquo;Mark &lt;site-name> as Untrusted&rdquo;</li>
+</ul>
+
+
+<p>Doing this will auto-refresh the page and no-scripts will be run from that page. This means none of the copy blocking plugins will work.</p>
+
+<p>So, that&rsquo;s what we wanted to achieve. If you have any questions and queries, please feel free to ask in comments. We also have forums where you can ask any question and me and our team will try to answer as per our knowledge.</p>
+]]></content>
+  </entry>
+  
+</feed>

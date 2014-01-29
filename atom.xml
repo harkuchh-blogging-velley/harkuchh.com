@@ -4,7 +4,7 @@
   <title><![CDATA[harkuchh]]></title>
   <link href="http://harkuchh.com/atom.xml" rel="self"/>
   <link href="http://harkuchh.com/"/>
-  <updated>2014-01-29T01:21:45+05:30</updated>
+  <updated>2014-01-29T23:47:22+05:30</updated>
   <id>http://harkuchh.com/</id>
   <author>
     <name><![CDATA[harkuchh]]></name>
@@ -12,6 +12,156 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Trick to copy content from a website with Copy Protector enabled]]></title>
+    <link href="http://harkuchh.com/trick-to-copy-content-from-a-website-with-copy-protector-enabled/"/>
+    <updated>2014-01-29T22:16:18+05:30</updated>
+    <id>http://harkuchh.com/trick-to-copy-content-from-a-website-with-copy-protector-enabled</id>
+    <content type="html"><![CDATA[<p>Copy protector is a wordpress plugin which is used by many wordpress sites to stop readers from copying the site content. When you visit a site and find it good to share some part of it, this type of plugins irritate us the most. In these cases, you either share the whole page, or you don&rsquo;t share anything.</p>
+
+<!-- more -->
+
+
+<p>There are many such plugins which prevent users from copying partial content from a website.
+Here we have a solution to this problem.</p>
+
+<p>The solution we are mentioning here work against all plugins which prevent copying content. This means you don&rsquo;t need to know which plugin is used by the website that is stopping you from copying, following solution simply work against anything.</p>
+
+<h3>How do these plugins work?</h3>
+
+<p>Although this is not necessary to stop those copy protector plugins, but having proper knowledge is a good thing.</p>
+
+<p>What we see on a web page is HTML content which is styled with CSS stylesheets. HTML and CSS do not offer much programming power to do anything like stopping people from copying content.<br/>
+But there is a third power on the webpage which is actually used for programming fancy things on a web page. Its called javascript.</p>
+
+<p><strong>Javascript</strong> is a web scripting language that run in our browser, which can do many many awesome things. Preventing us from copying is one of them. So if we can somehow disable the execution of javascript in our browser, all those plugins which stop us from copying content will simply stop working.</p>
+
+<h3>But how do we do it?</h3>
+
+<p>In previous versions of most browsers, one setting was provided to switch off javascript. But not anymore. New browser no more provide this option since more and more websites are becoming javascript heavy and they simply do not work if javascript is disabled.<br/>
+So we need a third party tool which can disable javascript in the browser.</p>
+
+<h3>Browser plugins to the rescue</h3>
+
+<p>Most browsers have addons or plugins which we can install in the browser. Various plugins are available to disable javascript in browsers. We can search the browser addon market and find many.</p>
+
+<h4>Our favorite plugin for this purpose</h4>
+
+<p><strong><a href="http://noscript.net/">No Script</a></strong></p>
+
+<p><img src="https://doc-10-3s-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/eon6j3j90nlhk062379b2ms23gemsbrr/1391011200000/04897958604571837647/*/0B2snz8-UNBEmQVdKd201Y1M4UTA?h=16653014193614665626" alt="Trick to copy content from a website with Copy Protector enabled" /></p>
+
+<p>The NoScript Firefox extension provides extra protection for Firefox browsers. It is free and open source add-on which allows JavaScript, Java, Flash and other plugins to be executed only by trusted web sites of your choice. NoScript also provides the most powerful anti-XSS and anti-Clickjacking protection ever available in a browser. <br/>
+With noscript we can choose which site can execute javascript and which can&rsquo;t.</p>
+
+<p><strong>So what we actually have to do?</strong></p>
+
+<p>Just install noscript in firefox and follow the tutorial.</p>
+
+<h2>Tutorial to copy content from a website with Copy Protector enabled</h2>
+
+<p>Okay this is a really small tutorial here.<br/>
+When you have noscript installed in firefox, there will appear an icon like this in your firefox window.</p>
+
+<p>By default noscript do not allow any site to execute any javascript, java or flash code. So most sites will just stop working the way they usually do.</p>
+
+<p>So first thing we have to do is disable the noscript gloablly.</p>
+
+<ul>
+<li>Click on the noscript icon and unselect &ldquo;Forbid Scripts globally&rdquo;.</li>
+</ul>
+
+
+<p>It will show a warning messag saying</p>
+
+<p>&ldquo;Scripts are going to be allowed globally (for every site).
+  This is a potentially dangerous action.
+  Do you really want to proceed?&rdquo;</p>
+
+<p>Just ignore it and press ok.</p>
+
+<ul>
+<li>Now open the site from which you want to copy content.</li>
+<li>With that site&rsquo;s page open, again click on the no-script icon and select  &ldquo;Mark &lt;site-name> as Untrusted&rdquo;</li>
+</ul>
+
+
+<p>Doing this will auto-refresh the page and no-scripts will be run from that page. This means none of the copy blocking plugins will work.</p>
+
+<p>So, that&rsquo;s what we wanted to achieve. If you have any questions and queries, please feel free to ask in comments. We also have forums where you can ask any question and me and our team will try to answer as per our knowledge.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Corporate Society is Fraud, Bitch Please !]]></title>
+    <link href="http://harkuchh.com/corporate-society-is-fraud-bitch-please/"/>
+    <updated>2013-08-05T00:00:00+05:30</updated>
+    <id>http://harkuchh.com/corporate-society-is-fraud-bitch-please</id>
+    <content type="html"><![CDATA[You might have heard about Corporate, The <b>Corporate Infocom Pvt. Ltd</b> or <b>Corporate Society</b>, and if you have heard <b>about</b> <b>Corporate Society</b> then there are two strong possibilities that you may heard it’s a great emerging <b>Indian networking company</b> originated from <b>capital of India</b>, Delhi or you may have heard that <b>Corporate society is fraud</b>, fake, cheater company who <b>make people especially youth fool by making fake promises</b> to them. I have no idea what exactly you have heard <b>about</b> <b>Corporate Infocom Pvt. Ltd</b> but I’m damn sure, whatever someone told you <b>about Corporate</b> will be something like that, well just give your sometime to this post and let me explain what is the truth behind Corporate Society.<!--more-->
+
+&nbsp;
+
+<a href="http://harkuchh.com/corporate-society-is-fraud-bitch-please/corporate-is-fraud-or-not/" rel="attachment wp-att-8601"><img class="aligncenter size-large wp-image-8601" alt="Corporate is Fraud or not" src="http://harkuchh.com/wp-content/uploads/2013/04/Corporate-is-Fraud-or-not-580x213.jpg" width="580" height="213" /></a>
+
+&nbsp;
+
+I promise you whatever I’m going to tell you is absolutely truth and trusted because I also joined corporate and I know almost everything about it, I joined corporate and it changed my life completely, hold on ! don’t react too fast, first listen what I’m talking about, Yes this is true that my life got changed and corporate is responsible behind it.
+
+Now I know, you wanted to know, How my life got changed because of Corporate Society ? it’s answer is, corporate gave me that platform on which I’m working right now and this platform have a glorious future ahead, it’s called Blogging. Actually before joining<strong> CIPL</strong> I had no Idea how to develop a complete website and run it on internet even after I was a engineering student from I.T trade, I knew how to create a webpage by using HTML and PHP but if we know how to create a webpage it doesn’t mean we can also make a website with that comfort for example creating a webpage by using HTML is like making a 5 second ad commercial and developing a website is something like making of Titanic and I don’t think I need to explain what is the difference between making these two.
+
+In short, it was not possible for me to create even a 4-5 page static website and deploy it on Internet then you can easily think that how could I think of creating a website like Harkuchh, pay your attention, right now I’m just talking about creating a website not SEO, ranking, Backlinks, Ads, commercial emails, advertising, Social promotion, Database, My Sql, affiliate marketing  etc etc and etc but as you can see today I own a website with world rank near to 25k worldwide and around 2k in India and unbelievable fact is that the worth of my website is more than my dad’s property! and that all is live and true you know why ? because of corporate. Corporate told me I can do it, and I did.
+
+Now let me tell you, if it’s true then why people says Corporate is fraud, fake, cheater and blaw&#8230; blaw&#8230; blaw :P
+
+Well Corporate is actually a networking company, who sales it’s web hosting service by following a referral marketing strategy i.e Corporate gives web hosting for a website and chance to work in networking to it’s associates, and the real story begins here..
+
+When a person is approached for a seminar or PPT (paper presentation) by a friend or any known, he/she’s told by the presenter that we’ll give you hosting to create your own website and tell you how to earn money through Google Adsense and other Ads and along with this, company will also give you some extra money as commission if someone join the company by your referral.
+
+After joining, some finds it more profitable to work in network marketing so they start working in it,else who wanted to create their website start working on their website, but when any problem arises to them they expect help from the seniors but their seniors won’t help them (I’m always present to help you) this is a bitter but truth, and this is the biggest reason people call the <b>Corporate is fraud</b> <b>company</b>, but point to pay the attention again is that it’s just a hurdle and if seniors not helping someone and they stop working then it’s neither the senior’s nor company’s it’s your fault. Because problem arise to everyone it doesn’t mean you can not proceed after that, there are so many examples who did it all without the help of any seniors, I’m also one of them.
+
+&nbsp;
+
+<span style="font-size: x-large;"><b>&#8220;</b></span><span style="color: #003366;"><em>If you need any kind of help in making website, increasing ranking, traffic, getting Adsense, earnings you can contact me any time, my contact details are given in Author Box in sidebar. If you want to create or develop a website only and not interested in Networking part then also you can contact me for the solution of your problem</em></span>.
+
+&nbsp;
+<h2><span style="font-family: georgia;"><b>Reviews About Corporate Society
+</b></span></h2>
+Many people call it fraud, fake blaw&#8230;blaww&#8230; blaw&#8230;. and many people worship corporate, let me share some reviews from the person who are/were the part of Corporate Infocom Private Limited.
+<table>
+<tbody>
+<tr>
+<td>
+
+[caption id=&#8221;&#8221; align=&#8221;aligncenter&#8221; width=&#8221;112&#8221;]<img class=" " alt="" src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash4/c28.41.351.351/s160x160/189475_1332396287789_2140244_n.jpg" width="112" height="112" /> <strong>Chandan Sanwal</strong>[/caption]
+
+&nbsp;</td>
+<td>If your senior/upline is Good to you then CIPL is good for you, If not then you will be frustrated after some time and say it is fraud. But actually it is not. People working is CIPL make it fraud by not supporting their downline. Chandan Sanwal</td>
+</tr>
+<tr>
+<td style="text-align: left;">
+
+[caption id=&#8221;&#8221; align=&#8221;aligncenter&#8221; width=&#8221;112&#8221;]<img alt="" src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-frc3/c33.11.208.208/s160x160/292277_2950380654200_127344408_n.jpg" width="112" height="112" /> <strong>Jatin Malik</strong>[/caption]
+
+&nbsp;</td>
+<td style="text-align: left;">Failure will never blame himself for his failure , he will always blame the platform he opted..but from my according every platform is best , its just how you perform out there..by this reason people who blame the platform to be as FRAUD and having belief that somewhere it was the platform only which was responsible for their failure , i personally call those people A BIG FRAUD for being FRAUD to themselves and to those whom they are saying the platform they opted was FRAUD&#8230;in the end THANX Corporate Society for providing me those things which are priceless to me..love u always..</td>
+</tr>
+<tr>
+<td>
+
+[caption id=&#8221;&#8221; align=&#8221;alignnone&#8221; width=&#8221;112&#8221;]<img alt="" src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash3/c50.50.621.621/s160x160/558613_4140712009991_2081007018_n.jpg" width="112" height="112" /> <strong>Vinod Krishna</strong>[/caption]</td>
+<td>It is the duty of the upline to train their downline, this lack of training is the main reason why some people become negative. But there are also some people who expect a lot to earn but never atleast try to work. Such people are also one of the reason for such rumors.
+But it is a proved fact that corporate has changed the lifestyle of many people..</td>
+</tr>
+</tbody>
+</table>
+&nbsp;
+
+<b>Conclusion </b>: Corporate Society is not a fraud company, it’s all crap ! many people living their life happily on internet world because of Corporate Society, well yes it’s true that many people leaved and leaving corporate society and they doing their own business after leaving corporate but it’s also a fact that whatever they are today because of corporate Society, they are thinking they are king but they may forgot every king was once a child, in short if there would be <strong>no corporate Society</strong> then there would be no&#8230;&#8230;&#8230;&#8230;&#8230; , no&#8230;&#8230;&#8230;&#8230;&#8230; and even no&#8230;&#8230;&#8230;&#8230;&#8230;
+
+Read <a href="http://inhindi.harkuchh.com/corporate-society-fraud-hai-ya-nhi" target="_blank"><em><strong>this post in Hindi</strong></em></a>.
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Why Your Comments not Getting Approved]]></title>
@@ -400,6 +550,668 @@ Don&#8217;t miss : <a href="http://harkuchh.com/what-is-subdomain-how-to-create-
   </entry>
   
   <entry>
+    <title type="html"><![CDATA[Free Online Advertising Sites]]></title>
+    <link href="http://harkuchh.com/free-online-advertising-sites/"/>
+    <updated>2013-06-22T00:00:00+05:30</updated>
+    <id>http://harkuchh.com/free-online-advertising-sites</id>
+    <content type="html"><![CDATA[You must have Heard and know about <b>free advertising sites</b>, <b>free classifieds sites</b>, <b>free ad posting sites</b> or <b>free online advertising sites</b>, if you don’t then let me tell you <b>free ads sites</b> let you post <b>free classified ads</b> for any thing you wants to sell, and by following this <b>free online advertising</b> or so called <b>free online classifieds</b> strategy you won’t need to do any hard effort to sell your goods, you can sell anything you want to sell by sitting home through these <b>free ads online </b>sites.<!--more-->
+
+<a href="http://harkuchh.com/free-online-advertising-sites/free-ad-sites-post-free-classified-ads-local-and-global-online-free-adspic/" rel="attachment wp-att-8559"><img class="aligncenter size-large wp-image-8559" alt="free ad sites Post free classified Ads local and Global online free AdsPic" src="http://harkuchh.com/wp-content/uploads/2013/03/free-ad-sites-Post-free-classified-Ads-local-and-Global-online-free-AdsPic-580x209.png" width="580" height="209" /></a>
+
+In present era online advertising has become very popular, economical and instant traffic generator for small businesses, bloggers, online marketers, advertisers etc. This business is becoming wider day by day because <b>free</b> <b>classified ads on online advertising site</b>s allows people to <b>post free ads without registration</b> which save their time, efforts and most important fuel.
+<h2><span style="color: #000000;"><b>Top free classified ad sites</b></span></h2>
+Here is the list of top and most popular free classified ad sites, while making this list every major factor like Alexa<b> </b>rankings and Google Page rankings were taken to make the best list and along with them some key factors were also considered in making of this <b>classified Ad</b> sites list such as usability, popularity and most important their traceability in major search engines. So this top<b> online </b>ad<b> posting sites</b> list contains mostly names of only those free ad sites that are very popular among online consumers, traffic driven by huge search engine traffic, and enriched with good content and resources of features and the best ways fecilitate to advertisers.
+
+<i>Post free classifieds on these best classified sites and get huge response since these are <b>global free classified ads sites!</b> </i>
+<h2><span style="color: #000000;"><strong>Top 100 free best classifieds sites list</strong></span></h2>
+<table style="width: 645px;" border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="34"><b>Top 10</b></td>
+<td valign="top" width="83"><b>Free Ad posting Sites</b></td>
+<td valign="top" width="114"><b>Post Free Ads</b></td>
+<td valign="top" width="144"><b>Classifieds Ad Sites Description: what to post for.</b></td>
+<td valign="top" width="270"><b>Popularity Region/Country</b></td>
+</tr>
+<tr>
+<td valign="top" width="34"><b>1.</b></td>
+<td valign="top" width="83"><b>Craigslist</b></td>
+<td valign="top" width="114"><a href="http://www.craigslist.org/" target="_blank">craigslist.org</a></td>
+<td valign="top" width="144"><i>craigslist</i> provides local classifieds and forums for jobs, housing, for sale, personals, services, local community, and events.</td>
+<td valign="top" width="270"><b>Global </b>Appeal.
+Classifieds according to Countries and cities.
+You can post free ads on Craigslist any where worldwide!</td>
+</tr>
+<tr>
+<td valign="top" width="34"><b>2.</b></td>
+<td valign="top" width="83"><b>Quikr</b></td>
+<td valign="top" width="114"><a href="http://quikr.com/" target="_blank">Quikr.com</a></td>
+<td valign="top" width="144"><i>Quikr</i> Classifieds Post Free Classified Ads online, Search Free Classifieds Ads for Mobiles, Cars, Jobs, Apartments, Pets, Courses, Laptops, Computers, Travel<b>-</b>
+<b>Post Buy,sell ads for free.</b></td>
+<td valign="top" width="270"><b>Local</b> + <b>Global presence.One of the best top 10 classified sites.</b>
+Mainly Quikr is an Indian classified site, but it also has an option for “International” ad posting.Very High Alexa and Google page ranking. Quikr is free and very effective.</td>
+</tr>
+<tr>
+<td valign="top" width="34"><b>3.</b></td>
+<td valign="top" width="83"><b>Gumtree</b></td>
+<td valign="top" width="114"><a href="http://gumtree.com/" target="_blank">Gumtree.com</a></td>
+<td valign="top" width="144">Free Classifieds in United Kingdom - Join United Kingdom&#8217;s online community - free classifieds, jobs, property, cars, flatshare and more free classifieds in ..</td>
+<td valign="top" width="270"><b>Local + Global.
+</b>Gumtree is mainly popular in London, though it has a wide range of users across many European, UK and Asian Countries !</td>
+</tr>
+<tr>
+<td valign="top" width="34"><b>4.</b></td>
+<td valign="top" width="83"><b>ClickIndia</b></td>
+<td valign="top" width="114"><a href="http://clickindia.com/" target="_blank">ClickIndia.com</a></td>
+<td valign="top" width="144"><i>Click India</i> Classifieds - A Site To Post Free Buy Sell Indian Classified Ads Online. Search Classified Ads For Jobs, Find Real Estate Properties On Sale, Sell <b>&#8230;</b></td>
+<td valign="top" width="270"><b>Local +Global.
+</b>ClickIndia is one of the most popular free ad posting classifieds sites in India.But this also has an option for “International” ad posting.</td>
+</tr>
+<tr>
+<td valign="top" width="34"><b>5.</b></td>
+<td valign="top" width="83"><b>Olx</b></td>
+<td valign="top" width="114"><a href="http://olx.com/" target="_blank">OLX.com</a></td>
+<td valign="top" width="144">Free Local <i>OLX</i> Classifieds. Search and post classified ads in For Sale, Cars, Jobs, Apartments, Housing, Pets, Personals, and other categories.</td>
+<td valign="top" width="270"><b>Global.
+</b>You can easily post free ads through OLX. Very easy and effective ad posting site. very good Goole page rank and high Alexa rank.<b> </b></td>
+</tr>
+<tr>
+<td valign="top" width="34"><b>6.</b></td>
+<td valign="top" width="83"><b>eBayclassifieds</b></td>
+<td valign="top" width="114"><a href="http://www.ebayclassifieds.com/" target="_blank">ebayclassifieds</a></td>
+<td valign="top" width="144">Use free <i>eBay Classifieds</i> (Kijiji) to buy &amp; sell locally all over the United States. Only Local Ads Near You! consumer, digital products buy, sell.</td>
+<td valign="top" width="270"><b>Local
+</b>ebayclassifieds is mainly popular in US. Its ideal for local neighborhood ads, Buy-sell ads.  personal ads, pets ads, and all the types of household items items.</td>
+</tr>
+<tr>
+<td valign="top" width="34"><b>7.</b></td>
+<td valign="top" width="83"><b>Adsglobe</b></td>
+<td valign="top" width="114"><a href="http://adsglobe.com/" target="_blank">adsglobe.com</a></td>
+<td valign="top" width="144">Post free ads or online classifieds in jobs, real estate, rentals, autos, items for sale ads&#8230; Most effective online classifieds advertising for consumers and <b>&#8230;</b></td>
+<td valign="top" width="270"><b>Global
+</b>Adsglobe is a very popular free classifieds site with lots of categories available to you for ad posting.
+Adsglobe has a goog Google page rank and high Alexa rank.</td>
+</tr>
+<tr>
+<td valign="top" width="34"><b>8.</b></td>
+<td valign="top" width="83"><b>Oodle</b></td>
+<td valign="top" width="114"><a href="http://oodle.com/" target="_blank">Oodle.com</a></td>
+<td valign="top" width="144">Post free ads and search millions of free <i>classifieds</i> ads for used cars,jobs, apartments, real estate, pets, tickets and more.</td>
+<td valign="top" width="270"><b>Global.
+</b>Oodle is purely a genius and brilliant popular classifieds site since it post your ads on many social networking sites. Unique ad posting site this way!</td>
+</tr>
+<tr>
+<td valign="top" width="34"><b>9.</b></td>
+<td valign="top" width="83"><b>Sell</b></td>
+<td valign="top" width="114"><a href="http://sell.com/" target="_blank">sell.com</a></td>
+<td valign="top" width="144"><i>Sell.com</i> Marketplace, merchant advertising and e-commerce solutions. Buy <i>sell</i> trade: pets, autos, homes, computers, and fashion for <i>sale</i> by owner.ecommerce. solutions.</td>
+<td valign="top" width="270"><b>Global.
+</b>Sell.com is a very popular and huge marketplace for online advertisement of many types including, buy, sell,merchant advertisement,</td>
+</tr>
+<tr>
+<td valign="top" width="34"><b>10.</b></td>
+<td valign="top" width="83"><b>Classifiedads</b></td>
+<td valign="top" width="114"><a href="http://classifiedads.com/" target="_blank">classifiedads</a></td>
+<td valign="top" width="144">Free <i>classified ads</i> for cars, jobs, real estate, and everything else. Find what you are looking for or create your own ad for free!</td>
+<td valign="top" width="270"><b>Global.
+</b>Classifiedads.com is a very famous, popular and big market place for online ad posting, advertising of many types.</td>
+</tr>
+</tbody>
+</table>
+&nbsp;
+<h2><span style="color: #000000;"><strong> Top 50 free best classifieds sites list (11-50)</strong></span></h2>
+<table style="width: 468px;" border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="65"><b>Top 50</b></td>
+<td valign="top" width="157"><b>Online Free Ad Posting Sites List.</b></td>
+<td valign="top" width="86"><b>Top 50</b></td>
+<td valign="top" width="207"><b>Online Free Ad Posting Sites List.</b></td>
+</tr>
+<tr>
+<td valign="top" width="65">11</td>
+<td valign="top" width="157"><a href="http://www.click.in/" target="_blank"><b>Click.in</b><b>-Real estate,Property,Jobs,Education ads</b></a></td>
+<td valign="top" width="86">31</td>
+<td valign="top" width="207"><a href="http://classifieds.ivarta.com/" target="_blank"><b>Ivarta classifieds</b><b>-IT jobs,jobs</b></a></td>
+</tr>
+<tr>
+<td valign="top" width="65">12</td>
+<td valign="top" width="157"><a href="http://www.indialist.com/" target="_blank"><b>Indialist</b><b>-Real Estate,Property,Pets, Automobile ads</b></a></td>
+<td valign="top" width="86">32</td>
+<td valign="top" width="207"><a href="http://www.digitalbhoomi.in/" target="_blank"><b>Digitalbhoomi</b><b>-digital ads-jobs</b></a></td>
+</tr>
+<tr>
+<td valign="top" width="65">13</td>
+<td valign="top" width="157"><a href="http://www.locanto.in/" target="_blank"><b>Locanto</b><b>-Ads for Jobs, Housing, and Dating</b></a></td>
+<td valign="top" width="86">33</td>
+<td valign="top" width="207"><a href="http://ocala4sale.com/" target="_blank"><b>Ocala4sale.com</b><b> -sell ads-local business,animals,transportation,real estate ads</b></a></td>
+</tr>
+<tr>
+<td valign="top" width="65">14</td>
+<td valign="top" width="157"><a href="http://global-free-classified-ads.com/" target="_blank"><b>Global Free Classified</b><b> Ads-Sale,Real Estate,Jobs</b></a></td>
+<td valign="top" width="86">34</td>
+<td valign="top" width="207"><a href="http://www.bestadboard.com/" target="_blank"><b>Best ad board</b><b>-ads for business,services</b></a></td>
+</tr>
+<tr>
+<td valign="top" width="65">15</td>
+<td valign="top" width="157"><a href="http://www.classifiedslive.com/" target="_blank"><b>Classifieds live</b><b>-Buy,salee, iPod, DVD</b></a></td>
+<td valign="top" width="86">35</td>
+<td valign="top" width="207"><a href="http://www.traderonline.com/" target="_blank"><b>Traderonline.com</b><b>- trade ads, equipment trader,commercial truck trading ads</b></a></td>
+</tr>
+<tr>
+<td valign="top" width="65">16</td>
+<td valign="top" width="157"><a href="http://localads.rediff.com/" target="_blank"><b>Rediff Classifieds</b><b>-Auto,travel,business,buy,sell</b></a></td>
+<td valign="top" width="86">36</td>
+<td valign="top" width="207"><b>C</b><a href="http://www.claz.org/" target="_blank"><b>laz.org</b><b>-search millions of ads at a single place listed from top 10 classifieds</b></a></td>
+</tr>
+<tr>
+<td valign="top" width="65">17</td>
+<td valign="top" width="157"><a href="http://classifieds.bechna.com/" target="_blank"><b>Bechna</b><b>-For sell, housing, jobs,community,education ads </b></a></td>
+<td valign="top" width="86">37</td>
+<td valign="top" width="207"><a href="http://classifieds.propertykhazana.com/" target="_blank"><b>Property khazana</b><b>&#8211;free online ads listings for property,real estate,rentals </b></a></td>
+</tr>
+<tr>
+<td valign="top" width="65">18</td>
+<td valign="top" width="157"><a href="http://www.khojle.in/classifieds/" target="_blank"><b>Khojle</b><b>-cars,bikes,jobs,property, matrimonial free classified ads</b></a></td>
+<td valign="top" width="86">38</td>
+<td valign="top" width="207"><a href="http://www.meramaal.com/" target="_blank"><b>Meramaal </b><b>- ad listing for automobiles and vehicles,for sale,holiday</b></a></td>
+</tr>
+<tr>
+<td valign="top" width="65">19</td>
+<td valign="top" width="157"><a href="http://www.adpost.com/in/" target="_blank"><b>Adpost</b><b>-vehicals,home and office,personals,employment </b></a></td>
+<td valign="top" width="86">39</td>
+<td valign="top" width="207"><a href="http://www.indnav.com/Classifieds" target="_blank"><b>Indnav</b><b> classified listings for lease, buy,housing projects, plot/office spaces</b></a></td>
+</tr>
+<tr>
+<td valign="top" width="65">20</td>
+<td valign="top" width="157"><a href="http://www.adoos.in/" target="_blank"><b>Adoos</b><b>-vehicles,jobs,property,sale,services ads</b></a></td>
+<td valign="top" width="86">40</td>
+<td valign="top" width="207"><a href="http://www.classifiedsden.com/" target="_blank"><b>Classifieds den</b><b>-free ad site for automobile,jobs</b></a></td>
+</tr>
+<tr>
+<td valign="top" width="65">21</td>
+<td valign="top" width="157"><a href="http://www.vivastreet.co.in/" target="_blank"><b>Vivastreet</b><b>-post free classified ads for vehicles,jobs,pets,buy,sell</b></a></td>
+<td valign="top" width="86">41</td>
+<td valign="top" width="207"><a href="http://zopdy.com/" target="_blank"><b>Zopdy</b><b>- free classified ads for sale,jobs,community,housing and real estate,vehicles,services</b></a></td>
+</tr>
+<tr>
+<td valign="top" width="65">22</td>
+<td valign="top" width="157"><a href="http://classifieds.webindia123.com/classifieds/asp/index.asp" target="_blank"><b>Webindia123-</b><b>yellow pages,movies,automobile,property ads</b></a></td>
+<td valign="top" width="86">42</td>
+<td valign="top" width="207"><a href="http://adlandpro.com/" target="_blank"><b>Adlandpro.com</b><b> -ad listings for sale,jobs,automotives,business</b></a></td>
+</tr>
+<tr>
+<td valign="top" width="65">23</td>
+<td valign="top" width="157"><a href="http://www.inetgiant.com/" target="_blank"><b>Inetgiant.com</b><b>-vehicles,business,pets</b></a></td>
+<td valign="top" width="86">43</td>
+<td valign="top" width="207"><a href="http://www.thisismyindia.com/free_ads/" target="_blank"><b>Thisismy india ads</b><b>-real estate,travel,buy,sell,used cars</b></a></td>
+</tr>
+<tr>
+<td valign="top" width="65">24</td>
+<td valign="top" width="157"><a href="http://www.vast.com/" target="_blank"><b>Vast.com</b><b>-free classified ads for cars,auto,rentals</b></a></td>
+<td valign="top" width="86">44</td>
+<td valign="top" width="207"><a href="http://classifieds.sulekha.com/" target="_blank"><b>Sulekha</b><b> free classified listings-buy,sell,cars,jobs,property</b></a></td>
+</tr>
+<tr>
+<td valign="top" width="65">25</td>
+<td valign="top" width="157"><a href="http://www.yakaz.com/" target="_blank"><b>Yakaz.com</b><b>-local ads for sale,rent,services,jobs</b></a></td>
+<td valign="top" width="86">45</td>
+<td valign="top" width="207"><a href="http://planetghar.com/" target="_blank"><b>Planet ghar</b><b>-home,apartments,sale,rental neighborhood ads</b></a></td>
+</tr>
+<tr>
+<td valign="top" width="65">26</td>
+<td valign="top" width="157"><a href="http://www.pennysaverusa.com/classifieds/usa/index.html" target="_blank"><b>Pennysaverusa.com</b><b>-classified ads for house/apartments</b></a></td>
+<td valign="top" width="86">46</td>
+<td valign="top" width="207"><a href="http://www.indiagrid.com/cgi-bin/list.cgi?dmmy=ok&amp;cat=&amp;subcatid=" target="_blank"><b>Indiagrid online ads</b><b>-domestic services,matrimonials,music and entertainment</b></a></td>
+</tr>
+<tr>
+<td valign="top" width="65">27</td>
+<td valign="top" width="157"><a href="http://daype.com/" target="_blank"><b>Daype.com</b><b>-classifieds for electronics,autos,housing</b></a></td>
+<td valign="top" width="86">47</td>
+<td valign="top" width="207"><a href="http://www.salespider.com/online-classifieds-free-advertising" target="_blank"><b>Salespider</b><b>-a market place to list your company,business, and post jobs</b></a></td>
+</tr>
+<tr>
+<td valign="top" width="65">28</td>
+<td valign="top" width="157"><a href="http://ziply.com/" target="_blank"><b>Ziply.com</b><b>-post free local classified ads for cars,jobs,services</b></a></td>
+<td valign="top" width="86">48</td>
+<td valign="top" width="207"><a href="http://www.free-for-recruiters.com/" target="_blank"><b>Free for recruiters</b><b>-post free jobs ads</b></a></td>
+</tr>
+<tr>
+<td valign="top" width="65">29</td>
+<td valign="top" width="157"><a href="http://www.adeex.in/" target="_blank"><b>Adeex</b><b>-post free ads for services,property,rental,jobs,business</b></a></td>
+<td valign="top" width="86">49</td>
+<td valign="top" width="207"><a href="http://www.domesticsale.com/" target="_blank"><b>Domestic sale.com</b><b>-free classified ads for auto,real estate,jobs,free</b></a></td>
+</tr>
+<tr>
+<td valign="top" width="65">30</td>
+<td valign="top" width="157"><a href="http://www.whereincity.com/classifieds/" target="_blank"><b>Whereincity</b><b> classified ads for automobiles,pets,electronics</b></a></td>
+<td valign="top" width="86">50</td>
+<td valign="top" width="207"><a href="http://www.adsmantra.com/" target="_blank"><b>Adsmantra</b><b>-auto,online jobs</b></a></td>
+</tr>
+</tbody>
+</table>
+&nbsp;
+<h2><span style="color: #000000;">Top 100 free best classifieds sites list (51-100) </span></h2>
+&nbsp;
+<table style="width: 476px;" border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="50"><b>Top 100</b></td>
+<td valign="top" width="170"><b>Online Free Ad Posting Sites List.</b></td>
+<td valign="top" width="62"><b>Top 100</b></td>
+<td valign="top" width="195"><b>Online Free Ad Posting Sites List.</b></td>
+</tr>
+<tr>
+<td valign="top" width="50">51</td>
+<td valign="top" width="170"><a href="http://epage.com/" target="_blank"><b>epage.com</b></a></td>
+<td valign="top" width="62">52</td>
+<td valign="top" width="195"><a href="http://www.freeadscity.com/" target="_blank"><b>freeadscity.com</b></a></td>
+</tr>
+<tr>
+<td valign="top" width="50">53</td>
+<td valign="top" width="170"><a href="http://www.recycler.com/" target="_blank"><b>recycler.com</b></a></td>
+<td valign="top" width="62">54</td>
+<td valign="top" width="195"><a href="http://www.chooseyouritem.com/" target="_blank"><b>chooseyouritem</b></a></td>
+</tr>
+<tr>
+<td valign="top" width="50">55</td>
+<td valign="top" width="170"><a href="http://www.webcosmo.com/" target="_blank"><b>webcosmo.com</b></a></td>
+<td valign="top" width="62">56</td>
+<td valign="top" width="195"><a href="http://rajb2b.com/classified/" target="_blank"><b>Rajb2b</b></a></td>
+</tr>
+<tr>
+<td valign="top" width="50">57</td>
+<td valign="top" width="170"><a href="http://www.hoobly.com/" target="_blank"><b>hoobly.com</b></a></td>
+<td valign="top" width="62">58</td>
+<td valign="top" width="195"><a href="http://www.indyapulse.com/Classifieds/" target="_blank"><b>Indyapulse</b></a></td>
+</tr>
+<tr>
+<td valign="top" width="50">59</td>
+<td valign="top" width="170"><a href="http://www.freeadlists.com/" target="_blank"><b>freeadlists.com</b></a></td>
+<td valign="top" width="62">60</td>
+<td valign="top" width="195"><a href="http://www.bupio.com/" target="_blank"><b>Bupio</b></a></td>
+</tr>
+<tr>
+<td valign="top" width="50">61</td>
+<td valign="top" width="170"><a href="http://www.bestwayclassifieds.com/" target="_blank"><b>bestwayclassifieds</b></a></td>
+<td valign="top" width="62">62</td>
+<td valign="top" width="195"><a href="http://wantedwants.com/" target="_blank"><b>wantedwants.com</b></a></td>
+</tr>
+<tr>
+<td valign="top" width="50">63</td>
+<td valign="top" width="170"><a href="http://www.webclassifieds.us/" target="_blank"><b>webclassifieds.us</b></a></td>
+<td valign="top" width="62">64</td>
+<td valign="top" width="195"><a href="http://www.dragg.in/classifieds/" target="_blank"><b>Dragg</b></a></td>
+</tr>
+<tr>
+<td valign="top" width="50">65</td>
+<td valign="top" width="170"><a href="http://www.classifieds4me.com/" target="_blank"><b>Classifieds4me</b></a></td>
+<td valign="top" width="62">66</td>
+<td valign="top" width="195"><a href="http://e-classifieds.net/" target="_blank"><b>E-classifieds.net</b></a></td>
+</tr>
+<tr>
+<td valign="top" width="50">67</td>
+<td valign="top" width="170"><a href="http://www.boostime.in/" target="_blank"><b>Boostim</b></a></td>
+<td valign="top" width="62">68</td>
+<td valign="top" width="195"><a href="http://www.buysellcommunity.com/" target="_blank"><b>buysellcommunity.com</b></a></td>
+</tr>
+<tr>
+<td valign="top" width="50">69</td>
+<td valign="top" width="170"><a href="http://classifieds.co.uk/" target="_blank"><b>Classifieds.co.uk</b></a></td>
+<td valign="top" width="62">70</td>
+<td valign="top" width="195"><a href="http://businesslist.com/post-classified-ad/" target="_blank"><b>businesslist</b></a></td>
+</tr>
+<tr>
+<td valign="top" width="50">71</td>
+<td valign="top" width="170"><a href="http://www.askht.com/" target="_blank"><b>Askht</b></a></td>
+<td valign="top" width="62">72</td>
+<td valign="top" width="195"><a href="http://google.com/base" target="_blank"><b>Google.com/base</b></a></td>
+</tr>
+<tr>
+<td valign="top" width="50">73</td>
+<td valign="top" width="170"><a href="http://classifieds.yahoo.com/" target="_blank"><b>Classifieds.yahoo.com</b></a></td>
+<td valign="top" width="62">74</td>
+<td valign="top" width="195"><a href="http://kaboo.com/" target="_blank"><b>Kaboo.com</b></a></td>
+</tr>
+<tr>
+<td valign="top" width="50">75</td>
+<td valign="top" width="170"><a href="http://www.bizmartindia.com/index.php" target="_blank"><b>Bizmartindia</b></a></td>
+<td valign="top" width="62">76</td>
+<td valign="top" width="195"><a href="http://www.bharatpatal.org/indian-classifieds.php" target="_blank"><b>Bharatpatal</b></a></td>
+</tr>
+<tr>
+<td valign="top" width="50">77</td>
+<td valign="top" width="170"><a href="http://postyouradforfree.com/" target="_blank"><b>Postyouradforfree.com</b></a></td>
+<td valign="top" width="62">78</td>
+<td valign="top" width="195"><a href="http://ww1.highlandclassifieds.com/" target="_blank"><b>Highlandclassifieds</b></a></td>
+</tr>
+<tr>
+<td valign="top" width="50">79</td>
+<td valign="top" width="170"><a href="http://www.loyalmart.com/" target="_blank"><b>Loyalmart</b></a></td>
+<td valign="top" width="62">80</td>
+<td valign="top" width="195"><a href="http://listings.mid-day.com/" target="_blank"><b>Mid-day</b></a></td>
+</tr>
+<tr>
+<td valign="top" width="50">81</td>
+<td valign="top" width="170"><a href="http://bestadforum.com/" target="_blank"><b>Bestadforum.com</b></a></td>
+<td valign="top" width="62">82</td>
+<td valign="top" width="195"><a href="http://kijiji.com/" target="_blank"><b>Kijiji.com</b></a></td>
+</tr>
+<tr>
+<td valign="top" width="50">83</td>
+<td valign="top" width="170"><a href="http://citynews.com/" target="_blank"><b>Citynews.com</b></a></td>
+<td valign="top" width="62">84</td>
+<td valign="top" width="195"><a href="http://livedeal.com/" target="_blank"><b>Livedeal.com</b></a></td>
+</tr>
+<tr>
+<td valign="top" width="50">85</td>
+<td valign="top" width="170"><a href="http://selloutads.com/" target="_blank"><b>Selloutads.com</b></a></td>
+<td valign="top" width="62">86</td>
+<td valign="top" width="195"><a href="http://ozfreeonline.com/" target="_blank"><b>Ozfreeonline.com</b></a></td>
+</tr>
+<tr>
+<td valign="top" width="50">87</td>
+<td valign="top" width="170"><a href="http://worldslist.com/" target="_blank"><b>Worldslist.com</b></a></td>
+<td valign="top" width="62">88</td>
+<td valign="top" width="195"><a href="http://www.kugli.com/" target="_blank"><b>Kugli</b></a></td>
+</tr>
+<tr>
+<td valign="top" width="50">89</td>
+<td valign="top" width="170"><a href="http://subblurbs.com/" target="_blank"><b>Subblurbs.com</b></a></td>
+<td valign="top" width="62">90</td>
+<td valign="top" width="195"><a href="http://www.droik.com/" target="_blank"><b>Droik</b></a></td>
+</tr>
+<tr>
+<td valign="top" width="50">91</td>
+<td valign="top" width="170"><a href="http://kaboo.org/" target="_blank"><b>Kaboo.org</b></a></td>
+<td valign="top" width="62">92</td>
+<td valign="top" width="195"><a href="http://isell.com/" target="_blank"><b>Isell.com</b></a></td>
+</tr>
+<tr>
+<td valign="top" width="50">93</td>
+<td valign="top" width="170"><a href="http://iclads.com/" target="_blank"><b>Iclads.com</b></a></td>
+<td valign="top" width="62">94</td>
+<td valign="top" width="195"><a href="http://itsmymarket.com/" target="_blank"><b>Itsmymarket.com</b></a></td>
+</tr>
+<tr>
+<td valign="top" width="50">95</td>
+<td valign="top" width="170"><a href="http://postaroo.com/" target="_blank"><b>Postaroo.com</b></a></td>
+<td valign="top" width="62">96</td>
+<td valign="top" width="195"><a href="http://marketplace.sfgate.com/" target="_blank"><b>Marketplace.sfgate.com</b></a></td>
+</tr>
+<tr>
+<td valign="top" width="50">97</td>
+<td valign="top" width="170"><a href="http://london.kijiji.ca/" target="_blank"><b>London.kijiji.ca</b></a></td>
+<td valign="top" width="62">98</td>
+<td valign="top" width="195"><a href="http://freeads.biztop.com/" target="_blank"><b>Freeads.biztop.com</b></a></td>
+</tr>
+<tr>
+<td valign="top" width="50">99</td>
+<td valign="top" width="170"><a href="http://freeadvertisingzone.com/" target="_blank"><b>Freeadvertisingzone</b></a></td>
+<td valign="top" width="62">100</td>
+<td valign="top" width="195"><a href="http://economist.com/classifieds" target="_blank"><b>Economist.com/classifieds</b></a></td>
+</tr>
+<tr>
+<td valign="top" width="50">101</td>
+<td valign="top" width="170"><a href="http://freeadvertisingexchange.com/" target="_blank"><b>Freeadvertisingexchang</b></a></td>
+<td valign="top" width="62">102</td>
+<td valign="top" width="195"><a href="http://ablewise.com/" target="_blank"><b>Ablewise</b></a></td>
+</tr>
+<tr>
+<td valign="top" width="50">103</td>
+<td valign="top" width="170"><a href="http://friday-ad.co.uk/" target="_blank"><b>Friday-ad</b></a></td>
+<td valign="top" width="62">104</td>
+<td valign="top" width="195"><a href="http://localgrunts.com/" target="_blank"><b>Localgrunts</b></a></td>
+</tr>
+<tr>
+<td valign="top" width="50">105</td>
+<td valign="top" width="170"><a href="http://adquest3d.com/" target="_blank"><b>Adquest3d</b></a></td>
+<td valign="top" width="62">106</td>
+<td valign="top" width="195"><a href="http://caklassifieds.com/" target="_blank"><b>Caklassifieds</b></a></td>
+</tr>
+<tr>
+<td valign="top" width="50">107</td>
+<td valign="top" width="170"><a href="http://davisstraub.com/" target="_blank"><b>Davisstraub</b></a></td>
+<td valign="top" width="62">108</td>
+<td valign="top" width="195"><a href="http://classifieds.co.uk/" target="_blank"><b>Classifieds.co.uk</b></a></td>
+</tr>
+<tr>
+<td valign="top" width="50">109</td>
+<td valign="top" width="170"><a href="http://classifiedscrossing.com/" target="_blank"><b>Classifiedscrossing</b></a></td>
+<td valign="top" width="62">110</td>
+<td valign="top" width="195"><a href="http://expo.live.com/" target="_blank"><b>Expo.live.com</b></a></td>
+</tr>
+</tbody>
+</table>
+&nbsp;
+
+This way you get to know which advertisers site to be seen how much priority and what is true. On many of these websites, you can directly post free ads, no sign up or registration, while some require a sign, or register for free ads. If you post free ads on a daily basis, then you need to open a free account at these free ad sites.
+
+<b>Classifieds sites</b> has become one of the must have marketing-weapons among internet marketing professionals. Number of <b>free advertising sites online </b>increasing everyday which offers more options to post <b>free ads online. </b>People using it as a major tool as <b>free business advertising</b>.
+
+&nbsp;
+<h1><span style="color: #000000;"><strong>Free ad posting sites in India..</strong></span></h1>
+<p align="center"><b><i>If you happened to post free ads on several classified websites then Signup and </i></b><b><i>registration process could be very annoying and cumbersome-but if 25+ good classifieds websites are enough for your ad posting project, then this list of 25+ free classified ad posting sites is surely meant to help you stay cool ;)</i></b></p>
+&nbsp;
+
+<i>Top list of free classifieds ad posting directory websites without signup and registration required classified Sites-no signup..</i>
+<h2><span style="color: #000000;"><strong>list of top free classified sites in India&#8230;</strong></span></h2>
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td colspan="2" width="20"> No.</td>
+<td>Network</td>
+<td> Classified websites</td>
+<td></td>
+<td>Area</td>
+</tr>
+<tr>
+<td width="1">.</td>
+<td width="19">1</td>
+<td width="119">Craigslist</td>
+<td width="389"><a href="http://www.craigslist.org/" target="_blank">http://www.craigslist.org/</a></td>
+<td width="52">Link allowed</td>
+<td width="44">Global</td>
+</tr>
+<tr>
+<td width="1">.</td>
+<td width="19">2</td>
+<td width="119">ClickIndia</td>
+<td width="389"><a href="http://clickindia.com/" target="_blank">http://clickindia.com/</a></td>
+<td width="52">Link allowed</td>
+<td width="44">Local</td>
+</tr>
+<tr>
+<td width="1">.</td>
+<td width="19">3</td>
+<td width="119">OLX</td>
+<td width="389"><a href="http://olx.com/" target="_blank">http://olx.com/</a></td>
+<td width="52"></td>
+<td width="44">Global</td>
+</tr>
+<tr>
+<td width="1">.</td>
+<td width="19">4</td>
+<td width="119">FreeAdlists</td>
+<td width="389"><a href="http://www.freeadlists.com/" target="_blank">http://www.freeadlists.com/</a></td>
+<td width="52"></td>
+<td width="44">global</td>
+</tr>
+<tr>
+<td width="1">.</td>
+<td width="19">5</td>
+<td width="119">Kugli</td>
+<td width="389"><a href="http://www.kugli.com/" target="_blank">http://www.kugli.com/</a></td>
+<td width="52">Link allowed</td>
+<td width="44">global</td>
+</tr>
+<tr>
+<td width="1">.</td>
+<td width="19">6</td>
+<td width="119">Clickin</td>
+<td width="389"><a href="http://www.click.in/" target="_blank">http://www.click.in/</a></td>
+<td width="52"></td>
+<td width="44">Local</td>
+</tr>
+<tr>
+<td width="1">.</td>
+<td width="19">7</td>
+<td width="119">Quikr</td>
+<td width="389"><a href="http://quikr.com/" target="_blank">http://quikr.com/</a></td>
+<td width="52"></td>
+<td width="44">Local</td>
+</tr>
+<tr>
+<td width="1">.</td>
+<td width="19">8</td>
+<td width="119">Sell</td>
+<td width="389"><a href="http://sell.com/" target="_blank">http://sell.com/</a></td>
+<td width="52"></td>
+<td width="44">Global</td>
+</tr>
+<tr>
+<td width="1">.</td>
+<td width="19">9</td>
+<td width="119">Classifiedads</td>
+<td width="389"><a href="http://classifiedads.com/" target="_blank">http://classifiedads.com/</a></td>
+<td width="52"></td>
+<td width="44">Global</td>
+</tr>
+<tr>
+<td width="1">.</td>
+<td width="19">10</td>
+<td width="119">BackPage</td>
+<td width="389"><a href="http://www.backpage.com/114711210" target="_blank">http://www.backpage.com/114711210</a></td>
+<td width="52">Link allowed</td>
+<td width="44">Global</td>
+</tr>
+<tr>
+<td width="1">.</td>
+<td width="19">11</td>
+<td width="119">Locanto</td>
+<td width="389"><a href="http://www.locanto.in/" target="_blank">http://www.locanto.in/</a></td>
+<td width="52">Link allowed</td>
+<td width="44">Global</td>
+</tr>
+<tr>
+<td width="1">.</td>
+<td width="19">12</td>
+<td width="119">Go For Ads</td>
+<td width="389"><a href="http://www.goforads.com/" target="_blank">http://www.goforads.com/</a></td>
+<td width="52"></td>
+<td width="44">Global</td>
+</tr>
+<tr>
+<td width="1">.</td>
+<td width="19">13</td>
+<td width="119">Bechna</td>
+<td width="389"><a href="http://classifieds.bechna.com/" target="_blank">http://classifieds.bechna.com/</a></td>
+<td width="52"></td>
+<td width="44">Local</td>
+</tr>
+<tr>
+<td width="1">.</td>
+<td width="19">14</td>
+<td width="119">Ivarta</td>
+<td width="389"><a href="http://classifieds.ivarta.com/" target="_blank">http://classifieds.ivarta.com/</a></td>
+<td width="52"></td>
+<td width="44">Local</td>
+</tr>
+<tr>
+<td width="1">.</td>
+<td width="19">15</td>
+<td width="119">Adoos</td>
+<td width="389"><a href="http://www.adoos.in/" target="_blank">http://www.adoos.in/</a></td>
+<td width="52"></td>
+<td width="44">Global</td>
+</tr>
+<tr>
+<td width="1">.</td>
+<td width="19">16</td>
+<td width="119">Viva Street</td>
+<td width="389"><a href="http://www.vivastreet.co.in/" target="_blank">http://www.vivastreet.co.in/</a></td>
+<td width="52"></td>
+<td width="44">Global</td>
+</tr>
+<tr>
+<td width="1">.</td>
+<td width="19">17</td>
+<td width="119">Adeex</td>
+<td width="389"><a href="http://www.adeex.in/" target="_blank">http://www.adeex.in/</a></td>
+<td width="52"></td>
+<td width="44">Global</td>
+</tr>
+<tr>
+<td width="1">.</td>
+<td width="19">18</td>
+<td width="119">Zopdy</td>
+<td width="389"><a href="http://zopdy.com/" target="_blank">http://zopdy.com/</a></td>
+<td width="52"></td>
+<td width="44">Local</td>
+</tr>
+<tr>
+<td width="1">.</td>
+<td width="19">19</td>
+<td width="119">Classifieds4me</td>
+<td width="389"><a href="http://www.classifieds4me.com/" target="_blank">http://www.classifieds4me.com/</a></td>
+<td width="52"></td>
+<td width="44">Local</td>
+</tr>
+<tr>
+<td width="1">.</td>
+<td width="19">20</td>
+<td width="119">Classifieds UK</td>
+<td width="389"><a href="http://my.classifieds.co.uk/placead/1/business_opportunities" target="_blank">http://my.classifieds.co.uk/placead/1/business_opportunities</a></td>
+<td width="52"></td>
+<td width="44">Local</td>
+</tr>
+<tr>
+<td width="1">.</td>
+<td width="19">21</td>
+<td width="119">Yolist</td>
+<td width="389"><a href="http://www.yolist.com" target="_blank">http://www.yolist.com</a></td>
+<td width="52"></td>
+<td width="44">Local</td>
+</tr>
+<tr>
+<td width="1">.</td>
+<td width="19">22</td>
+<td width="119">Free Ads Info</td>
+<td width="389"><a href="http://www.freeadsinfo.com" target="_blank">http://www.freeadsinfo.com</a></td>
+<td width="52">Link allowed</td>
+<td width="44">Global</td>
+</tr>
+<tr>
+<td width="1">.</td>
+<td width="19">23</td>
+<td width="119">Free classifieds world</td>
+<td width="389"><a href="http://www.freeclassifiedsworld.com/" target="_blank">http://www.freeclassifiedsworld.com/</a></td>
+<td width="52">Link allowed</td>
+<td width="44">Local</td>
+</tr>
+<tr>
+<td width="1">.</td>
+<td width="19">24</td>
+<td width="119">Vigyapan.gyaniji</td>
+<td width="389"><a href="http://vigyapan.gyaniji.co.in" target="_blank">http://vigyapan.gyaniji.co.in</a></td>
+<td width="52">Link allowed</td>
+<td width="44">Local</td>
+</tr>
+<tr>
+<td width="1">.</td>
+<td width="19">25</td>
+<td width="119">Krislon.net</td>
+<td width="389"><a href="http://www.krislon.net/c/Default.asp" target="_blank">http://www.krislon.net/c/Default.asp</a></td>
+<td width="52">Link allowed</td>
+<td width="44">Local</td>
+</tr>
+</tbody>
+</table>
+Read <a href="http://inhindi.harkuchh.com/free-online-advertising-sites/" target="_blank"><em><strong>this post in Hindi</strong></em></a>.
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Things to Ensure Before Applying for Google Adsense]]></title>
     <link href="http://harkuchh.com/things-to-ensure-before-applying-for-google-adsense/"/>
     <updated>2013-06-02T00:00:00+05:30</updated>
@@ -688,6 +1500,341 @@ That&#8217;s all, you Done and have fun&#8230; don&#8217;t forget to share.
   </entry>
   
   <entry>
+    <title type="html"><![CDATA[How to get started with linux]]></title>
+    <link href="http://harkuchh.com/how-to-get-started-with-linux/"/>
+    <updated>2013-03-27T00:00:00+05:30</updated>
+    <id>http://harkuchh.com/how-to-get-started-with-linux</id>
+    <content type="html"><![CDATA[<span style="font-family: georgia;">So are you eventually tired of Windows’ crashes and viruses ? I know many who are. It&#8217;s simply not worth to keep using a system which can&#8217;t even function properly (Windows you hearing me ?).<!--more--></span>
+
+<span style="font-family: georgia;">I know you have heard of that Linux thing but never tried. Yes the rumors are true,Linux never crashes, and it never hangs. You don&#8217;t even need to press the refresh again and again to keep it working properly. It&#8217;s awesomeness in its most raw form.</span>
+
+<span style="font-family: georgia;">If you are reading this post you are most likely willing to get out of the jail Microsoft has put you in (and they even ask you to pay for it), or you are standing on the line to make the decision to give Linux a shot. If it&#8217;s the latter case, here are some features of Linux which should give you the final push.</span>
+<h3 dir="ltr" style="padding-left: 30px;"><span style="color: #000000;"><strong><span style="font-family: georgia;">Stable to its core</span></strong></span></h3>
+<span style="font-family: georgia;">As I stated earlier, it&#8217;s a solid system. So solid that sometimes I am forced to wonder that even Ambuja Cement is no match for it. You can leave a computer running for a month in a cyber cafe, and even after the month it will be working as fast as ever, without any need of restart or anything at all. Hell, <strong>most servers run Linux</strong> (that include Google, Yahoo, Facebook and more) and they run literally for years non stop. Try that with your Windows machine ^_^</span>
+<h3 dir="ltr" style="padding-left: 30px;"><span style="color: #000000;"><strong><span style="font-family: georgia;">No viruses ever (god promise)</span></strong></span></h3>
+<span style="font-family: georgia;">I can bet on this. Being a power user (and a proud geek) for about three years, I never ever faced a virus in Linux (never even heard of any). This is one thing you gonna miss the most once you start using (or enjoying I would say) Linux. How come Linux has no viruses? Read our previous post on <em><a href="http://harkuchh.com/why-virus-dont-work-on-linux/">Why virus don&#8217;t work on Linux</a></em>.</span>
+<h3 dir="ltr" style="padding-left: 30px;"><span style="color: #000000;"><strong><span style="font-family: georgia;">No Licenses</span></strong></span></h3>
+Don&#8217;t want to pay for your &#8220;WINDOWS&#8221; anymore? You don&#8217;t need to. Linux is all free. You don&#8217;t need to pay a single paisa for it, and nobody will ask you to do that. You no more need to live in the fear that if you mistakenly update your windows someday, Microsoft will block your computer.
+<span style="font-family: georgia;">No money? No worries, Linux is all free and open source (if you care about that).</span>
+<h3 dir="ltr" style="padding-left: 30px;"><span style="color: #000000;"><strong><span style="font-family: georgia;">Free Free Free</span></strong></span></h3>
+<span style="font-family: georgia;">Almost every software on Linux is free too. Literally each and everyone of these and millions of more.</span>
+<ul>
+	<li dir="ltr"><a href="http://www.libreoffice.org/#/Home" target="_blank" rel="nofollow"><span style="font-family: georgia;">Free Office suite </span></a></li>
+	<li dir="ltr"><span style="font-family: georgia;">Free Photoshop, <a href="http://www.gimp.org/">Gimp</a> we call it</span></li>
+	<li dir="ltr"><a href="http://www.blender.org/"><span style="font-family: georgia;">Free Animation Studio</span></a></li>
+	<li dir="ltr"><a href="http://www.mixxx.org/"><span style="font-family: georgia;">Free DJ Studio </span></a></li>
+</ul>
+<h2 dir="ltr"><span style="font-family: georgia;">Linux is hard to use ?</span></h2>
+<span style="font-family: georgia;">I heard someone saying that Linux is very hard to use. May be it was in 90&#8217;s. But. Wake up Sid, <a href="http://mediacdn.snorgcontent.com/media/catalog/product/g/e/geekisthenew_fullpic_1.jpg">Geek is the new sexy anyway</a>. Although you don&#8217;t need to be a <a href="http://channikhabra.blogspot.in/">geek</a> to use Linux, it&#8217;s too sexy man. Remember what Steve Jobs said? You need to think different. Very well then, Follow my lead.</span>
+<h1 dir="ltr"><span style="font-family: georgia; color: #000000;">First steps in animal territory</span></h1>
+<h3 dir="ltr" style="padding-left: 30px;"><span style="font-family: georgia; color: #000000;">Taste Linux <span style="font-family: georgia;">without loosing Windows safe-house (pun intended)</span></span></h3>
+Yup! You can install Linux like a windows program and then if you don&#8217;t like it just uninstall it like anything else.
+It will still be the full blown Linux Operating System, but it will not affect your Windows. No, I am not talking about Virtual Box or VMware. What we are going to do is use a software which will install the Ububtu (most popular Linux) like any windows application.
+<h3 dir="ltr" style="padding-left: 30px;"><span style="color: #000000;"><strong><span style="font-family: georgia;">Here&#8217;s how to do the magic</span></strong></span></h3>
+<span style="font-family: georgia;">It&#8217;s basically the Ubuntu (very famous Linux distribution) which is installed with a program (WUBI) provided by Canonical (people that make Ubuntu)</span>
+<ul>
+	<li dir="ltr"><span style="font-family: georgia;">Download the <a href="http://www.ubuntu.com/download/desktop/thank-you?release=latest&amp;bits=32&amp;distro=desktop&amp;status=zeroc">latest Ubuntu iso file</a></span></li>
+</ul>
+<ul>
+	<li dir="ltr"><span style="font-family: georgia;">Download latest <a href="http://www.ubuntu.com/download/desktop/thank-you?release=latest&amp;bits=32&amp;distro=wubi&amp;status=zeroc">Ubuntu Windows Installer</a> (wubi we call it)</span></li>
+</ul>
+<ul>
+	<li dir="ltr"><span style="font-family: georgia;">Place the .iso file and wubi.exe in same folder and run wubi.exe</span></li>
+</ul>
+<ul>
+	<li dir="ltr"><span style="font-family: georgia;">Then Choose the drive you want to install Ubuntu in</span></li>
+</ul>
+<blockquote>
+<ul>
+	<li dir="ltr"><span style="font-family: georgia;">Don&#8217;t worry, C: will be just fine too. It will not harm your computer in any way.</span></li>
+</ul>
+</blockquote>
+<ul>
+	<li dir="ltr"><span style="font-family: georgia;">Choose how much space you want to give the new OS (1 GB is enough)</span></li>
+</ul>
+<ul>
+	<li dir="ltr"><span style="font-family: georgia;">Click the magic button (Install I mean)</span></li>
+</ul>
+<ul>
+	<li dir="ltr"><span style="font-family: georgia;">Restart the Computer</span></li>
+</ul>
+<ul>
+	<li dir="ltr"><span style="font-family: georgia;">Then on startup, you will be given two choices like in this screen
+<img alt="" src="https://lh4.googleusercontent.com/LVd-LkFbai6YJJlqdzAjI2xX8HGkMe9BOC_QfSy00mTLPiDlRrqmDAoW0sTB-OCbGOtwtcJ133kDZpyv3RYfNTXtiyonb6o-WZC6QA1cvDc7MKsAawAMkm4K" width="440px;" height="187px;" /></span></li>
+	<li dir="ltr"><span style="font-family: georgia;">Make your choice and you are welcome :)</span></li>
+</ul>
+<h1 dir="ltr"><span style="font-family: georgia; color: #000000;">Using Linux</span></h1>
+<span style="font-family: georgia;">So now we can run Linux easily and play with it like a toy. But what next? Ubuntu has a very straight forward approach, nice looks and slick interface. There is no need of much illustration. Feel free to enjoy it to your heart&#8217;s content. Here are some tips and tricks about some new things you gonna find in Ubuntu.</span>
+<h3 dir="ltr" style="padding-left: 30px;"><span style="color: #000000;"><strong><span style="font-family: georgia;">Installing new software</span></strong></span></h3>
+<span style="font-family: georgia;">Installing new software in Linux is different from Windows. There are no .exe files or other setups like that which you can use to install software. Yea, that means you no longer need to click those next-next buttons for every software you want to install. Instead there is a software center where you can search for software, read the description about what the software do and install it if you want. The latest version of the software will then get downloaded and installed on your new machine. It&#8217;s more like an app store, and much powerful system then Windows&#8217; &#8216;setup&#8217; approach. We&#8217;ll discuss in some other post what&#8217;s so amazing about Linux approach of installing software.</span>
+<h3 dir="ltr" style="padding-left: 30px;"><span style="color: #000000;"><strong><span style="font-family: georgia;">Removing software</span></strong></span></h3>
+<span style="font-family: georgia;">You guessed it right, the software center. It&#8217;s your one stop shop for every new software you want to install or remove.</span>
+<h3 dir="ltr" style="font-family: georgia; padding-left: 30px;"><span style="color: #000000;">What if you are offline ?</span></h3>
+<span style="font-family: georgia;">That&#8217;s actually worst than it sounds. There are many <a href="http://channikhabra.blogspot.in/2011/07/why-not-to-install-linux-offline-and.html">problems you&#8217;ll face using Linux offline</a>. If you are using a computer which can&#8217;t stay online, I recommend not trying Linux on this machine. That is if you are new to Linux world. There are of course solutions to those problems (follow same link given above), but they are kind of hard for Linux beginners.</span>
+<h3 dir="ltr" style="padding-left: 30px;"><span style="font-family: georgia; color: #000000;">Watching videos and listening music</span></h3>
+<span style="font-family: georgia;">You will not be able to listen to music or watch videos on Ubuntu you just installed, lol. Actually you can, but you need to download extra software for that. Why is it like this? Well, it&#8217;s because the decoder packages which are used to play music (mp3) and videos are not open source. In order to keep itself completely open and free, Ubuntu do not offer those software in default CD. You need to install them later.</span>
+<h3 dir="ltr" style="padding-left: 30px;"><span style="font-family: georgia; color: #000000;">How to do that ?</span></h3>
+<span style="font-family: georgia;">Simply try to play a mp3 and/or a video and Ubuntu will ask you to download and install some plugins. Click &#8216;Install&#8217; and get going. It will download about 28-35MB, and here you have the safest machine you can get with little to no effort on your part.</span>
+<h1 dir="ltr"><span style="font-family: georgia; color: #000000;">Why should you use Linux ?</span></h1>
+<span style="font-family: georgia;">If the reasons I gave in beginning of this article were not enough, here are some use cases that may convince you.</span>
+<h3 dir="ltr" style="padding-left: 30px;"><span style="color: #000000;"><strong><span style="font-family: georgia;">To Surf Internet</span></strong></span></h3>
+<span style="font-family: georgia;">Which is the safest way to surf the web? There is none. But you can minimize the risk by using Linux. Most bad websites assume you to be using Windows and try to hack using scripts which think exploit several &#8216;features&#8217;(?) of windows. Using Linux means automatic safety from 70% of those bad websites.</span>
+<h3 dir="ltr" style="padding-left: 30px;"><span style="color: #000000;"><strong><span style="font-family: georgia;">Lack of Anti-virus</span></strong></span></h3>
+<span style="font-family: georgia;">Are you tired of your antivirus screaming in your face to buy the pro version or singing the songs that its trial version is expired? No virus means no need for anti-virus. Use Linux, the &#8216;Ram-baan&#8217; for all viruses.</span>
+<h3 dir="ltr" style="padding-left: 30px;"><span style="color: #000000;"><strong><span style="font-family: georgia;">Transfer data from pen drives</span></strong></span></h3>
+<span style="font-family: georgia;">If you are like me (and most people I know), there will be lots of times when you will need to use a pen drive (or data card) but you are scared that the pen drive would have virus. Just boot into Ubuntu and use it for all data transfer. Virus don&#8217;t spread by itself, it spread only when you open a virus file (which happens automatically when you open a pen drive). Using Linux can save your ass every time you need to use a pen drive.</span>
+
+<span style="font-family: georgia;">It is not that hard to use Linux as people say. Use this guide to help you, or you can contact me if you have any problem. I will be more than happy to help. Linux is the awesomeness you must not ignore. Even if you need to suffer a little with your first steps towards Linux, it&#8217;s worth the fruit you gonna get in the end.
+<span style="font-family: georgia;">Happy hacking :)
+</span></span>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[All the Basic Computer Shortcuts]]></title>
+    <link href="http://harkuchh.com/basic-computer-shortcuts/"/>
+    <updated>2013-03-21T00:00:00+05:30</updated>
+    <id>http://harkuchh.com/basic-computer-shortcuts</id>
+    <content type="html"><![CDATA[<span style="font-family: georgia; color: #000000;">Hey Guys ! I strongly recommended to everybody around the Internet world to make it your habit to use shortcuts while working on PC or Laptop. Do I need to explain Why ? Ok let me explain, remember it&#8217;s for you ! There are no.s of benefits of using shortcuts in computer work, first and most important point is that it will dramatically increase your productivity and increase your speed to work<!--more--> on the computer, and we all know high speed is how necessary for today&#8217;s technology generation, you just need to try slowly you will be familiar with them and it will  become normal in some day. It simply means, it has only benefits and lots of benefits using Shortcuts, All basic computer shortcuts are right below.</span>
+<div dir="ltr"><a href="http://harkuchh.com/basic-computer-shortcuts/shortcuts/" rel="attachment wp-att-5940"><img class="size-full wp-image-5940" title="Shortcuts Key to improve speed on Computer" alt="" src="http://harkuchh.com/wp-content/uploads/2013/02/Shortcuts.jpg" width="528" height="397" /></a></div>
+<div dir="ltr"></div>
+<div id="gt-src-tools-l"></div>
+<div></div>
+<div id="gt-res-tools">
+<div>
+<table cellspacing="1" cellpadding="5">
+<tbody>
+<tr>
+<td><span style="color: #000000;"><strong><strong>Ctrl + A</strong></strong></span></td>
+<td><span style="color: #000000;">Select all text.</span></td>
+</tr>
+<tr>
+<td><span style="color: #000000;"><strong><strong>Ctrl + C</strong></strong></span></td>
+<td><span style="color: #000000;">Copy selected item.</span></td>
+</tr>
+<tr>
+<td><span style="color: #000000;"><strong><strong>Ctrl + V</strong></strong></span></td>
+<td><span style="color: #000000;">Paste</span></td>
+</tr>
+<tr>
+<td><span style="color: #000000;"><strong><strong>Ctrl + X</strong></strong></span></td>
+<td><span style="color: #000000;">Cut selected item.</span></td>
+</tr>
+<tr>
+<td><span style="color: #000000;"><strong><strong>Home</strong></strong></span></td>
+<td><span style="color: #000000;">Goes to beginning of current line.</span></td>
+</tr>
+<tr>
+<td><span style="color: #000000;"><strong><strong>End</strong></strong></span></td>
+<td><span style="color: #000000;">Goes to end of current line.</span></td>
+</tr>
+<tr>
+<td><span style="color: #000000;"><strong><strong>F1</strong></strong></span></td>
+<td><span style="color: #000000;">Universal Help in almost every Windows program.</span></td>
+</tr>
+<tr>
+<td><span style="color: #000000;"><strong><strong>Ctrl + Home</strong></strong></span></td>
+<td><span style="color: #000000;">Goes to beginning of document.</span></td>
+</tr>
+<tr>
+<td><span style="color: #000000;"><strong><strong>Ctrl + End</strong></strong></span></td>
+<td><span style="color: #000000;">Goes to end of document.</span></td>
+</tr>
+<tr>
+<td><span style="color: #000000;"><strong><strong>Alt + E</strong></strong></span></td>
+<td><span style="color: #000000;">Edit options in current program</span></td>
+</tr>
+<tr>
+<td><span style="color: #000000;"><strong><strong>Shift + Del</strong></strong></span></td>
+<td><span style="color: #000000;">Cut selected item.</span></td>
+</tr>
+<tr>
+<td><span style="color: #000000;"><strong><strong>Shift + Ins</strong></strong></span></td>
+<td><span style="color: #000000;">Paste</span></td>
+</tr>
+<tr>
+<td><span style="color: #000000;"><strong><strong>Ctrl + Ins</strong></strong></span></td>
+<td><span style="color: #000000;">Copy selected item</span></td>
+</tr>
+<tr>
+<td><span style="color: #000000;"><strong><strong>Alt + F</strong></strong></span></td>
+<td><span style="color: #000000;">File menu options in current program.</span></td>
+</tr>
+<tr>
+<td><span style="color: #000000;"><strong>Shift + Home</strong></span></td>
+<td><span style="color: #000000;">Highlights from current position to beginning of line.</span></td>
+</tr>
+<tr>
+<td><span style="color: #000000;"><strong>Shift + End</strong></span></td>
+<td><span style="color: #000000;">Highlights from current position to end of line.</span></td>
+</tr>
+<tr>
+<td><span style="color: #000000;"><strong>Ctrl + Left arrow</strong></span></td>
+<td><span style="color: #000000;">Moves one word to the left at a time.</span></td>
+</tr>
+<tr>
+<td><span style="color: #000000;"><strong>Ctrl + Right arrow</strong></span></td>
+<td><span style="color: #000000;">Moves one word to the right at a time.</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div>
+<table cellspacing="1" cellpadding="5">
+<tbody>
+<tr>
+<td><span style="color: #000000;"><strong>Ctrl+U                  </strong></span></td>
+<td><span style="color: #000000;">Underline                                                               </span></td>
+</tr>
+<tr>
+<td><span style="color: #000000;"><strong>Ctrl+I</strong></span></td>
+<td><span style="color: #000000;">Italic</span></td>
+</tr>
+<tr>
+<td><span style="color: #000000;"><strong>Ctrl+B</strong></span></td>
+<td><span style="color: #000000;">Bold.</span></td>
+</tr>
+<tr>
+<td><span style="color: #000000;"><strong>F5</strong></span></td>
+<td><span style="color: #000000;">Refresh</span></td>
+</tr>
+<tr>
+<td><span style="color: #000000;"><strong>Ctrl + &lt;&#8211;</strong></span></td>
+<td><span style="color: #000000;">One word left</span></td>
+</tr>
+<tr>
+<td><span style="color: #000000;"><strong>Ctrl+&#8211;&gt;</strong></span></td>
+<td><span style="color: #000000;">One word right</span></td>
+</tr>
+<tr>
+<td><span style="color: #000000;"><strong>Shift+&lt;&#8211;</strong></span></td>
+<td><span style="color: #000000;">select left Text</span></td>
+</tr>
+<tr>
+<td><span style="color: #000000;"><strong>Shift+&#8211;&gt;</strong></span></td>
+<td><span style="color: #000000;">Select Right Text</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="gt-res-tools-r">
+<table cellspacing="1" cellpadding="5">
+<tbody>
+<tr>
+<td><span style="color: #000000;"><strong>Ctrl+Z                  </strong></span></td>
+<td><span style="color: #000000;">Undo</span></td>
+</tr>
+<tr>
+<td><span style="color: #000000;"><strong>Ctrl+Y   </strong></span></td>
+<td><span style="color: #000000;">Redo</span></td>
+</tr>
+<tr>
+<td><span style="color: #000000;"><strong>Ctrl+S</strong></span></td>
+<td><span style="color: #000000;">Save.</span></td>
+</tr>
+<tr>
+<td><span style="color: #000000;"><strong>Ctrl + F</strong></span></td>
+<td><span style="color: #000000;">Find                                                                       </span></td>
+</tr>
+<tr>
+<td><span style="color: #000000;"><strong>Alt+Ctrl + Del</strong></span></td>
+<td><span style="color: #000000;">Delete Pemanently</span></td>
+</tr>
+<tr>
+<td><strong>
+</strong></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div></div>
+<div>
+<h3><strong><span style="color: #000000;">Unix and Linux shortcut keys</span></strong></h3>
+&nbsp;
+
+</div>
+<div>
+<table cellspacing="1" cellpadding="5">
+<tbody>
+<tr>
+<td valign="top"><strong><span style="color: #000000;">CTRL + B</span></strong></td>
+<td valign="top"><span style="color: #000000;">Moves the cursor backward one character.</span></td>
+</tr>
+<tr>
+<td valign="top"><strong><span style="color: #000000;">CTRL + C</span></strong></td>
+<td valign="top"><span style="color: #000000;">Cancels the currently running command.</span></td>
+</tr>
+<tr>
+<td valign="top"><strong><span style="color: #000000;">CTRL + D</span></strong></td>
+<td valign="top"><span style="color: #000000;">Logs out of the current session.</span></td>
+</tr>
+<tr>
+<td valign="top"><strong><span style="color: #000000;">CTRL + F</span></strong></td>
+<td valign="top"><span style="color: #000000;">Moves the cursor forward one character.</span></td>
+</tr>
+<tr>
+<td valign="top"><strong><span style="color: #000000;">CTRL + H</span></strong></td>
+<td valign="top"><span style="color: #000000;">Erase one character. Similar to pressing backspace.</span></td>
+</tr>
+<tr>
+<td valign="top"><strong><span style="color: #000000;">CTRL + P</span></strong></td>
+<td valign="top"><span style="color: #000000;">Paste previous line(s).</span></td>
+</tr>
+<tr>
+<td valign="top"><strong><span style="color: #000000;">CTRL + S</span></strong></td>
+<td valign="top"><span style="color: #000000;">Stops all output on screen (XOFF).</span></td>
+</tr>
+<tr>
+<td valign="top"><strong><span style="color: #000000;">CTRL + Q</span></strong></td>
+<td valign="top"><span style="color: #000000;">Turns all output stopped on screen back on (XON).</span></td>
+</tr>
+<tr>
+<td valign="top"><strong><span style="color: #000000;">CTRL + U</span></strong></td>
+<td valign="top"><span style="color: #000000;">Erases the complete line.</span></td>
+</tr>
+<tr>
+<td valign="top"><strong><span style="color: #000000;">CTRL + W</span></strong></td>
+<td valign="top"><span style="color: #000000;">Deletes the last word typed in.</span></td>
+</tr>
+<tr>
+<td valign="top"><strong><span style="color: #000000;">CTRL + Z</span></strong></td>
+<td valign="top"><span style="color: #000000;">Cancels current operation, moves back a directory. </span></td>
+</tr>
+</tbody>
+</table>
+<h3><span style="color: #000000;"><strong>Command line shortcuts</strong></span></h3>
+<table cellspacing="1" cellpadding="5">
+<tbody>
+<tr>
+<td><strong><span style="color: #000000;">~</span></strong></td>
+<td><span style="color: #000000;">Moves to the user&#8217;s home directory.</span></td>
+</tr>
+<tr>
+<td><strong><span style="color: #000000;">!!</span></strong></td>
+<td><span style="color: #000000;">Repeats the line last entered at the shell. See historycommand for previous commands.</span></td>
+</tr>
+<tr>
+<td><strong><span style="color: #000000;">!$</span></strong></td>
+<td><span style="color: #000000;">Repeats the last argument for the command last used. Seehistory command for previous commands.</span></td>
+</tr>
+<tr>
+<td><strong><span style="color: #000000;">reset</span></strong></td>
+<td><span style="color: #000000;">Resets the terminal if terminal screen is not displaying correctly.</span></td>
+</tr>
+<tr>
+<td><strong><span style="color: #000000;">shutdown -h now</span></strong></td>
+<td><span style="color: #000000;">Remotely or locally shuts the system down.</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+<span style="font-family: georgia; color: #000000;">You just write them somewhere in your computer room or at the place where you mostly use computer system, if possible and just try to memories them, Believe me it&#8217;s a great advice, let&#8217;s start now, read them once again.</span>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[How to Apply for Google Adsense Ads]]></title>
     <link href="http://harkuchh.com/how-to-apply-for-google-adsense-ads/"/>
     <updated>2013-03-19T00:00:00+05:30</updated>
@@ -734,318 +1881,6 @@ Google don’t give ads easily same like a girl not accepts a friendship proposa
 <ul>
 	<li>Adsense provides <b>free banner ads </b>which help users to see related information on any device.</li>
 </ul>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Most Common FAQ’s about Blog and Blogging]]></title>
-    <link href="http://harkuchh.com/most-common-faqs-about-blog-and-blogging/"/>
-    <updated>2013-03-17T00:00:00+05:30</updated>
-    <id>http://harkuchh.com/most-common-faqs-about-blog-and-blogging</id>
-    <content type="html"><![CDATA[<span style="color: #333333;">Believe me I’m not showing off but it’s true that my this blog became quite popular in very short period and it’s really great to answer questions of many people regularly, which they ask through comments and mails after reading my posts, I found some questions very common and frequent asked by many so here I’m trying to present all FAQ&#8217;s in a package..<!--more--></span>
-
-<span style="color: #333333;"> </span>
-<h4><span style="color: #333333;"><strong>I want to show small part of my posts and if the visitor click on <em>read more</em> than full post will open, How to do this ?</strong></span></h4>
-<span style="color: #333333;">Actually this is very easy and simple too, you won’t have to do any hard effort for that, while writing your post before publishing it just go to point after which you want to hide post and just click on<a title="See Pics of button" href="http://harkuchh.com/wp-content/uploads/2012/12/Insert-More-Tag.jpg" target="_blank"><span style="color: #333333;"><strong> Insert More Tag</strong></span></a> button given in toolbar above or you can also press <strong>Alt+Shift+T</strong>. Done.
-</span>
-
-<span style="color: #333333;"> </span>
-<h4><span style="color: #333333;"><strong>Many Comments Come in my blog as spams what are these, can I approve them.</strong></span></h4>
-<span style="color: #333333;">Spams are the comment responsible for comment based hacking of blogs and website, these are trapdoor to access your site database illegally, never approve them, and must<a href="http://harkuchh.com/how-to-install-akismet-in-wordpress-for-free/" target="_blank"><span style="color: #333333;"> install Akismet</span></a> as it is the best tool to protect website from spams.</span>
-
-<span style="color: #333333;"> </span>
-<h4><span style="color: #333333;"><strong>I commented on my friend’s site and he told me that my comment came to his site as spam, how did it happened ?</strong></span></h4>
-<span style="color: #333333;">Some words and links are not allowed to post in comments and when we do commenting using such words or links it goes into spam.</span>
-
-<span style="color: #333333;"> </span>
-<h4><span style="color: #333333;"><strong>What is Subdomains, How to make a Subdomain of my Website ?</strong></span></h4>
-<span style="color: #333333;"><span style="color: #ff0000;"><a href="http://harkuchh.com/what-is-subdomain-how-to-create-subdomain-of-my-website/" target="_blank"><span style="color: #ff0000;"><strong>Check thi</strong>s</span></a> </span>Out&#8230;</span>
-
-<span style="color: #333333;"> </span>
-<h4><span style="color: #333333;"><strong>Blog and Website, are these things same or different ?</strong></span></h4>
-<span style="color: #333333;">This is actually a good question, and it’s answer is that blogs and website are quite different things, a website is that which make once and don’t need daily updations like a website of an Institute but blog which we make are diffrent as they need regular updations and we do interact with our visitors.</span>
-
-<span style="color: #333333;"> </span>
-<h4><span style="color: #333333;"><strong> </strong><strong>If my blog will be hacked then do I need to do all the work again ?</strong></span></h4>
-<span style="color: #333333;">No if you have backup of your blog then you just need to do few tasks and you will recover your blog easily and even in very small time but if you don’t create backups of your blog regularly you will be fuc_ed up ! see <em><span style="color: #ff0000;"><a href="http://harkuchh.com/how-to-make-backup-of-website/" target="_blank"><span style="color: #ff0000;">how to create backup</span></a></span> of blogs and website. </em></span>
-
-<span style="color: #333333;"><em> </em></span>
-<h4><span style="color: #333333;"><strong>What is the most common reason of hacking of a website, how to prevent it ?</strong></span></h4>
-<span style="color: #333333;">As simplest method of doing anything become as the most common method so Comment based hacking is most common type of hacking, <a href="http://harkuchh.com/how-to-protect-website-from-comment-based-hacking/" target="_blank"><span style="color: #333333;">see this</span></a> for datailed info.</span>
-
-<span style="color: #333333;"> </span>
-<h4><span style="color: #333333;"><strong>Can I use Different CMS’s in different subdomains of a Domain name ?</strong></span></h4>
-<span style="color: #333333;">Yes you can use different CMS for different subdomains, like if you are using WordPress in main Domain you are free to use Jhoomla or any other CMS in subdomains. If you have 5 subdomains you are can use 5 CMS for them.</span>
-
-<span style="color: #333333;"> </span>
-<h4><span style="color: #333333;"><strong>What is Indexing of website, How to Register My website on Google and all leading search engines ?</strong></span></h4>
-<span style="color: #333333;">A search engine show your blog posts on it’s page only and only if it will be Indexed in their database, so must <a href="http://harkuchh.com/how-to-submit-website-on-google-and-all-other-top-search-engines/" target="_blank"><span style="color: #333333;">register your blog</span></a> on all popular search engines like Google, Bing, Msn etc.</span>
-
-<span style="color: #333333;"> </span>
-<h4><span style="color: #333333;"><strong>What are Plugins, Which are the most popular and useful Plug-ins for WordPress Blog/Website ?</strong></span></h4>
-<span style="color: #333333;">Plug-ins are like small software packages designed for various purpose it widely used in making of websites and using them can save efforts and time, these are like awesome free gifts to developers, see the<a href="http://harkuchh.com/most-important-plugins-for-wordpress-blog/" target="_blank"><span style="color: #333333;"> list on most useful plug-ins</span></a>.</span>
-
-<span style="color: #333333;"> </span>
-<h4><span style="color: #333333;"><strong>What is the best time to apply for Ads to Adsense ?</strong></span></h4>
-<span style="color: #333333;">Many people start applying for ads to adsense just after posting 8-10 posts on their blogs which is not good, you also don&#8217;t need hundreds of posts and thousands of visitors but you must need to ready for them see what&#8217;s the <a href="http://harkuchh.com/tag/adsense/" target="_blank"><span style="color: #333333;">right time to apply for adsense</span></a>.
-</span>
-
-<span style="color: #333333;">If you are new in Blogging field I strongly recommend you to save a bookmark of <em><strong><a href="http://harkuchh.com/category/blogging/" target="_blank"><span style="color: #333333;">this link</span></a></strong></em> as here all info is very valuable and in very easy language you must try to read all posts there at least once. Now if you have any query about blog and blogging must comment here, by following this way I also learn many things and I will be very thankful to you for that.</span>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[What are Pop-ups or what are the Pop up ads ?]]></title>
-    <link href="http://harkuchh.com/what-are-pop-ups-or-what-are-the-pop-up-ads/"/>
-    <updated>2013-03-02T00:00:00+05:30</updated>
-    <id>http://harkuchh.com/what-are-pop-ups-or-what-are-the-pop-up-ads</id>
-    <content type="html"><![CDATA[<b>Popup ads</b> or <b>pop up advertising</b> are the advertisements that show up in a new browser window when you click or hover on a link or image while surfing on internet. The overall <b>definition of a popup</b> is `<em>a browser window that appears out of nowhere as you are viewing content on the web.</em>` There are also programs known as <b>pop under ads</b>, which display windows behind your web browser window. As a user is surfing the web and visiting various websites, new windows may suddenly (<em>and without user initiation</em>) open and display advertisements and promotions.<!--more-->
-
-<a href="http://harkuchh.com/what-are-pop-ups-or-what-are-the-pop-up-ads/what-are-pop-up-ads/" rel="attachment wp-att-8100"><img class="aligncenter size-full wp-image-8100" alt="what are pop up ads" src="http://harkuchh.com/wp-content/uploads/2013/03/what-are-pop-up-ads.jpeg" width="348" height="341" /></a>
-
-<span style="color: #ff0000;"><strong>Pop-Ups</strong> are NOT security risks</span>. They can NOT carry Spy Bots, Viruses, or Trojans. The reason they may be blocked is that, if they are designed to open automatically, they can be annoying nuisances!
-<h1>Major Concerns of PopUps</h1>
-<ul>
-	<li>A screen flooded with pop-ups may make navigating the web stressful and difficult.</li>
-	<li>At times, they may look like browsers of normal web pages and can cause confusion to the users. A pop-up may not be even related to the site itself, thus annoying the user with its irrelevance to the site and its obstruction to the browsing experience.</li>
-	<li>Some pop-ups contain inappropriate or even pornographic content, which you may not like to watch.</li>
-	<li>Some pop-ups appear as a result in the site being reloaded, causing loss of information for the users.</li>
-</ul>
-<h1><b>How to Block Popup Ads </b></h1>
-Ads pop up can be a tremendous annoyance, but there are ways to deal with them. Your best bet would be to close the window and not interact with those <b>popups</b>. The <b>best way to prevent from Popup ads</b> is don&#8217;t connect to internet without enabling firewall and Anti-virus software. Increase the security settings in the browser so that Activex controls won&#8217;t install automatically and these <b>free classifieds</b> won’t come up to your screen.
-
-Default browser of Microsoft Windows `Internet Explorer` is configured to <b>block all pop-up ads</b> by default. If you don’t like the blocker warning or its associated beep, you can control the <b>pop-up blocker’s</b> settings. Also, any good Anti-virus package can be a great tool for avoiding pop-ups.
-
-For bloggers pop up advertising can be proved as a great source of income from their blog, but we recommend you to don’t go for it, people hates it and most probably you too.
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Best Topics to Write Posts for Blog]]></title>
-    <link href="http://harkuchh.com/best-topics-to-write-a-post-for-blog/"/>
-    <updated>2013-02-28T00:00:00+05:30</updated>
-    <id>http://harkuchh.com/best-topics-to-write-a-post-for-blog</id>
-    <content type="html"><![CDATA[<span style="font-family: georgia;">We have talked a lot about blogging in our<a href="http://harkuchh.com/category/blogging/" target="_blank"><span style="color: #333333;"> blogging category</span></a>, in posts <a href="http://harkuchh.com/what-is-blogging-why-blogging-becoming-popular-in-youth/" target="_blank"><span style="font-family: georgia;">What is Blogging</span></a>, <a href="http://harkuchh.com/top-blogs-and-bloggers-of-india-and-their-earnings/" target="_blank"><span style="font-family: georgia;">Top Blogs &amp; Bloggers</span></a>, <a href="http://harkuchh.com/best-tips-for-approval-of-adsense-google-account-with-requirements-of-adsense/" target="_blank"><span style="font-family: georgia;">Adsense Tips</span></a>, <a href="http://harkuchh.com/how-to-write-a-good-post-in-a-less-time-for-blog/" target="_blank"><span style="font-family: georgia;">how to write post in less time</span></a> etc but I observed from my personal experience and readers comments and also from chats with bloggers on facebook and Twitter, that making a blog is not a task, it’s easy, anyone can make a blog and run it on Internet.<!--more--></span>
-
-<span style="color: #333333;"> </span>
-
-<span style="font-family: georgia;">The problem is to picking up the blog to top means getting good ranking, <a href="http://harkuchh.com/how-to-increase-website-blog-traffic-and-ranking/" target="_blank"><span style="font-family: georgia;">decent traffic</span></a> and remarkable income, Many of my friends and collegue bloggers always complaining that their blogs are fail in getting traffic from search engines, Well for getting good traffic you must need to write something which attaract the internet users especially the youth, and if your problem is which niche to choose for best post, stop worrying here we are going to share all topics which are most in demand and you can say evergreen topics for writing posts, have a look..</span>
-
-<span style="color: #333333;"> </span>
-<h3 style="padding-left: 30px;"><span style="font-family: georgia;"><strong>10. Health</strong></span></h3>
-
-<hr />
-
-<span style="font-family: georgia;"><a href="http://harkuchh.com/best-topics-to-write-a-post-for-blog/post-about-health-tips-pic-hd/" rel="attachment wp-att-4697"><span style="font-family: georgia;"><img class="alignleft  wp-image-4697" title="post about health tips pic hd" alt="" src="http://harkuchh.com/wp-content/uploads/2012/10/post-about-health-tips-pic-hd.png" width="126" height="126" /></span></a>Today is the time of technology so the world going online, people tends to find solutions for their health related matters online. If you have a enough knowledge on medicine and various fitness related issues and you think that you have potential to provide people great information and solutions for their health problems and giving them worth reading and valuable tips regarding fitness and Health, then you will see a great traffic difference on your blog in just a short time. For example You can share post like How to make your body strong and fit with staying on home.</span>
-
-<span style="color: #333333;"> </span>
-
-<span style="color: #333333;"> </span>
-<h3 style="padding-left: 30px;"><span style="font-family: georgia;"><strong>9. <a href="http://harkuchh.com/popular-fashion-items-which-never-go-out-of-style/" target="_blank"><span style="color: #333333;">Fashion</span></a></strong></span></h3>
-
-<hr />
-
-<span style="font-family: georgia;"><a href="http://harkuchh.com/best-topics-to-write-a-post-for-blog/fashion-pics-hd/" rel="attachment wp-att-4705"><span style="font-family: georgia;"><img class="alignright  wp-image-4705" title="Fashion Pics hd" alt="" src="http://harkuchh.com/wp-content/uploads/2012/10/Fashion-Pics-hd-300x220.jpg" width="180" height="132" /></span></a>Well We know Health and fitness topics are mostly searched only by those who are either suffering from some disease or they want to learn tips for their fitness, but above health, comes Fashion. You will be agree with me if I say “Knowing about health is a need but learning all about fashion is an addiction”. If you have intereset in glamour world and you love to read and write about Fashion trends which leading the society, believe me you can really make huge money with it. People from all around the globe use internet as the best and most easiest way to know about latest fashion and also follow it.</span>
-
-<span style="color: #333333;"> </span>
-
-<span style="color: #333333;"> </span>
-<h3 style="padding-left: 30px;"><span style="font-family: georgia;"><strong>8. Relationships</strong></span></h3>
-
-<hr />
-
-<span style="color: #333333;"><img class="alignleft  wp-image-4700" style="color: #0000ee;" title="Relationship Pic HD" alt="" src="http://harkuchh.com/wp-content/uploads/2012/10/Relationship-Pic-HD-253x300.png" width="91" height="108" /></span>
-
-<span style="font-family: georgia;">No surprise in this - most of the people have<a href="http://harkuchh.com/top-10-things-to-do-after-break-up/" target="_blank"><span style="font-family: georgia;"> emotional part</span></a> in their personalities which leaves dark effect on their entire life. People takes internet as their best friend the most secure way to improve their relationships, they do believing in the idea of self-aiding learning online about professional working relationships, love relationships and also having advises from people around the world. So it will be a boon for your blog if you start writing good content on relationship.</span>
-
-<span style="color: #333333;"> </span>
-
-<span style="color: #333333;"> </span>
-<h3 style="padding-left: 30px;"><span style="font-family: georgia;"><strong>7. Finance</strong></span></h3>
-
-<hr />
-
-<span style="font-family: georgia;"><a href="http://harkuchh.com/best-topics-to-write-a-post-for-blog/finance-pic-hd/" rel="attachment wp-att-4702"><span style="font-family: georgia;"><img class="alignright  wp-image-4702" title="finance Pic hd" alt="" src="http://harkuchh.com/wp-content/uploads/2012/10/finance-Pic-hd-300x269.jpg" width="156" height="140" /></span></a>Money, most probably the only thing which will remain Man’s love till the end of this existing world. Money is the essential need of everyone and this need make common nature of people - to learn ways to double their money encourage them to search about such methods, so Blogs with domain related to ways of improving finances and helping them setting up their own business, telling ways to manage their money always attract them, and it help in generating good traffic for a blog and also good revenue.</span>
-
-<span style="color: #333333;"> </span>
-
-<span style="color: #333333;"> </span>
-<h3 style="padding-left: 30px;"><span style="font-family: georgia;"><strong>6. Question and Answer Blogs</strong></span></h3>
-
-<hr />
-
-<span style="font-family: georgia;"><a href="http://harkuchh.com/best-topics-to-write-a-post-for-blog/question-and-answer/" rel="attachment wp-att-4703"><span style="font-family: georgia;"><img class="alignleft  wp-image-4703" title="question-and-answer" alt="" src="http://harkuchh.com/wp-content/uploads/2012/10/question-and-answer.jpg" width="192" height="191" /></span></a>It’s a simple theory remember your achool days to make this concept clear, just think which teacher you preferred to visit the most in times of need, the one who always had a solution of your problems or the one who always use the words come later ? I know what your answer is and I hope We all have same views about it. Similarly, starting a blog or writing posts with niche of active question and answer session will easily generate remarkable revenue. People love to come that places where they can be listened and can get their answer for their queries. For best example we can see answer.com, so you can start a question and answer blog and make great income through it.</span>
-
-<span style="color: #333333;"> </span>
-
-<span style="color: #333333;"> </span>
-<h3 style="padding-left: 30px;"><span style="font-family: georgia;"><strong>5. Celebrities</strong></span></h3>
-
-<hr />
-
-<span style="color: #333333;"><img class="alignright size-medium wp-image-4699" title="Celebrities pic hd" alt="" src="http://harkuchh.com/wp-content/uploads/2012/10/Celebrities-pic-hd-300x159.jpg" width="300" height="159" /></span>
-
-<span style="font-family: georgia;">Celebrities is always considered as the easiest and the most interesting topics to adopt in a blogging career to start writing reviews, updates, latest photos, their videos (specially uncenssored :P) and everything associated with them. The best part for this category is for writing about them you won’t have to be highly qualified, all you need to do this, is your interest in entertainment world.</span>
-
-<span style="color: #333333;"> </span>
-
-<span style="color: #333333;"> </span>
-<h3 style="padding-left: 30px;"><span style="font-family: georgia;"><strong>4. Buy and sell</strong></span></h3>
-
-<hr />
-
-<span style="font-family: georgia;"><a href="http://harkuchh.com/best-topics-to-write-a-post-for-blog/buy-sell-pic-hd/" rel="attachment wp-att-4706"><span style="color: #333333;"><img class="alignleft  wp-image-4706" title="buy sell Pic hd" alt="" src="http://harkuchh.com/wp-content/uploads/2012/10/buy-sell-Pic-hd-300x200.jpg" width="189" height="126" /></span></a>You may have familiar with olx.com or many online shopping websites, now a days Online shopping has taken up the physical market with a great pace, you just need to choose what you need or what want direct from your computer table (or also bed if you using laptop :P) and get it delivered at your doorsteps. If you start providing such facility of online shopping with best deals you can easily get bulk of visitors each day.</span>
-
-<span style="color: #333333;"> </span>
-
-<span style="color: #333333;"> </span>
-<h3 style="padding-left: 30px;"><span style="font-family: georgia;"><strong>3. Social Media</strong></span></h3>
-
-<hr />
-
-<span style="font-family: georgia;"><a href="http://harkuchh.com/best-topics-to-write-a-post-for-blog/social-media-pics-hd/" rel="attachment wp-att-4707"><span style="font-family: georgia;"><img class="wp-image-4707 alignright" title="social media pics hd" alt="" src="http://harkuchh.com/wp-content/uploads/2012/10/social-media-pics-hd.jpg" width="205" height="188" /></span></a>Social media is a became a need now, do you know any person who use internet regularly and won’t have any account on any social site, you know your answer very well. Today people without using social sites feel always something wrong and even incompleteness in the day, one might not have a bank account but must be having three- four accounts on different social networking websites especially Facebook, Twitter, LinkedIn. So if you read interesting, creative and valuable content related to social media people will love to visit your blog again and again because People want to know each and everything about their social media. For example you can<a href="http://harkuchh.com/category/fb/" target="_blank"><span style="font-family: georgia;"><em> see this</em></span></a>.</span>
-
-<span style="color: #333333;"> </span>
-
-<span style="color: #333333;"> </span>
-<h3 style="padding-left: 30px;"><span style="font-family: georgia;"><strong>2. Technology</strong></span></h3>
-
-<hr />
-
-<span style="font-family: georgia;"><a href="http://harkuchh.com/best-topics-to-write-a-post-for-blog/technology-pic-hd/" rel="attachment wp-att-4708"><span style="font-family: georgia;"><img class="alignleft  wp-image-4708" title="technology pic hd" alt="" src="http://harkuchh.com/wp-content/uploads/2012/10/technology-pic-hd-300x199.jpg" width="210" height="139" /></span></a>As I already said this is the technology generation, a latest technology become older the next day this is the field I think changing with the most speed, just remember time of five years back only few reputed people having mobile phones but today everyone have a latest technology mobile phone in pocket (even I have a cellphone :P) People In this Hi-tech world, staying up to date with the latest technology been revealed in the market is mandatory and they do regulalry suffer on internet for searching these things, the biggest benefit of choosing this niche as your blogging topic is, whenever a new <a href="http://harkuchh.com/category/technology/" target="_blank"><span style="font-family: georgia;">gadget</span></a> or device launch in to the market, it automatically creates a hype, big enough to bring visitors to your blog to know more about it. This will give you huge traffic as well as huge income.</span>
-
-<span style="color: #333333;"> </span>
-
-<span style="color: #333333;"> </span>
-<h3 style="padding-left: 30px;"><span style="font-family: georgia;"><strong>1. Blogging <a href="http://harkuchh.com/category/blogging/" target="_blank">Tips</a></strong></span></h3>
-
-<hr />
-
-<span style="font-family: georgia;"><a href="http://harkuchh.com/best-topics-to-write-a-post-for-blog/blogging-tips-300x225/" rel="attachment wp-att-4709"><span style="font-family: georgia;"><img class="alignright size-full wp-image-4709" title="blogging-tips-300x225" alt="" src="http://harkuchh.com/wp-content/uploads/2012/10/blogging-tips-300x225.jpg" width="300" height="225" /></span></a>Blogging became most popular in last half decade, this is a great business many people all around the world making six digit or even more income every month by doing blogging (see this list), so many people joining this field every day and The best sources to learn for the new bloggers are the blogs themselves so they search for basic tips on internet and if you write for them in easy and clear language then your blog will be visited many time more than the ordinary visits. This is the reason I regularly write posts on Blogging tips and because of this my blog’s world alexa ranking reach<a title="Checkout Proof" href="http://www.alexa.com/siteinfo/harkuchh.com#trafficstats" target="_blank"><span style="font-family: georgia;"><em> 61k in just 6 months</em></span></a>.</span>
-
-<span style="color: #333333;"> </span>
-
-<span style="font-family: georgia;">I recommend you to write and help newbie bloggers and also get good income through ads, beacuse if your blog will get decent traffic then chance of clicking on ads will be increse. require you to have the capability and knowledge about web designing and web development so that whatever content you share, it gains reliability for you from your readers.</span>
-
-<span style="color: #333333;"> </span>
-
-<span style="font-family: georgia;">Now I think many people got their title for their next posts, I’m sure this post will help every bloggers to making their blogs, If you like this information please share this, and also comment if you have any other point which you think should be include in this list.</span>
-
-<span style="font-family: georgia;">Also See : <em><strong><a title="Permanent Link to Secure your Gmail Account with 2-Step Verification" href="http://harkuchh.com/secure-your-gmail-account-with-2-step-verification/" rel="bookmark"><span style="color: #333333;">Secure your Gmail Account with 2-Step Verification</span></a></strong></em></span>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[How to add Robots.Txt file to WordPress Blog]]></title>
-    <link href="http://harkuchh.com/how-to-add-robots-txt-file-to-wordpress-blog/"/>
-    <updated>2013-02-23T00:00:00+05:30</updated>
-    <id>http://harkuchh.com/how-to-add-robots-txt-file-to-wordpress-blog</id>
-    <content type="html"><![CDATA[<span style="font-family: georgia;">Before proceeding let’s know a bit about <b>Why to add or Set Robot.txt file</b> ? The robots.txt file is the key to control the crawlers activity on your website/blog, this helps you to keep some directories of blog out of range of crawling while allowing some, Adding Robots file makes your Wordpress blog more relevant as it <b>block un-relevant url from indexing to the search engines</b>, in easy words by adding robots file, your blog commands google bot  `Hey Robot ! don&#8217;t index my Harkuchh.com/wp-admin that’s not important to index !`<!--more--></span>
-
-<span style="font-family: georgia;">Now let’s see <b>how to add Robots file to your blog</b>, Believe me I’m telling you <b>the best and easiest way to add Robot file to your blog, </b>there are some alternative ways to add robot file via plugin but using much plugins are not good, so here is the <b>simple guidance to add Robots.txt to a blog</b>, it can be added through cPanel, Don’t worry it’s easy, let’s start..</span>
-<ul>
-	<li><span style="font-family: georgia;">Go to cPanel</span></li>
-	<li><span style="font-family: georgia;" data-mce-mark="1">Click on </span><b style="font-family: georgia;">File Manager</b><span style="font-family: georgia;" data-mce-mark="1"> under </span><b style="font-family: georgia;">File</b><span style="font-family: georgia;" data-mce-mark="1"> Section and open Home Directory by clicking Go.</span></li>
-</ul>
-<a href="http://harkuchh.com/how-to-add-robots-txt-file-to-wordpress-blog/click-on-file-manager-under-file-section/" rel="attachment wp-att-7326"><img class="aligncenter size-full wp-image-7326" alt="Click on File Manager Under File Section" src="http://harkuchh.com/wp-content/uploads/2013/02/Click-on-File-Manager-Under-File-Section.jpg" width="574" height="449" /></a>
-<ul>
-	<li><span style="font-family: georgia;">Click on </span><b style="font-family: georgia;">Public_Html</b><span style="font-family: georgia;"> at Left side of the Screen</span></li>
-</ul>
-<a href="http://harkuchh.com/how-to-add-robots-txt-file-to-wordpress-blog/click-on-public_html-at-left-side-of-the-screen/" rel="attachment wp-att-7327"><img class="aligncenter size-full wp-image-7327" alt="Click on Public_Html at Left side of the Screen" src="http://harkuchh.com/wp-content/uploads/2013/02/Click-on-Public_Html-at-Left-side-of-the-Screen.jpg" width="339" height="454" /></a>
-<ul>
-	<li><span style="font-family: georgia;">Now click on </span><b style="font-family: georgia;">New File</b><span style="font-family: georgia;"> from the top of the screen</span></li>
-	<li><span style="font-family: georgia;">Name it as robots.txt and click on </span><b style="font-family: georgia;">Create New File</b><span style="font-family: georgia;"> (file create)</span></li>
-	<li><span style="font-family: georgia;">Now click on new </span><b style="font-family: georgia;">robots.txt</b><span style="font-family: georgia;"> file</span></li>
-	<li><span style="font-family: georgia;">Then click </span><b style="font-family: georgia;">Edit</b><span style="font-family: georgia;"> Icon and then click on `Edit` again</span></li>
-</ul>
-<h2><span style="font-family: georgia;" data-mce-mark="1"><span style="font-family: georgia;" data-mce-mark="1"><span style="font-family: georgia;" data-mce-mark="1"><span style="font-family: georgia;" data-mce-mark="1"><span style="font-family: georgia;" data-mce-mark="1"><span style="font-family: georgia;" data-mce-mark="1"><span style="font-family: georgia;" data-mce-mark="1">What to add in Robots.Txt file </span></span></span></span></span></span></span></h2>
-<span style="font-family: georgia;">By adding Allow and Disallow commands in robots file we tell the crawler exactly <b>what to crawl and what to not</b>, so here we Disallow all those thing to crawl which are not important to be on Google or any search engine and which are having very important and critical info about the blog, like it’s directories, various parts and components of blog, the thing which we need to exclude from crawling in a normal WordPress blog are given here..</span>
-<div style="height: 860px; width: 600px; float: left; background: none repeat scroll 0% 0% #f0f0f0; padding-left: 60px;">Sitemap: http://<strong>Harkuchh.com</strong>/sitemap.xml
-Sitemap: http://<strong>Harkuchh.com</strong>/sitemap-image.xmlUser-agent: Mediapartners-Google
-Disallow:User-Agent: *
-Allow: /
-
-User-agent: *
-# disallow all files in these directories
-Disallow: /cgi-bin/
-Disallow: /wp-admin/
-Disallow: /wp-content/
-Disallow: /wp-includes/
-Disallow: /wp-content/plugins/
-Disallow: /wp-content/themes/
-Disallow: /wp-content/upgrade/
-Disallow: /trackback
-Disallow: /*trackback
-Disallow: /*trackback*
-Disallow: /*/trackback
-Disallow: /*.html/$
-Disallow: /xmlrpc.php
-Disallow: /?s=*
-Disallow: *?wptheme
-Disallow: /blog/?p=*
-Disallow: /blog/search?
-Disallow: /xmlrpc.php
-disallow: /*?*
-Disallow: /?p=*
-
-User-agent: Googlebot-Image
-Allow:
-
-User-agent: Adsbot-Google
-Allow: /
-
-User-agent: Googlebot-Mobile
-Allow: /
-
-</div>
-<span style="font-family: georgia;">Copy and paste the complete given list of commands to your robots.txt file and just make a small change –add your blog’s URL at the place of mine Harkuchh.com. Don’t ignore to <b>add robots file</b> to your blog because it just not keep your blog’s critical infosafe instead it also helps in <b>better SEO of your blo</b>g.</span>
-
-Read <strong><a href="http://inhindi.harkuchh.com/robots-txt-file-wordpress-blog-mein-kaise-add-karein/" target="_blank" rel="nofollow"><em>this post in Hindi</em></a></strong>.
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[How to Make Money from Blog without Adsense]]></title>
-    <link href="http://harkuchh.com/how-to-make-money-from-blog-without-adsense/"/>
-    <updated>2013-02-18T00:00:00+05:30</updated>
-    <id>http://harkuchh.com/how-to-make-money-from-blog-without-adsense</id>
-    <content type="html"><![CDATA[<span style="font-family: georgia;"><strong>Blog without Adsense</strong> sound bitter. We all know that anyone who make blog have some purposes for sure, some wants to spread their knowledge, some wants to share their thoughts and majority of people <b>make blogs to earn money</b> from Adsense but how those people earn money whose blogs have no Adsense, as you must have noticed some very highly ranked and popular blogs without Adsense, but we know <b>no adsense means no money</b> through ads, so question arises `What happen to those blogs who have no Adsense Ads.`<!--more--></span>
-
-<span style="font-family: georgia;">I’m a blogger having a blog so I know the importance of Adsense very well and if you are reading this post then most probably you also a member of Bloggers category and know <b>how essential Adsense is for a blog</b>.</span>
-
-<span style="font-family: georgia;">Normally people think Adsense Ads is the only <b>way of earnings from a blog</b> but this is as true as I’m the richest person of the world. I’ve already told you, there are many top blogs without adsense now I want to add ` they have no Adsense it doesn’t mean they are getting nothing` instead they still making decent money through their blogs.</span>
-
-<span style="font-family: georgia;">How would you feel if I tell you <b>blogs making millions of bucks withou Adsense</b>, I know it’s like a joke of the day for you but it’s true. Let’s we discus it’s mechanism&#8230;</span>
-<h2><span style="font-family: georgia;">How Blogs making Money without Adsense</span></h2>
-<span style="font-family: georgia;">They make money via Ads !! surprised, please don’t be. Actually they make money through Ads but not adsense not even from <a href="http://harkuchh.com/ads-providing-sites-for-blogs-and-websites/" target="_blank"><b>Adsense alternatives</b></a> they make big money through Direct Ads marketing which is professionally known as <b>Affiliate marketing</b>, from these direct ads they earn big and fix amount for long term even without up and down like Adsense.</span>
-
-<a href="http://harkuchh.com/wp-content/uploads/2013/02/How-to-Make-Money-from-Blog-without-Adsense-answer-is-Direct-ads-marketing-or-Affiliate-marketing.jpg"><img class="aligncenter size-full wp-image-6810" alt="How to Make Money from Blog without Adsense answer is Direct ads marketing or Affiliate marketing" src="http://harkuchh.com/wp-content/uploads/2013/02/How-to-Make-Money-from-Blog-without-Adsense-answer-is-Direct-ads-marketing-or-Affiliate-marketing.jpg" width="458" height="307" /></a>
-<h2><span style="font-family: georgia;">What is Direct Ads marketing </span></h2>
-<span style="font-family: georgia;">Well it’s preety easy to understand, all you need is bit common sense ! Do you know, in the procedure of Adsense Ads google plays a broker role, suppose Apple is going to lauch a new featured iPad in market then Apple contacts Google for promote that New iPad and Apple pay 3$ to google for one promotion of their product.</span>
-
-<span style="font-family: georgia;">Then Google shows that iPad on our blogs and website via Adsense Ads and when a visitor of our blog click on that iPad Ad it’s counted as one promotion ( 1 click) and google gives us 2$ for that click, but Apple paid 3$ to google, then where do the remained 1$ gone, well it gone to the Google’s account for promoting the product via it’s <strong><a href="http://harkuchh.com/tag/adsense/" target="_blank">Adsense</a> Ads Service</strong>.</span>
-
-<span style="font-family: georgia;">Same thing happens in direct marketing but without the presence of Google i.e. companies contacts the blog owners directly without broker and they pay a fix amountof money for placing their product on blog in the form of image and link ads, and there is no Google to take credit of that amount.</span>
-<h2><span style="font-family: georgia;">Requirements for Direct Ads</span></h2>
-<span style="font-family: georgia;">Now if you don’t have adsense Ads because of any <a href="http://harkuchh.com/how-to-keep-my-google-adsense-account-safe/" target="_blank">reason(s)</a> then don’t think your blog have no future and you won’t leave blogging (many people quit blogging for this reason) you still have many <b>ways to make money online</b>, you just need to fulfill some requirement in order to get Directs ads on your blog which are..</span>
-<ul>
-	<li><span style="font-family: georgia;">High <a title="click to see how to increase Ranking of your blog" href="http://harkuchh.com/how-to-increase-website-blog-traffic-and-ranking/" target="_blank">Alexa Rank</a></span></li>
-	<li><span style="font-family: georgia;">Google Page Rank</span></li>
-	<li><span style="font-family: georgia;">Quality Content</span></li>
-</ul>
-<span style="font-family: georgia;">Once you fulfill these </span><b style="font-family: georgia;">basic requirements for direct ads on blog</b><span style="font-family: georgia;"> people will come and request you for place just one image or link of their company product and believe me they offer that amount which you even never have expected.</span>
-
-<span style="font-family: georgia;">Affiliate marketing is the most popular way of earning from a blog who have no Adsense but this is not the one and only, people also making good money from..</span>
-<ul>
-	<li><span style="font-family: georgia;">Affiliate Marketing</span></li>
-	<li><span style="font-family: georgia;">Selling Ad Space</span></li>
-	<li><span style="font-family: georgia;">Using Text Ads</span></li>
-	<li><span style="font-family: georgia;">Paid Reviews</span></li>
-	<li><span style="font-family: georgia;"><a href="http://harkuchh.com/ads-providing-sites-for-blogs-and-websites/" target="_blank">Adsense alternatives</a>.</span></li>
-</ul>
-<span style="font-family: georgia;">So moral of the story is <strong>Blogging have a great future without Adsense</strong> <strong>too</strong>, so from now start working for it, fulfill the requirements and ready for </span><b style="font-family: georgia;">earn huge money from internet</b><span style="font-family: georgia;">, after all I’m here to tell you </span><b style="font-family: georgia;">how to earn from blog without Adsense</b><span style="font-family: georgia;">, so you can still </span><b style="font-family: georgia;">earn money through internet</b><span style="font-family: georgia;"> and best thing is you can </span><b style="font-family: georgia;">earn by doing work from home</b><span style="font-family: georgia;"> or anywhere you want, Happy Blogging.</span>
-
-<span style="font-family: georgia;"><em><strong>check out</strong></em> : <a href="http://harkuchh.com/time-to-apply-for-adsense/" target="_blank">What is the best time to apply for Adsense Ads</a></span>
 ]]></content>
   </entry>
   
