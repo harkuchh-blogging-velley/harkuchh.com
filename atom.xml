@@ -4,7 +4,7 @@
   <title><![CDATA[harkuchh]]></title>
   <link href="http://harkuchh.com/atom.xml" rel="self"/>
   <link href="http://harkuchh.com/"/>
-  <updated>2014-01-30T01:24:26+05:30</updated>
+  <updated>2014-01-30T23:40:02+05:30</updated>
   <id>http://harkuchh.com/</id>
   <author>
     <name><![CDATA[harkuchh]]></name>
@@ -12,6 +12,75 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[How to use Google like a pro: Tips to use Google syntax ]]></title>
+    <link href="http://harkuchh.com/how-to-use-google-like-a-pro-tips-to-use-google-syntax/"/>
+    <updated>2014-01-30T21:00:32+05:30</updated>
+    <id>http://harkuchh.com/how-to-use-google-like-a-pro-tips-to-use-google-syntax</id>
+    <content type="html"><![CDATA[<p>I know you all use Google to reach everywhere on the Internet, but are you using it properly? Google actually provides a specific syntax for searching which is unknown to the masses. Also known as the Google operators, this syntax can make your Googling much easy and much less frustrating.</p>
+
+<p>It&rsquo;s specially useful for bloggers since all of us need to keep an eye on the Internet trends. It&rsquo;s very useful to know how to properly use our most used tool, that is Google.</p>
+
+<!-- more -->
+
+
+<p>So let&rsquo;s waste less time an look at what Google has to offer for us.</p>
+
+<h1>How to use Google syntax?</h1>
+
+<p>All the search operators described here can be used by putting the operator in the search box followed by the search query. Like to use <strong>related:</strong> operator, following query will be used</p>
+
+<pre><code>related:"harkuchh.com"
+</code></pre>
+
+<h2><em>related:</em> Search for related sites</h2>
+
+<pre><code>related:"example.com"
+</code></pre>
+
+<p><em>related:</em> is used to search for websites which are similar to the website we provide in search box. When we use this operator, Google will search for any information related to the given website from all over the Internet. Google will show websites which have similar content.</p>
+
+<h2><em>link:</em> Search for all pages that link to a particular url</h2>
+
+<pre><code>link:"http://harkuchh.com/trick-to-copy-content-from-a-website-with-copy-protector-enabled/"
+</code></pre>
+
+<p>This operator will search for all the pages that link to the given url.</p>
+
+<h2><em>site:</em> Search within a particular website only</h2>
+
+<pre><code>"site:"harkuchh.com" blogging tips
+</code></pre>
+
+<p>Above query will only search &lsquo;harkuchh.com&rsquo; for the words &lsquo;blogging tips&rsquo;. This is a very useful operator. Just imagine when you need to find a particular post you once seen on a website but can&rsquo;t find a link to it. It&rsquo;s one of my most used operators.</p>
+
+<h2>Search for an exact phrase or word</h2>
+
+<p>When we search for a sentence on Google, it doesn&rsquo;t just search for that exact sentence.
+Try searching for</p>
+
+<pre><code>I will become dictator of the world
+</code></pre>
+
+<p>Google will search for text which have &lsquo;I&rsquo;, &lsquo;will&rsquo;, &lsquo;become&rsquo; etc anywhere on the page. But if we want to only search for pages which contain the complete sentence &ldquo;I will become dictator of the world&rdquo;, we can do it just by putting the whole sentence within quotes. Like this</p>
+
+<pre><code>"I will become dictator of the world"
+</code></pre>
+
+<h2>Exclude something in the results</h2>
+
+<p>Sometimes we want that some specific type of results should not appear in the search results. Google provide a special operator just for this purpose.<br/>
+That is &lsquo;&ndash;&rsquo;.<br/>
+Yes just that. Putting a &lsquo;&ndash;&rsquo; in front of any word will show results which do not have that word in them.
+To make it even better, this work with other Google operators as well.</p>
+
+<pre><code>hello lady how are you -season
+</code></pre>
+
+<p>Above query if searched without &lsquo;-season&rsquo; will show some youtube results about some seasons of some TV program. But running above query will remove those results which have the word &lsquo;season&rsquo; in them.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Trick to copy content from a website with Copy Protector enabled]]></title>
@@ -1831,56 +1900,6 @@ It will still be the full blown Linux Operating System, but it will not affect y
 </table>
 </div>
 <span style="font-family: georgia; color: #000000;">You just write them somewhere in your computer room or at the place where you mostly use computer system, if possible and just try to memories them, Believe me it&#8217;s a great advice, let&#8217;s start now, read them once again.</span>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[How to Apply for Google Adsense Ads]]></title>
-    <link href="http://harkuchh.com/how-to-apply-for-google-adsense-ads/"/>
-    <updated>2013-03-19T00:00:00+05:30</updated>
-    <id>http://harkuchh.com/how-to-apply-for-google-adsense-ads</id>
-    <content type="html"><![CDATA[I believe anybody reading this post already knows <b>What is Google Adsense,</b> Google adsense Ads program is the king of all the ads providing companies over internet, almost every blogger start his/her blogging career with the willingness of making money from their blog with the help of Goggle’s Adsesne Ads program because it provides <b>Google Ads for free, </b>there are many ads network but <b>ads like google adsense</b> is no-one.<!--more-->
-
-I realized it many times that people don’t know <b>how to apply google adsense</b> Ads to the google, if you are also  one of them then congrats ! now you are at the very right place, here you will get the best answer for your problem..
-<h1><span style="color: #000000;"><strong>How to add google adsense to your website</strong></span></h1>
-<strong>1.</strong> Go to the Google <a title="click here" href="http://google.com/adsense" target="_blank">Adsense home page</a> (Google.com/Adsense)
-
-<strong>2.</strong> Fill your e-mail (gmail) ID and password and Click on <b>Sign in</b>, (you’ll need to go for Sign up in case you don’t have gmail account yet).
-<p style="padding-left: 30px;"><a href="http://harkuchh.com/how-to-apply-for-google-adsense-ads/complete-procedure-to-for-adsense-ads/" rel="attachment wp-att-8403"><img class="aligncenter size-full wp-image-8403" alt="complete procedure to for Adsense Ads" src="http://harkuchh.com/wp-content/uploads/2013/03/complete-procedure-to-for-Adsense-Ads.jpg" width="328" height="288" /></a></p>
-&nbsp;
-
-<strong>3.</strong> Now in <b>step 1</b> just click on `<b>Yes, Proceed to Google Account Sign in</b>`.
-<p style="padding-left: 30px;"><a href="http://harkuchh.com/how-to-apply-for-google-adsense-ads/how-to-apply-for-adsense/" rel="attachment wp-att-8404"><img class="aligncenter size-large wp-image-8404" alt="How to apply for Adsense" src="http://harkuchh.com/wp-content/uploads/2013/03/How-to-apply-for-Adsense-580x248.jpg" width="580" height="248" /></a></p>
-&nbsp;
-
-<strong>4.</strong> Now in <b>step 2 </b>fill your full website address (<em>www.abc.com</em>), select content language `<b>English-English</b>` Tick mark the check box (<em>I have read and Agre&#8230;&#8230;</em>) and click on <b>next</b>.
-<p style="padding-left: 30px;"><a href="http://harkuchh.com/how-to-apply-for-google-adsense-ads/how-to-apply-for-adsense-step-2/" rel="attachment wp-att-8405"><img class="aligncenter size-large wp-image-8405" alt="How to apply for Adsense step-2" src="http://harkuchh.com/wp-content/uploads/2013/03/How-to-apply-for-Adsense-step-2-580x458.jpg" width="580" height="458" /></a></p>
-&nbsp;
-
-<strong>5.</strong> In <b>step 3</b>, select your country name (India) then click on account type (Individual), then in Payee name fill your complete name, then in next boxes fill up your complete address House number, city, state, postal code etc very carefully, then fill up your contact no. and then in the box given next to How did you get to know adsense select <b>Friends/collegue</b> and in <b>email preferences</b>, after thaty click on first radio button (<em>customized help and performance&#8230;.</em>) and finally click on `<b>Submit my application</b>`.
-<p style="padding-left: 30px;"><a href="http://harkuchh.com/how-to-apply-for-google-adsense-ads/how-to-apply-for-adsense-step-3-jh/" rel="attachment wp-att-8406"><img class="aligncenter size-full wp-image-8406" alt="How to apply for Adsense step-3 jh" src="http://harkuchh.com/wp-content/uploads/2013/03/How-to-apply-for-Adsense-step-3-jh.jpg" width="643" height="820" /></a></p>
-&nbsp;
-
-<b>Also read</b> : <a href="http://harkuchh.com/ads-providing-sites-for-blogs-and-websites/" target="_blank" rel="nofollow">Alternatives to google adsense</a>.
-
-Done ! now your blog or website is submitted to Google for approval of Adsense Ads, after some hours of this submission you’ll receive an email from Google about the partially checking of your website and in that mail Google will ask you to generate Ad code by giving you an Adsense Account with proper instructions and after generating code you’ll need to place that code somewhere on your site, you can place that code in Widgets (text) or ad space given in your theme or somewhere in your post, once you place the ad code on your site Google will come to check your website completely and if their content team approves your content, then the area where you have placed that generated ad code will start showing Adsense ads and you are ready to place the ads anywhere on your site.
-
-In case Google reject your Adsense application then don’t think it’s all over, Google always gives the reason why your request is not got approved you just work hard to fix that ponit and after some day of working on your blog send the application again to Google, by chance google refuse again to give you adsense you try again but after working on point google mentioned in refusal mail, I people who got approved by google in their tenth try, which means Google may take time but it will surely give ads to google.
-
-Google don’t give ads easily same like a girl not accepts a friendship proposal easily, to understand this better way you must read my `<a href="http://harkuchh.com/google-is-a-girl-i-can-prove-it/" target="_blank"><strong>Google is a girl, I can prove it</strong></a>` post.
-<h2><span style="color: #000000;"><b>Adsense is the most popular Online Ads service because&#8230; </b></span></h2>
-<ul>
-	<li>Adsense Ads is the <b>Google ads for free </b>it won’t take anything from the publisher.</li>
-</ul>
-<ul>
-	<li><b>google adsense for mobile apps</b> or <b>adsense mobile ads</b> helps the publishers to show ads on mobile devices too.</li>
-</ul>
-<ul>
-	<li>By using <b>google adsense advertising</b> people making decent money by working anywhere.</li>
-</ul>
-<ul>
-	<li>Adsense provides <b>free banner ads </b>which help users to see related information on any device.</li>
-</ul>
 ]]></content>
   </entry>
   

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: TIPS | harkuchh]]></title>
+  <title><![CDATA[Category: tips | harkuchh]]></title>
   <link href="http://harkuchh.com/blog/categories/tips/atom.xml" rel="self"/>
   <link href="http://harkuchh.com/"/>
-  <updated>2014-01-30T01:24:26+05:30</updated>
+  <updated>2014-01-30T23:40:02+05:30</updated>
   <id>http://harkuchh.com/</id>
   <author>
     <name><![CDATA[harkuchh]]></name>
@@ -14,530 +14,71 @@
 
   
   <entry>
-    <title type="html"><![CDATA[How to Cut Video using VLC Media Player]]></title>
-    <link href="http://harkuchh.com/how-to-cut-video-using-vlc-media-player/"/>
-    <updated>2013-01-14T00:00:00+05:30</updated>
-    <id>http://harkuchh.com/how-to-cut-video-using-vlc-media-player</id>
-    <content type="html"><![CDATA[<p><span style="font-family: georgia; color: #000000;">Hey folks ! It happen many times at the time of watching a video or movie we like some part of it for example a songs, some great seens from the movie, comedy acts etc and we want to separate out that part from videos easily, in simple words it is called as video cutting.</span> <!--more--></p>
+    <title type="html"><![CDATA[How to use Google like a pro: Tips to use Google syntax ]]></title>
+    <link href="http://harkuchh.com/how-to-use-google-like-a-pro-tips-to-use-google-syntax/"/>
+    <updated>2014-01-30T21:00:32+05:30</updated>
+    <id>http://harkuchh.com/how-to-use-google-like-a-pro-tips-to-use-google-syntax</id>
+    <content type="html"><![CDATA[<p>I know you all use Google to reach everywhere on the Internet, but are you using it properly? Google actually provides a specific syntax for searching which is unknown to the masses. Also known as the Google operators, this syntax can make your Googling much easy and much less frustrating.</p>
 
-<p><span style="font-family: georgia; color: #000000;">Generally people use various softwares for video cuting, but I’m here to tell you that, to cut a small segment of a video you don’t have to install any software program on your computer system. For doing this, all you need is just VLC Media Player which I think everybody have on their system.</span></p>
+<p>It&rsquo;s specially useful for bloggers since all of us need to keep an eye on the Internet trends. It&rsquo;s very useful to know how to properly use our most used tool, that is Google.</p>
 
-<p>&nbsp;</p>
+<!-- more -->
 
-<h3><span style="font-family: georgia; color: #000000;"><strong>How to Cut Videos Using VLC Media Player</strong></span></h3>
 
+<p>So let&rsquo;s waste less time an look at what Google has to offer for us.</p>
 
-<p><span style="font-family: georgia; color: #000000;"><strong>Step : 1.</strong> Play the video in VLC player and click on <code>&lt;strong&gt;View&lt;/strong&gt;</code>then select <code>&lt;strong&gt;Advanced Controls&lt;/strong&gt;</code>.</span></p>
+<h1>How to use Google syntax?</h1>
 
-<p><a href="http://harkuchh.com/how-to-cut-video-using-vlc-media-player/use-vlc-as-a-video-cutter/" rel="attachment wp-att-5976"><img class="aligncenter size-large wp-image-5976" title="Use VLC as a Video Cutter" alt="" src="http://harkuchh.com/wp-content/uploads/2013/01/Use-VLC-as-a-Video-Cutter-580x337.jpg" width="580" height="337" /></a></p>
+<p>All the search operators described here can be used by putting the operator in the search box followed by the search query. Like to use <strong>related:</strong> operator, following query will be used</p>
 
-<p><span style="font-family: georgia; color: #000000;"><strong>Step : 2.</strong> Now you can see some extra icons just above the Play/Pause button at bottom left corner. The first button from left is the<strong> Record</strong> button, just go to that point from where you want to cut a video then click on <code>Record</code> Press it again to stop recording.</span></p>
+<pre><code>related:"harkuchh.com"
+</code></pre>
 
-<p><a href="http://harkuchh.com/how-to-cut-video-using-vlc-media-player/how-to-split-video-using-vlc/" rel="attachment wp-att-5977"><img class="aligncenter size-full wp-image-5977" title="How to split Video using VLC" alt="" src="http://harkuchh.com/wp-content/uploads/2013/01/How-to-split-Video-using-VLC.jpg" width="499" height="460" /></a></p>
+<h2><em>related:</em> Search for related sites</h2>
 
-<p>&nbsp;</p>
+<pre><code>related:"example.com"
+</code></pre>
 
-<p><span style="font-family: georgia; color: #000000;">After you finished cutting the video clip, you can find those clip in your “Documents” or <code>Video</code> folder named as <em>VLC </em>Record with the date and time. This is the best and simplest way to cut video, so from now whenever you find any seen great in a movie use the tool.</span></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[How to Secure Facebook Account]]></title>
-    <link href="http://harkuchh.com/how-to-secure-facebook-account/"/>
-    <updated>2012-11-06T00:00:00+05:30</updated>
-    <id>http://harkuchh.com/how-to-secure-facebook-account</id>
-    <content type="html"><![CDATA[<p><span style="color: #333333;"><a href="http://harkuchh.com/category/fb/" target="_blank"><span style="color: #333333;">Facebook</span></a> is the best social networking site, king of Social Networking, need of every Internet user and we can say The Heart beat of  Youth, in short Facebook is most popular and all we great people knows that the most popular thing is always favourite of evils, I mean evils always have their eye over it.<!--more--></span></p>
+<p><em>related:</em> is used to search for websites which are similar to the website we provide in search box. When we use this operator, Google will search for any information related to the given website from all over the Internet. Google will show websites which have similar content.</p>
 
-<p><span style="color: #333333;"><a href="http://harkuchh.com/how-to-secure-facebook-account/facebook-security-tips/" rel="attachment wp-att-4822"><span style="color: #333333;"><img class="aligncenter size-large wp-image-4822" title="Facebook Security tips" alt="" src="http://harkuchh.com/wp-content/uploads/2012/11/Facebook-Security-tips-580x222.jpg" width="580" height="222" /></span></a></span></p>
+<h2><em>link:</em> Search for all pages that link to a particular url</h2>
 
-<p><span style="color: #333333;">Now Imagine if someone steal your Heartbeat ! no no not in real actually I’m talking if someone hack your Facebook Account, this will be a worst <a href="http://harkuchh.com/price-features-and-specifications-of-lenovo-k860/" target="_blank"><span style="color: #333333;">news</span></a> for anyone I think, nobody wants to loose Facebook account because it is the best way to communicate with near and dear, friends, Girlfriends/boyfriends and many others, I’m just trying to tell importance of Facebook in one’s life and I think this is now a very important part of everyone who use Internet regularly.</span></p>
+<pre><code>link:"http://harkuchh.com/trick-to-copy-content-from-a-website-with-copy-protector-enabled/"
+</code></pre>
 
-<p><span style="color: #333333;"> </span></p>
+<p>This operator will search for all the pages that link to the given url.</p>
 
-<p><span style="color: #333333;"><a title="Scheme to get 50 Rupee free from Facebook" href="http://harkuchh.com/facebook-new-scheme-get-50-rupee-talktime-to-every-new-signups-via-mobile/" target="_blank"><span style="color: #333333;">Facebook</span></a> always tries to secure all your data in the best possible way, but the black hat hackers are always searching for the loop holes to get access to the unrestricted data.</span></p>
+<h2><em>site:</em> Search within a particular website only</h2>
 
-<p><span style="color: #333333;"> </span></p>
+<pre><code>"site:"harkuchh.com" blogging tips
+</code></pre>
 
-<p><span style="color: #333333;">Do you know facebook has how many users, Facebook has one billion users, out of which a recent study said that about 10% accounts are fake which simply means, over 900 million users share their life on Facebook, but most of the people deosn’t enabled the security features provided by Facebook which cause really serious problems sometime. </span></p>
+<p>Above query will only search &lsquo;harkuchh.com&rsquo; for the words &lsquo;blogging tips&rsquo;. This is a very useful operator. Just imagine when you need to find a particular post you once seen on a website but can&rsquo;t find a link to it. It&rsquo;s one of my most used operators.</p>
 
-<p>&nbsp;</p>
+<h2>Search for an exact phrase or word</h2>
 
-<p><span style="color: #333333;">I’m sure you are one of those who share personal life on Facebook, tell me have you enabled your Facebook accounts security settings, most probably your answer will be No ! so I’m going to share most important facebook security tips which surely help you to stay safe over Facebook.</span></p>
+<p>When we search for a sentence on Google, it doesn&rsquo;t just search for that exact sentence.
+Try searching for</p>
 
-<p><span style="color: #333333;"> </span></p>
+<pre><code>I will become dictator of the world
+</code></pre>
 
-<h3 style="padding-left: 30px;"><span style="color: #333333;"><strong>Tip 1 to secure Facebook Account</strong></span></h3>
+<p>Google will search for text which have &lsquo;I&rsquo;, &lsquo;will&rsquo;, &lsquo;become&rsquo; etc anywhere on the page. But if we want to only search for pages which contain the complete sentence &ldquo;I will become dictator of the world&rdquo;, we can do it just by putting the whole sentence within quotes. Like this</p>
 
+<pre><code>"I will become dictator of the world"
+</code></pre>
 
-<p><span style="color: #333333;">You must have heard about <a href="http://en.wikipedia.org/wiki/Https" target="_blank"><span style="color: #333333;"><strong><em>https</em></strong></span></a>, <em>https</em> is more secured than <em>http.</em><strong> </strong>https is a communication protocol for secure communication over a computer network. Hence it is always recommended to have an <em>https</em> protocol while surfing on Internet. Every Facebook account has an option of secure browsing, but when we create account on fb it is disabled by default. So all you need to do is <strong>enable it</strong>!</span></p>
+<h2>Exclude something in the results</h2>
 
-<p><span style="color: #333333;"> </span></p>
+<p>Sometimes we want that some specific type of results should not appear in the search results. Google provide a special operator just for this purpose.<br/>
+That is &lsquo;&ndash;&rsquo;.<br/>
+Yes just that. Putting a &lsquo;&ndash;&rsquo; in front of any word will show results which do not have that word in them.
+To make it even better, this work with other Google operators as well.</p>
 
-<h4><span style="color: #333333;"><strong><em>Let me tell you the way How to Enable this security setting</em></strong></span></h4>
+<pre><code>hello lady how are you -season
+</code></pre>
 
-
-<ol>
-    <li><span style="color: #333333;">click on the down arrow next to the home button then <strong>click on the account settings</strong>.</span></li>
-    <li><span style="color: #333333;">click on <strong>security</strong> at left hand side.</span></li>
-    <li><span style="color: #333333;">Now in the security settings, click on the very first option named <strong>Secure Browsing.</strong></span></li>
-    <li><span style="color: #333333;">Click on check button in front of <strong> b<em>rowse Facebook on a secure connection (https) when possible</em></strong> and click on save changes.</span></li>
-</ol>
-
-
-<p><span style="color: #333333;"> </span></p>
-
-<p><span style="color: #333333;"><em>See the picture below to get what I’m talking about easily </em></span></p>
-
-<p><span style="color: #333333;"><a href="http://harkuchh.com/how-to-secure-facebook-account/best-tips-to-secure-facebook-account/" rel="attachment wp-att-4823"><span style="color: #333333;"><img class="aligncenter size-large wp-image-4823" title="best Tips to Secure facebook Account" alt="" src="http://harkuchh.com/wp-content/uploads/2012/11/best-Tips-to-Secure-facebook-Account-580x202.jpg" width="580" height="202" /></span></a></span></p>
-
-<p><span style="color: #333333;">Now onwards when you browse on Facebook you will have a secured communication!</span></p>
-
-<p><span style="color: #333333;"> </span></p>
-
-<p>&nbsp;</p>
-
-<h3>Tip 2 to secure Facebook Account</h3>
-
-
-<p><span style="color: #333333;">You may know that <a title="click to See" href="http://harkuchh.com/secure-your-gmail-account-with-2-step-verification/" target="_blank"><span style="color: #333333;">Gmail has a 2 Step Verification security setting</span></a>. I personally using this and found it as the best way to secure my account. Now Facebook also providing same way to secure your accounts. With the help of this setting, when you login to Facebook from a different place other than your regular IP, you will receive a text notification on your cell phone/email and it will be very easy for you to know the unauthorized access to your Facebook account.</span></p>
-
-<p><span style="color: #333333;"> </span></p>
-
-<h4><span style="color: #333333;"><strong>To enable this great security Setting on Facebook, Follow these simple steps</strong></span></h4>
-
-
-<ol>
-    <li><span style="color: #333333;">Open <strong>Account Setting</strong> (same page which you opened before).</span></li>
-    <li><span style="color: #333333;"> Click on <strong>Security</strong> at left.</span></li>
-    <li><span style="color: #333333;">Now click on the second option named <strong>Login Notification</strong>.</span></li>
-    <li><span style="color: #333333;">Click on Check button and Fill all the required data (Password and your mobile No.)</span></li>
-</ol>
-
-
-<p><span style="color: #333333;"> </span></p>
-
-<p><span style="color: #333333;"><em>See the picture below to get what I’m talking about easily</em></span></p>
-
-<p><span style="color: #333333;"><a href="http://harkuchh.com/how-to-secure-facebook-account/how-to-secure-facebook-account/" rel="attachment wp-att-4824"><span style="color: #333333;"><img class="aligncenter size-large wp-image-4824" title="How to secure Facebook account" alt="" src="http://harkuchh.com/wp-content/uploads/2012/11/How-to-secure-Facebook-account-580x229.jpg" width="580" height="229" /></span></a></span></p>
-
-<p><span style="color: #333333;"><strong><a href="http://harkuchh.com/how-to-install-windows-8-requirements-and-complete-procedure-to-get-upgraded-to-win-8/" target="_blank"><span style="color: #333333;">Note</span></a> :</strong> Faceook will take sometime to send you varification code so wait a while, don’t be get frustrated after all it’s the matter of Security.</span></p>
-
-<p><span style="color: #333333;"> </span></p>
-
-<p><span style="color: #333333;">Please let me know if you find these tips helpful, I hope now you feeling more secured to use your Facebook account. If you have any query or suggestion please comment. Have Fun :)</span></p>
-
-<p><span style="color: #333333;">Also See : <em>What is the <a title="Click to See" href="http://harkuchh.com/difference-between-somebody-you-love-and-somebody-you-like/" rel="bookmark"><span style="color: #333333;">Difference between somebody you love and Somebody you like</span></a></em></span>
-<span style="color: #333333;"> Do you Know <a href="http://harkuchh.com/how-to-access-multiple-facebook-accounts-in-same-browser/"><span style="color: #333333;"><em>How to access multiple facebook accounts in same browser</em></span></a></span></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[How to Access Multiple Facebook Accounts in a Browser]]></title>
-    <link href="http://harkuchh.com/how-to-access-multiple-facebook-accounts-in-same-browser/"/>
-    <updated>2012-10-26T00:00:00+05:30</updated>
-    <id>http://harkuchh.com/how-to-access-multiple-facebook-accounts-in-same-browser</id>
-    <content type="html"><![CDATA[<p><span style="font-family: georgia; color: #000000;">Is Accessing multiple Facebook account through same browser simultaneously possible ? May be you are thinking this, after reading the title of this <a href="http://harkuchh.com/how-to-write-a-good-post-in-a-less-time-for-blog/" target="_blank"><span style="color: #333333;">post</span></a>. so let me tell Oh Yeah&hellip; this is possible and it&rsquo;s very easy too.<!--more--> </span></p>
-
-<p><span style="color: #333333;"> </span></p>
-
-<p><span style="font-family: georgia; color: #000000;">Many time when we are using <strong><a href="http://harkuchh.com/schedule-birthday-wishes-in-advance-and-never-miss-friends-birthday-again/" target="_blank"><span style="font-family: georgia; color: #000000;">Facebook</span></a></strong> account we have to open another account so for this we generally use any other browser, but now you won&rsquo;t need this, here is the solution of this problem, Go through this post and you will get it very easily.</span></p>
-
-<p><span style="color: #333333;">
-</span></p>
-
-<h4><strong><span style="font-family: georgia; color: #000000;">One and only requirement for this scheme is that you should use Google Chrome browser, so install the Google Chrome if you are using any other and follow these steps..</span></strong></h4>
-
-
-<p>&nbsp;</p>
-
-<p><span style="font-family: georgia; color: #000000;"><strong>1.</strong> Open your facebook account by the same way you log into your account normally i.e. by filling your User ID and Password on facebook homepage now you are logged in.</span></p>
-
-<p><span style="color: #333333;"> </span></p>
-
-<p><span style="font-family: georgia; color: #000000;"><strong>2.</strong> Now we need to open another account in same browser then Right Click on Facebook icon at top left corner and just click on <strong>Open link in Incognito window</strong>. like shown in picture below</span></p>
-
-<p><span style="font-family: georgia; color: #000000;"> </span></p>
-
-<p style="text-align: center;"><span style="color: #333333;"><a href="http://harkuchh.com/how-to-access-multiple-facebook-accounts-in-same-browser/ignito/" rel="attachment wp-att-1052"><span style="color: #333333;"><img class="aligncenter  wp-image-1052" title="ignito" alt="" src="http://harkuchh.com/wp-content/uploads/2012/05/ignito.jpg" width="540" height="150" /></span></a></span></p>
-
-
-<p><span style="color: #333333;"> </span></p>
-
-<p><span style="font-family: georgia; color: #000000;"><strong>3. </strong>After clicking on Open link in Incognito window a new Facebook login page will be open in same browser fill your another User ID and Password and enjoy the experiment ;)</span></p>
-
-<p><span style="color: #333333;"> </span></p>
-
-<h3 style="padding-left: 30px;"><span style="font-family: georgia; color: #000000;"><strong>What is Incognito Window </strong></span></h3>
-
-
-<p><span style="color: #333333;">In Incognito window any data, website  or Pages you view won&rsquo;t appear in your browser history or search history, and they won&rsquo;t leave other traces, like cookies, on your computer after you close all open incognito windows. but any files you download or bookmarks  will be preserved.</span></p>
-
-<p><span style="color: #333333;"> </span></p>
-
-<p><span style="font-family: georgia; color: #000000;">May be this scheme is also working with other browsers too, but I haven&rsquo;t tried this so I suggest you everyone to try it with all the browsers you are using, and also share with us if it is possible with any other.
-</span></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[What are cookies and how to use them in PHP ?]]></title>
-    <link href="http://harkuchh.com/what-are-cookies-and-how-to-use-them-in-php/"/>
-    <updated>2012-09-09T00:00:00+05:30</updated>
-    <id>http://harkuchh.com/what-are-cookies-and-how-to-use-them-in-php</id>
-    <content type="html"><![CDATA[<h3><span style="color: #000000;"><em><strong>What is a cookie</strong></em></span></h3>
-
-
-<p><span style="color: #000000;"><a href="http://harkuchh.com/what-are-cookies-and-how-to-use-them-in-php/what-are-cookies/" rel="attachment wp-att-3951"><img class="alignleft  wp-image-3951" title="what are cookies" alt="" src="http://harkuchh.com/wp-content/uploads/2012/09/what-are-cookies.jpg" width="114" height="115" /></a>A cookie is a small file that we create on user&rsquo;s computer. Almost every website we visit on internet create and save many cookies on our computer for different purposes.</span></p>
-
-<p><span style="color: #000000;"> </span><span style="color: #000000;">If we think our websites as a building, a cookie can be understood as an ID card that is given to every person to distingush that person from all the others who enter the building (</span><span style="color: #000000;"><a href="http://codersapiens.github.com" target="_blank"><span style="color: #000000;">visit our site</span></a></span><span style="color: #000000;">).<!--more--></span></p>
-
-<p><span style="color: #000000;"> </span><span style="color: #000000;">Use this </span><a href="https://addons.mozilla.org/en-US/firefox/addon/cookies-manager-plus/developers" target="_blank"><span style="color: #000000;">firefox addon</span></a><span style="color: #000000;">. Install it, and then open from</span><strong style="color: #000000;"> Tools&gt;Cookie Manager+</strong><span style="color: #000000;">. It will show you all the cookies that are present in your browser and you can also edit and delete cookies with this.</span></p>
-
-<p><span style="color: #000000;">Use this addon for debugging your application (i.e. to see whether the cookies are really set and with what values).</span></p>
-
-<p><span style="color: #000000;"> </span></p>
-
-<h3><span style="color: #000000;"><strong> <em>Why we use cookeis</em></strong></span></h3>
-
-
-<p><span style="color: #000000;">Cookies are used to save information. That information can be anything. It&rsquo;s usually used to save information that is used to identify a user across different pages. For example, when you login to Facebook, it save many cookies to save information to identify you. (use cookie manager+ to see that yourself. Delete all cookies, then login to fb and see how many and what information it save in cookies).</span></p>
-
-<p><span style="color: #000000;"><em>Basic purpose is to identify the user who has logged in.</em></span></p>
-
-<p><span style="color: #000000;"> </span></p>
-
-<h3><strong><span style="color: #000000;"><em><a href="http://harkuchh.com/tag/how/" target="_blank"><span style="color: #000000;">How to</span></a> use cookies</em></span></strong></h3>
-
-
-<p><span style="color: #000000;">We use setcookie() php function.</span></p>
-
-<p><span style="color: #000000;">It has following syntax:</span></p>
-
-<p><span style="color: #000000;"> </span></p>
-
-<p><span style="color: #000000;">setcookie(name, value, expire, path, domain);</span></p>
-
-<p><span style="color: #000000;">Here,</span></p>
-
-<ol start="1">
-    <li><span style="color: #000000;">name is the name with which cookie is saved in browser</span></li>
-    <li><span style="color: #000000;">value is the value of cookie saved</span></li>
-    <li><span style="color: #000000;">expire is the expiration time stamp</span></li>
-    <li><span style="color: #000000;">path is the path on your domain to which the cookie is available</span></li>
-    <li><span style="color: #000000;">domain is domain which can access the cookie (it is your site by default)</span></li>
-</ol>
-
-
-<p><span style="color: #000000;"> </span></p>
-
-<p><span style="color: #000000;">Just take care of the &lsquo;expire&rsquo; parameter. It is a timestamp (like Sept 9, 2012 6:11AM), not how much time to expire the cookie (like 2 hours). People often get confused with this. We use time() function to know current server time, and then add no. of seconds after which it&rsquo;ll be expired in it. e.g.</span></p>
-
-<p><span style="color: #000000;"> </span></p>
-
-<p><span style="color: #3366ff;">setcookie(&ldquo;TestCookie&rdquo;, $value, time()+3600);  /<em> expire in 1 hour </em>/</span></p>
-
-<p><span style="color: #000000;"> </span></p>
-
-<p><span style="color: #000000;">Here</span></p>
-
-<ol start="1">
-    <li><span style="color: #000000;">"TestCookie" is the name of cookie</span></li>
-    <li><span style="color: #000000;">$value is the information we want to save in that cookie</span></li>
-    <li><span style="color: #000000;">and third parameter is the expiration time</span></li>
-</ol>
-
-
-<p><span style="color: #000000;">Information we want to save is kept in the &lsquo;value&rsquo; parameter.</span></p>
-
-<p><span style="color: #000000;">Go <a href="http://php.net/manual/en/function.setcookie.php" target="_blank"><span style="color: #000000;">here (official php documentation)</span></a> for complete information.</span></p>
-
-<p><span style="color: #000000;"> </span></p>
-
-<h3><span style="color: #000000;"><em><strong>How to Retrieve Information from Cookies</strong></em></span></h3>
-
-
-<p><span style="color: #000000;">Everything we save in cookies is simply available in $_COOKIE[&lsquo;cookie_name&rsquo;] array.</span></p>
-
-<p><span style="color: #000000;"> Do you know : <a href="http://harkuchh.com/how-to-access-multiple-facebook-accounts-in-same-browser/" target="_blank"><span style="color: #000000;"><em>The way to Access Multiple Facebook Accounts in Same Browser</em></span></a></span></p>
-
-<p>&nbsp;</p>
-
-<h3><span style="color: #000000;"><em><strong>How to Use cookies in real world</strong></em></span></h3>
-
-
-<p><span style="color: #000000;">When the user successfully login to your site, set a cookie with some unique identifier that&rsquo;d help to identify that user all over the site. We do that by setting a cookie with a value that&rsquo;s unique for every user, like their user_name or user_id (this approach is actually not at all safe, I&rsquo;ll tell you why in a min). And then when user visit the profile page, read the cookie data and show different pages for different users.</span></p>
-
-<p><span style="color: #000000;">Here&rsquo;s a little example meta-code:</span></p>
-
-<p><span style="color: #000000;"> </span><span style="color: #000000;">After a user successfully logs in, execute this code and redirect user to wherever you want (may be their profile page)</span></p>
-
-<p><span style="color: #000000;"> </span></p>
-
-<p style="padding-left: 60px;"><span style="color: #ff0000;">if(login == 'successful') {</span></p>
-
-
-<p style="padding-left: 60px;"><span style="color: #ff0000;">  setcookie("authenticated", "true", time()+3600);</span></p>
-
-
-<p style="padding-left: 60px;"><span style="color: #ff0000;"> setcookie("user_id", "9", time()+3600);</span></p>
-
-
-<p style="padding-left: 60px;"><span style="color: #ff0000;">}</span></p>
-
-
-<p><span style="color: #000000;"> </span></p>
-
-<p><span style="color: #000000;">And then on user.php page, fetch the data for user with user_id 9.</span></p>
-
-<p><span style="color: #000000;">i.e. <span style="color: #008000;">SELECT * FROM users_db WHERE user_id= $_COOKIE[&lsquo;user_id&rsquo;]</span></span></p>
-
-<p><span style="color: #000000;"> </span></p>
-
-<p><span style="color: #000000;">But this approach is not safe. Anyone can change the user_id value in cookie (with addons like above) and access other users' data. Simplest way to avoid this is by &lsquo;not&rsquo; using cookies for login data. Sites like facebook use cookies, but they use complex algorithms to make them secure.</span></p>
-
-<p><span style="color: #000000;"> </span></p>
-
-<p><span style="color: #000000;">Use session variables instead of cookies. Sessions are stored on server, so they are not directly accessible to user and hence offer more security.</span></p>
-
-<p><span style="color: #000000;"><strong><em>For example</em></strong>, after a successful user login:</span></p>
-
-<p><span style="color: #000000;"> </span></p>
-
-<p style="padding-left: 30px;"><span style="color: #ff0000;">if(login == 'successful') {</span></p>
-
-
-<p style="padding-left: 30px;"><span style="color: #ff0000;"> $_SESSION['logged_in'] = true;</span></p>
-
-
-<p style="padding-left: 30px;"><span style="color: #ff0000;"> $_SESSION['user_id'] = $user_id;</span></p>
-
-
-<p style="padding-left: 30px;"><span style="color: #ff0000;">}</span></p>
-
-
-<p style="padding-left: 30px;"><span style="color: #ff0000;"> </span></p>
-
-
-<p><span style="color: #000000;">and they can be accessed as regular php variables after that. On user.php page, just check if user is &lsquo;logged_in&rsquo; and</span></p>
-
-<p><span style="color: #000000;">fetch his personal data from database:</span></p>
-
-<p><span style="color: #000000;"> </span></p>
-
-<p style="padding-left: 30px;"><span style="color: #008000;">if($_SESSION['logged_in'] == true) {</span></p>
-
-
-<p style="padding-left: 30px;"><span style="color: #ff0000;"> SELECT * FROM user_db WHERE user_id = "$_SESSION['user_id']"</span></p>
-
-
-<p><span style="color: #000000;"> </span></p>
-
-<p><span style="color: #000000;">This approach is safe</span></p>
-
-<p><span style="color: #000000;"> </span></p>
-
-<p><span style="color: #000000;">In short,</span></p>
-
-<ol start="1">
-    <li><span style="color: #000000;">Use cookies for saving non critical data (not needed in your project)</span></li>
-    <li><span style="color: #000000;">Use $_SESSION variables for checking the logged_in users</span></li>
-</ol>
-
-
-<p><span style="color: #000000;">And if you want to use cookies anyway (for learning or whatever reason you have),</span></p>
-
-<ol start="1">
-    <li><span style="color: #000000;">Set cookies when user successfully log in with setcookie()</span></li>
-    <li><span style="color: #000000;">Set a cookie with a value that will uniquely identify a user (like his user_id)</span></li>
-    <li><span style="color: #000000;">Use those cookies (with $_COOKIE['cookie_name']) wherever you need, like on user's profile page</span></li>
-</ol>
-
-
-<p><span style="color: #000000;">Same goes for the session variables.</span></p>
-
-<p><span style="color: #000000;"> </span></p>
-
-<p><span style="color: #000000;">You must read tutorial to get it better, because all the <a href="http://harkuchh.com/top-blogs-and-bloggers-of-india-and-their-earnings/">top blogger</a> and everyone says everytime Nothing teaches better than a quick tutorial. Click here..</span></p>
-
-<p><span style="color: #000000;">You also love : <em><a href="http://harkuchh.com/how-to-manage-a-lot-of-downloads/" target="_blank"><span style="color: #000000;">How To Manage a Lot Of Downloads</span></a></em></span></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Tutorial To Understand 'COOKIES' Better]]></title>
-    <link href="http://harkuchh.com/tutorial-to-understand-cookies-better/"/>
-    <updated>2012-09-09T00:00:00+05:30</updated>
-    <id>http://harkuchh.com/tutorial-to-understand-cookies-better</id>
-    <content type="html"><![CDATA[<p><span style="color: #000000;">In our post &ldquo;<a href="http://harkuchh.com/what-are-cookies-and-how-to-use-them-in-php/" target="_blank"><span style="color: #000000;"><em>What are cookies and how to use them in PHP</em></span></a> ?&rdquo; we said in the last of  post that <em>&lsquo;Nothing teaches better than a quick tutorial&rsquo;</em>. So here’s one.</span></p>
-
-<p><span style="color: #000000;">I hope you have already <a href="http://channikhabra.blogspot.in/2012/07/setting-up-your-own-lamp-machine-for.html" target="_blank"><span style="color: #000000;">set a php development environment</span></a>. If not, learn <a href="http://channikhabra.blogspot.in/2012/07/setting-up-your-own-lamp-machine-for.html" target="_blank"><span style="color: #000000;">how to do it on Linux here</span></a>.<!--more--></span></p>
-
-<p><span style="color: #000000;"> </span></p>
-
-<p><span style="color: #000000;">We’ll make three files in this <em><a href="http://harkuchh.com/tag/tps/" target="_blank"><span style="color: #000000;">tutorial</span></a></em>.</span></p>
-
-<ol start="1">
-    <li><span style="color: #000000;">login.php: Page with login form</span></li>
-    <li><span style="color: #000000;">login_proc.php: Page with code to set cookies on successful login</span></li>
-    <li><span style="color: #000000;">user.php: User profile page that’ll use information set in cookies</span></li>
-</ol>
-
-
-<p><span style="color: #000000;"> </span></p>
-
-<h2><span style="color: #000000;"><em><strong>login.php</strong></em></span></h2>
-
-
-<p style="padding-left: 60px;"><span style="color: #008000;">&lt;table&gt;</span></p>
-
-
-<p style="padding-left: 60px;"><span style="color: #008000;">&lt;form action="login_proc.php" method='post'&gt;</span></p>
-
-
-<p style="padding-left: 60px;"><span style="color: #008000;">&lt;tr&gt;</span></p>
-
-
-<p style="padding-left: 60px;"><span style="color: #008000;">&lt;td&gt;</span></p>
-
-
-<p style="padding-left: 60px;"><wbr /><span style="color: #008000;">  &lt;lable for='user_name'&gt;Enter your Name&lt;/lable&gt;</span></p>
-
-
-<p style="padding-left: 60px;"><span style="color: #008000;">&lt;/td&gt;</span></p>
-
-
-<p style="padding-left: 60px;"><span style="color: #008000;">&lt;td&gt;</span></p>
-
-
-<p style="padding-left: 60px;"><wbr /><span style="color: #008000;">  &lt;input type="text" name='user_name'&gt;</span></p>
-
-
-<p style="padding-left: 60px;"><span style="color: #008000;">&lt;/td&gt;</span></p>
-
-
-<p style="padding-left: 60px;"><span style="color: #008000;">&lt;/tr&gt;</span></p>
-
-
-<p style="padding-left: 60px;"><span style="color: #008000;">&lt;tr&gt;</span></p>
-
-
-<p style="padding-left: 60px;"><span style="color: #008000;">&lt;td&gt;</span><wbr /><span style="color: #008000;">Password&lt;/td&gt;</span></p>
-
-
-<p style="padding-left: 60px;"><span style="color: #008000;">&lt;td&gt;</span></p>
-
-
-<p style="padding-left: 60px;"><wbr /><span style="color: #008000;">  &lt;input type="password" name='passwd'&gt;</span></p>
-
-
-<p style="padding-left: 60px;"><span style="color: #008000;">&lt;/td&gt;</span></p>
-
-
-<p style="padding-left: 60px;"><span style="color: #008000;">&lt;/tr&gt;</span></p>
-
-
-<p style="padding-left: 60px;"><span style="color: #008000;">&lt;tr&gt;</span></p>
-
-
-<p style="padding-left: 60px;"><span style="color: #008000;">&lt;td&gt;</span></p>
-
-
-<p style="padding-left: 60px;"><wbr /><span style="color: #008000;">  &lt;input type="submit" value='Log In'&gt;</span></p>
-
-
-<p style="padding-left: 60px;"><span style="color: #008000;">&lt;/td&gt;</span></p>
-
-
-<p style="padding-left: 60px;"><span style="color: #008000;">&lt;/tr&gt;</span></p>
-
-
-<p style="padding-left: 60px;"><span style="color: #008000;">&lt;/form&gt;</span></p>
-
-
-<p style="padding-left: 60px;"><span style="color: #008000;">&lt;/table&gt;</span></p>
-
-
-<p><span style="color: #000000;"> </span></p>
-
-<p><span style="color: #000000;">Nothing to explain in this file. Just a simple form</span></p>
-
-<p><span style="color: #000000;"> </span></p>
-
-<h2><span style="color: #000000;"><em><strong>login_proc.php</strong></em></span></h2>
-
-
-<p><span style="color: #000000;"> </span></p>
-
-<p style="padding-left: 60px;"><span style="color: #ff0000;">&lt;?php</span></p>
-
-
-<p style="padding-left: 60px;"><span style="color: #ff0000;">if($_POST['passwd'] == 'root'){</span></p>
-
-
-<p style="padding-left: 60px;"><span style="color: #ff0000;">setcookie('</span><wbr /><span style="color: #ff0000;">name',$_POST['user_name'], time()+3600);</span></p>
-
-
-<p style="padding-left: 60px;"><span style="color: #ff0000;">header("</span><wbr /><span style="color: #ff0000;">location: user.php");</span></p>
-
-
-<p style="padding-left: 60px;"><span style="color: #ff0000;">}</span></p>
-
-
-<p style="padding-left: 60px;"><span style="color: #ff0000;">else{</span></p>
-
-
-<p style="padding-left: 60px;"><span style="color: #ff0000;">header("</span><wbr /><span style="color: #ff0000;">Location: login.php");</span></p>
-
-
-<p style="padding-left: 60px;"><span style="color: #ff0000;">}</span></p>
-
-
-<p style="padding-left: 60px;"><span style="color: #ff0000;">?&gt;</span></p>
-
-
-<p><span style="color: #000000;"> </span></p>
-
-<p><span style="color: #000000;">This code check if password was right (here you put your login validation logic) and sets a cookie with name ‘user_name’. In real world projects, here come the user_id or unique user_name (actually in an encrypted form so that user don’t access other users’ accounts by changing cookie values().</span></p>
-
-<p><span style="color: #000000;"> </span></p>
-
-<h2><span style="color: #000000;"><em><strong>user.php</strong></em></span></h2>
-
-
-<p><span style="color: #000000;"> </span></p>
-
-<p style="padding-left: 30px;"><span style="color: #000080;">&lt;?php</span></p>
-
-
-<p style="padding-left: 30px;"><span style="color: #000080;">echo "&lt;h1&gt;Hello ".$_COOKIE['name']."&lt;/h1&gt;";</span></p>
-
-
-<p style="padding-left: 30px;"><span style="color: #000080;">?&gt;</span></p>
-
-
-<p><span style="color: #000000;"> </span></p>
-
-<p><span style="color: #000000;">Here is the code of user’s profile page. Not much in this example. But in real world, use cookie variable to identify the user and show him a custom profile page (with his personal information).</span></p>
-
-<p><span style="color: #000000;"> </span></p>
-
-<p><span style="color: #000000;">Above tutorial was just an illustration of how to deal with cookies. Hope you liked it, click share please.. :)</span></p>
-
-<p><span style="color: #000000;">You will also like : <a href="http://harkuchh.com/shortcuts-for-windows-8/"><span style="color: #000000;"><em>All Shortcuts for Windows 8</em></span></a></span></p>
-
-<script type="text/javascript">// &lt;![CDATA[
-google_ad_client = "ca-pub-5172967015513444";
-/* rectangle */
-google_ad_slot = "0841601709";
-google_ad_width = 300;
-google_ad_height = 250;
-// ]]&gt;</script>
-
-
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">// &lt;![CDATA[
-
-// ]]&gt;</script>
-
+<p>Above query if searched without &lsquo;-season&rsquo; will show some youtube results about some seasons of some TV program. But running above query will remove those results which have the word &lsquo;season&rsquo; in them.</p>
 ]]></content>
   </entry>
   
