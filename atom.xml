@@ -4,7 +4,7 @@
   <title><![CDATA[harkuchh]]></title>
   <link href="http://harkuchh.com/atom.xml" rel="self"/>
   <link href="http://harkuchh.com/"/>
-  <updated>2014-01-30T23:40:02+05:30</updated>
+  <updated>2014-01-31T23:46:21+05:30</updated>
   <id>http://harkuchh.com/</id>
   <author>
     <name><![CDATA[harkuchh]]></name>
@@ -12,6 +12,35 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Full Fledge Guide on TLD's - What is Top Level Domain(s)]]></title>
+    <link href="http://harkuchh.com/full-fledge-guide-on-tlds-what-is-top-level-domain-s/"/>
+    <updated>2014-01-31T02:31:05+05:30</updated>
+    <id>http://harkuchh.com/full-fledge-guide-on-tlds-what-is-top-level-domain-s</id>
+    <content type="html"><![CDATA[<p>Top level domain which is also abbrebiated as TLD is the very last segment of any domain name, every domain&rsquo;s last part is simply called as TLD. The TLD is the letters immediately following the final dot in an Internet address i.e. any website url, for Instance in Harkuchh.com here .com is TLD of generic class (we will talk about TLD classes below). Most generally TLD is use to identifies something about a website is associated with, like its purpose, the organization that owns it or the geographical area from where it has originates, and every type of TLD has a different registry which is being maintained by a designated organization the Internet Assigned Numbers Authority (IANA) under the direction of ICANN i.e. The Internet Corporation for Assigned Names and Numbers.</p>
+
+<!-- more -->
+
+
+<p>
+To better understand TLD see our Internet address which is, <a href="http://Harkuchh.com">http://Harkuchh.com</a> now here com is the top-level domain name and Harkuchh is the second-level domain name and if a domain has anything even before second level domain then it is called as a subdomain. When these all merge together they build a fully qualified domain name (FQDN) the addition of <a href="HTTP://">HTTP://</a> makes an FQDN a complete URL.</p>
+
+<h2><strong>Four (4) major categories of TLDs</strong></h2>
+
+<p><strong>Generic top-level domains (gTLD)</strong> &mdash; These are the most used, common and familiar type of TLDs. Examples include &ldquo;com&rdquo; for &ldquo;commercial&rdquo;, &ldquo;org&rdquo; for &ldquo;organization&rdquo; and &ldquo;edu&rdquo; for &ldquo;educational.&rdquo; Most generic TLDs are open for everyone to register, but there is a subgroup that is more strictly controlled and that is not used broadly.</p>
+
+<p><strong>Country-code top-level domains (ccTLD)</strong> &mdash; Each ccTLD identifies a particular country and every ccTLD is two letters long, for example we can see the ccTLD for India is .in and for United States is .us.</p>
+
+<p><strong>Infrastructure top-level domain</strong> &mdash; This type is very often used class of TLD may be that is the reason there is only one TLD in this group, ARPA (Address and Routing Parameter Area). The Internet Assigned Numbers Authority (IANA) manages this TLD for the IETF.</p>
+
+<p><strong>Sponsored top-level domains (sTLD)</strong>: These are overseen by private organizations.</p>
+
+<p>ICANN Proposed an expansion of the TLD system to allow anyone to register and also reserve any spare unused letter sequence as a TLD for Their exclusive use, in April 2009. For example if a company who use to sell sotwares want to to use .Soft as a TLD then they can use it. According to <strong>ICANN chief executive Paul Levins</strong>, Such an extension would lead to thousands of new TLDs in the coming years.</p>
+
+<p>Have any query? just leave a comment, you can also use <a href="http://harkuchh.com/forums" target="_blank"> Harkuchh Forums </a> for any help.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[How to use Google like a pro: Tips to use Google syntax ]]></title>
@@ -1656,250 +1685,6 @@ It will still be the full blown Linux Operating System, but it will not affect y
 <span style="font-family: georgia;">It is not that hard to use Linux as people say. Use this guide to help you, or you can contact me if you have any problem. I will be more than happy to help. Linux is the awesomeness you must not ignore. Even if you need to suffer a little with your first steps towards Linux, it&#8217;s worth the fruit you gonna get in the end.
 <span style="font-family: georgia;">Happy hacking :)
 </span></span>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[All the Basic Computer Shortcuts]]></title>
-    <link href="http://harkuchh.com/basic-computer-shortcuts/"/>
-    <updated>2013-03-21T00:00:00+05:30</updated>
-    <id>http://harkuchh.com/basic-computer-shortcuts</id>
-    <content type="html"><![CDATA[<span style="font-family: georgia; color: #000000;">Hey Guys ! I strongly recommended to everybody around the Internet world to make it your habit to use shortcuts while working on PC or Laptop. Do I need to explain Why ? Ok let me explain, remember it&#8217;s for you ! There are no.s of benefits of using shortcuts in computer work, first and most important point is that it will dramatically increase your productivity and increase your speed to work<!--more--> on the computer, and we all know high speed is how necessary for today&#8217;s technology generation, you just need to try slowly you will be familiar with them and it will  become normal in some day. It simply means, it has only benefits and lots of benefits using Shortcuts, All basic computer shortcuts are right below.</span>
-<div dir="ltr"><a href="http://harkuchh.com/basic-computer-shortcuts/shortcuts/" rel="attachment wp-att-5940"><img class="size-full wp-image-5940" title="Shortcuts Key to improve speed on Computer" alt="" src="http://harkuchh.com/wp-content/uploads/2013/02/Shortcuts.jpg" width="528" height="397" /></a></div>
-<div dir="ltr"></div>
-<div id="gt-src-tools-l"></div>
-<div></div>
-<div id="gt-res-tools">
-<div>
-<table cellspacing="1" cellpadding="5">
-<tbody>
-<tr>
-<td><span style="color: #000000;"><strong><strong>Ctrl + A</strong></strong></span></td>
-<td><span style="color: #000000;">Select all text.</span></td>
-</tr>
-<tr>
-<td><span style="color: #000000;"><strong><strong>Ctrl + C</strong></strong></span></td>
-<td><span style="color: #000000;">Copy selected item.</span></td>
-</tr>
-<tr>
-<td><span style="color: #000000;"><strong><strong>Ctrl + V</strong></strong></span></td>
-<td><span style="color: #000000;">Paste</span></td>
-</tr>
-<tr>
-<td><span style="color: #000000;"><strong><strong>Ctrl + X</strong></strong></span></td>
-<td><span style="color: #000000;">Cut selected item.</span></td>
-</tr>
-<tr>
-<td><span style="color: #000000;"><strong><strong>Home</strong></strong></span></td>
-<td><span style="color: #000000;">Goes to beginning of current line.</span></td>
-</tr>
-<tr>
-<td><span style="color: #000000;"><strong><strong>End</strong></strong></span></td>
-<td><span style="color: #000000;">Goes to end of current line.</span></td>
-</tr>
-<tr>
-<td><span style="color: #000000;"><strong><strong>F1</strong></strong></span></td>
-<td><span style="color: #000000;">Universal Help in almost every Windows program.</span></td>
-</tr>
-<tr>
-<td><span style="color: #000000;"><strong><strong>Ctrl + Home</strong></strong></span></td>
-<td><span style="color: #000000;">Goes to beginning of document.</span></td>
-</tr>
-<tr>
-<td><span style="color: #000000;"><strong><strong>Ctrl + End</strong></strong></span></td>
-<td><span style="color: #000000;">Goes to end of document.</span></td>
-</tr>
-<tr>
-<td><span style="color: #000000;"><strong><strong>Alt + E</strong></strong></span></td>
-<td><span style="color: #000000;">Edit options in current program</span></td>
-</tr>
-<tr>
-<td><span style="color: #000000;"><strong><strong>Shift + Del</strong></strong></span></td>
-<td><span style="color: #000000;">Cut selected item.</span></td>
-</tr>
-<tr>
-<td><span style="color: #000000;"><strong><strong>Shift + Ins</strong></strong></span></td>
-<td><span style="color: #000000;">Paste</span></td>
-</tr>
-<tr>
-<td><span style="color: #000000;"><strong><strong>Ctrl + Ins</strong></strong></span></td>
-<td><span style="color: #000000;">Copy selected item</span></td>
-</tr>
-<tr>
-<td><span style="color: #000000;"><strong><strong>Alt + F</strong></strong></span></td>
-<td><span style="color: #000000;">File menu options in current program.</span></td>
-</tr>
-<tr>
-<td><span style="color: #000000;"><strong>Shift + Home</strong></span></td>
-<td><span style="color: #000000;">Highlights from current position to beginning of line.</span></td>
-</tr>
-<tr>
-<td><span style="color: #000000;"><strong>Shift + End</strong></span></td>
-<td><span style="color: #000000;">Highlights from current position to end of line.</span></td>
-</tr>
-<tr>
-<td><span style="color: #000000;"><strong>Ctrl + Left arrow</strong></span></td>
-<td><span style="color: #000000;">Moves one word to the left at a time.</span></td>
-</tr>
-<tr>
-<td><span style="color: #000000;"><strong>Ctrl + Right arrow</strong></span></td>
-<td><span style="color: #000000;">Moves one word to the right at a time.</span></td>
-</tr>
-</tbody>
-</table>
-</div>
-<div>
-<table cellspacing="1" cellpadding="5">
-<tbody>
-<tr>
-<td><span style="color: #000000;"><strong>Ctrl+U                  </strong></span></td>
-<td><span style="color: #000000;">Underline                                                               </span></td>
-</tr>
-<tr>
-<td><span style="color: #000000;"><strong>Ctrl+I</strong></span></td>
-<td><span style="color: #000000;">Italic</span></td>
-</tr>
-<tr>
-<td><span style="color: #000000;"><strong>Ctrl+B</strong></span></td>
-<td><span style="color: #000000;">Bold.</span></td>
-</tr>
-<tr>
-<td><span style="color: #000000;"><strong>F5</strong></span></td>
-<td><span style="color: #000000;">Refresh</span></td>
-</tr>
-<tr>
-<td><span style="color: #000000;"><strong>Ctrl + &lt;&#8211;</strong></span></td>
-<td><span style="color: #000000;">One word left</span></td>
-</tr>
-<tr>
-<td><span style="color: #000000;"><strong>Ctrl+&#8211;&gt;</strong></span></td>
-<td><span style="color: #000000;">One word right</span></td>
-</tr>
-<tr>
-<td><span style="color: #000000;"><strong>Shift+&lt;&#8211;</strong></span></td>
-<td><span style="color: #000000;">select left Text</span></td>
-</tr>
-<tr>
-<td><span style="color: #000000;"><strong>Shift+&#8211;&gt;</strong></span></td>
-<td><span style="color: #000000;">Select Right Text</span></td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
-<div id="gt-res-tools-r">
-<table cellspacing="1" cellpadding="5">
-<tbody>
-<tr>
-<td><span style="color: #000000;"><strong>Ctrl+Z                  </strong></span></td>
-<td><span style="color: #000000;">Undo</span></td>
-</tr>
-<tr>
-<td><span style="color: #000000;"><strong>Ctrl+Y   </strong></span></td>
-<td><span style="color: #000000;">Redo</span></td>
-</tr>
-<tr>
-<td><span style="color: #000000;"><strong>Ctrl+S</strong></span></td>
-<td><span style="color: #000000;">Save.</span></td>
-</tr>
-<tr>
-<td><span style="color: #000000;"><strong>Ctrl + F</strong></span></td>
-<td><span style="color: #000000;">Find                                                                       </span></td>
-</tr>
-<tr>
-<td><span style="color: #000000;"><strong>Alt+Ctrl + Del</strong></span></td>
-<td><span style="color: #000000;">Delete Pemanently</span></td>
-</tr>
-<tr>
-<td><strong>
-</strong></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-</div>
-<div></div>
-<div>
-<h3><strong><span style="color: #000000;">Unix and Linux shortcut keys</span></strong></h3>
-&nbsp;
-
-</div>
-<div>
-<table cellspacing="1" cellpadding="5">
-<tbody>
-<tr>
-<td valign="top"><strong><span style="color: #000000;">CTRL + B</span></strong></td>
-<td valign="top"><span style="color: #000000;">Moves the cursor backward one character.</span></td>
-</tr>
-<tr>
-<td valign="top"><strong><span style="color: #000000;">CTRL + C</span></strong></td>
-<td valign="top"><span style="color: #000000;">Cancels the currently running command.</span></td>
-</tr>
-<tr>
-<td valign="top"><strong><span style="color: #000000;">CTRL + D</span></strong></td>
-<td valign="top"><span style="color: #000000;">Logs out of the current session.</span></td>
-</tr>
-<tr>
-<td valign="top"><strong><span style="color: #000000;">CTRL + F</span></strong></td>
-<td valign="top"><span style="color: #000000;">Moves the cursor forward one character.</span></td>
-</tr>
-<tr>
-<td valign="top"><strong><span style="color: #000000;">CTRL + H</span></strong></td>
-<td valign="top"><span style="color: #000000;">Erase one character. Similar to pressing backspace.</span></td>
-</tr>
-<tr>
-<td valign="top"><strong><span style="color: #000000;">CTRL + P</span></strong></td>
-<td valign="top"><span style="color: #000000;">Paste previous line(s).</span></td>
-</tr>
-<tr>
-<td valign="top"><strong><span style="color: #000000;">CTRL + S</span></strong></td>
-<td valign="top"><span style="color: #000000;">Stops all output on screen (XOFF).</span></td>
-</tr>
-<tr>
-<td valign="top"><strong><span style="color: #000000;">CTRL + Q</span></strong></td>
-<td valign="top"><span style="color: #000000;">Turns all output stopped on screen back on (XON).</span></td>
-</tr>
-<tr>
-<td valign="top"><strong><span style="color: #000000;">CTRL + U</span></strong></td>
-<td valign="top"><span style="color: #000000;">Erases the complete line.</span></td>
-</tr>
-<tr>
-<td valign="top"><strong><span style="color: #000000;">CTRL + W</span></strong></td>
-<td valign="top"><span style="color: #000000;">Deletes the last word typed in.</span></td>
-</tr>
-<tr>
-<td valign="top"><strong><span style="color: #000000;">CTRL + Z</span></strong></td>
-<td valign="top"><span style="color: #000000;">Cancels current operation, moves back a directory. </span></td>
-</tr>
-</tbody>
-</table>
-<h3><span style="color: #000000;"><strong>Command line shortcuts</strong></span></h3>
-<table cellspacing="1" cellpadding="5">
-<tbody>
-<tr>
-<td><strong><span style="color: #000000;">~</span></strong></td>
-<td><span style="color: #000000;">Moves to the user&#8217;s home directory.</span></td>
-</tr>
-<tr>
-<td><strong><span style="color: #000000;">!!</span></strong></td>
-<td><span style="color: #000000;">Repeats the line last entered at the shell. See historycommand for previous commands.</span></td>
-</tr>
-<tr>
-<td><strong><span style="color: #000000;">!$</span></strong></td>
-<td><span style="color: #000000;">Repeats the last argument for the command last used. Seehistory command for previous commands.</span></td>
-</tr>
-<tr>
-<td><strong><span style="color: #000000;">reset</span></strong></td>
-<td><span style="color: #000000;">Resets the terminal if terminal screen is not displaying correctly.</span></td>
-</tr>
-<tr>
-<td><strong><span style="color: #000000;">shutdown -h now</span></strong></td>
-<td><span style="color: #000000;">Remotely or locally shuts the system down.</span></td>
-</tr>
-</tbody>
-</table>
-</div>
-<span style="font-family: georgia; color: #000000;">You just write them somewhere in your computer room or at the place where you mostly use computer system, if possible and just try to memories them, Believe me it&#8217;s a great advice, let&#8217;s start now, read them once again.</span>
 ]]></content>
   </entry>
   

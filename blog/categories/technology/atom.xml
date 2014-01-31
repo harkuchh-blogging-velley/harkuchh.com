@@ -4,7 +4,7 @@
   <title><![CDATA[Category: technology | harkuchh]]></title>
   <link href="http://harkuchh.com/blog/categories/technology/atom.xml" rel="self"/>
   <link href="http://harkuchh.com/"/>
-  <updated>2014-01-30T23:40:02+05:30</updated>
+  <updated>2014-01-31T23:46:21+05:30</updated>
   <id>http://harkuchh.com/</id>
   <author>
     <name><![CDATA[harkuchh]]></name>
@@ -12,6 +12,35 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Full Fledge Guide on TLD's - What is Top Level Domain(s)]]></title>
+    <link href="http://harkuchh.com/full-fledge-guide-on-tlds-what-is-top-level-domain-s/"/>
+    <updated>2014-01-31T02:31:05+05:30</updated>
+    <id>http://harkuchh.com/full-fledge-guide-on-tlds-what-is-top-level-domain-s</id>
+    <content type="html"><![CDATA[<p>Top level domain which is also abbrebiated as TLD is the very last segment of any domain name, every domain&rsquo;s last part is simply called as TLD. The TLD is the letters immediately following the final dot in an Internet address i.e. any website url, for Instance in Harkuchh.com here .com is TLD of generic class (we will talk about TLD classes below). Most generally TLD is use to identifies something about a website is associated with, like its purpose, the organization that owns it or the geographical area from where it has originates, and every type of TLD has a different registry which is being maintained by a designated organization the Internet Assigned Numbers Authority (IANA) under the direction of ICANN i.e. The Internet Corporation for Assigned Names and Numbers.</p>
+
+<!-- more -->
+
+
+<p>
+To better understand TLD see our Internet address which is, <a href="http://Harkuchh.com">http://Harkuchh.com</a> now here com is the top-level domain name and Harkuchh is the second-level domain name and if a domain has anything even before second level domain then it is called as a subdomain. When these all merge together they build a fully qualified domain name (FQDN) the addition of <a href="HTTP://">HTTP://</a> makes an FQDN a complete URL.</p>
+
+<h2><strong>Four (4) major categories of TLDs</strong></h2>
+
+<p><strong>Generic top-level domains (gTLD)</strong> &mdash; These are the most used, common and familiar type of TLDs. Examples include &ldquo;com&rdquo; for &ldquo;commercial&rdquo;, &ldquo;org&rdquo; for &ldquo;organization&rdquo; and &ldquo;edu&rdquo; for &ldquo;educational.&rdquo; Most generic TLDs are open for everyone to register, but there is a subgroup that is more strictly controlled and that is not used broadly.</p>
+
+<p><strong>Country-code top-level domains (ccTLD)</strong> &mdash; Each ccTLD identifies a particular country and every ccTLD is two letters long, for example we can see the ccTLD for India is .in and for United States is .us.</p>
+
+<p><strong>Infrastructure top-level domain</strong> &mdash; This type is very often used class of TLD may be that is the reason there is only one TLD in this group, ARPA (Address and Routing Parameter Area). The Internet Assigned Numbers Authority (IANA) manages this TLD for the IETF.</p>
+
+<p><strong>Sponsored top-level domains (sTLD)</strong>: These are overseen by private organizations.</p>
+
+<p>ICANN Proposed an expansion of the TLD system to allow anyone to register and also reserve any spare unused letter sequence as a TLD for Their exclusive use, in April 2009. For example if a company who use to sell sotwares want to to use .Soft as a TLD then they can use it. According to <strong>ICANN chief executive Paul Levins</strong>, Such an extension would lead to thousands of new TLDs in the coming years.</p>
+
+<p>Have any query? just leave a comment, you can also use <a href="http://harkuchh.com/forums" target="_blank"> Harkuchh Forums </a> for any help.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Trick to copy content from a website with Copy Protector enabled]]></title>
