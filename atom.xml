@@ -4,7 +4,7 @@
   <title><![CDATA[harkuchh]]></title>
   <link href="http://harkuchh.com/atom.xml" rel="self"/>
   <link href="http://harkuchh.com/"/>
-  <updated>2014-02-03T01:57:11+05:30</updated>
+  <updated>2014-02-03T21:35:27+05:30</updated>
   <id>http://harkuchh.com/</id>
   <author>
     <name><![CDATA[harkuchh]]></name>
@@ -322,27 +322,28 @@ You can &#8221;<strong>Optimize Table</strong>&#8221; to reclaim unused space an
 <ul>
 	<li><b>Log in</b> to your website <b>cPanel.</b></li>
 </ul>
-[caption id=&#8221;attachment_9432&#8221; align=&#8221;aligncenter&#8221; width=&#8221;394&#8221;]<a href="http://Harkuchh.com/wp-content/uploads/2013/07/Optomise-website-database-from-cpanel.jpg"><img class="size-full wp-image-9432" alt="Optomise website  database from cpanel" src="http://Harkuchh.com/wp-content/uploads/2013/07/Optomise-website-database-from-cpanel.jpg" width="394" height="365" /></a> <strong>Log in to cPanel</strong>[/caption]
-
-&nbsp;
+<img alt="Optomise website  database from cpanel" src="https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-frc3/t1/1509159_621269021272623_836157722_n.jpg" width="394" height="365" />
+<br><br>
 <ul>
 	<li>Click on <b>phpMyAdmin </b>under Databases section.</li>
 </ul>
-[caption id=&#8221;attachment_9433&#8221; align=&#8221;aligncenter&#8221; width=&#8221;580&#8221;]<a href="http://Harkuchh.com/wp-content/uploads/2013/07/Click-on-phpMyAdmin-under-Databases-section.jpg"><img class="size-large wp-image-9433" alt="Click on phpMyAdmin under Databases section" src="http://Harkuchh.com/wp-content/uploads/2013/07/Click-on-phpMyAdmin-under-Databases-section-580x124.jpg" width="580" height="124" /></a> <strong>Click on phpMyAdmin under Databases section</strong>[/caption]
+<img alt="Click on phpMyAdmin under Databases section" src="https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-ash3/t1/1157555_621269154605943_1380000268_n.jpg" width="580" height="124" /></a>
 <ul>
+<br><br>
 	<li>Now look at left, you will see your `<b>Database</b>` name on which you’re working on there, just click on it.</li>
 </ul>
-[caption id=&#8221;attachment_9434&#8221; align=&#8221;aligncenter&#8221; width=&#8221;580&#8221;]<a href="http://Harkuchh.com/wp-content/uploads/2013/07/How-to-Optimize-your-Database-from-cPanel.jpg"><img class="size-large wp-image-9434" alt="How to Optimize your Database from cPanel" src="http://Harkuchh.com/wp-content/uploads/2013/07/How-to-Optimize-your-Database-from-cPanel-580x279.jpg" width="580" height="279" /></a> <strong>click on Database` name on which you’re working</strong>[/caption]
+<img alt="How to Optimize your Database from cPanel" src="https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-frc3/t1/1558573_621269144605944_1141189434_n.jpg" width="580" height="279" /></a>
+<br><br>
 <ul>
 	<li>Now go down and click on `<b>Check All</b>` it will select all your database tables.</li>
 </ul>
-[caption id=&#8221;attachment_9435&#8221; align=&#8221;aligncenter&#8221; width=&#8221;580&#8221;]<a href="http://Harkuchh.com/wp-content/uploads/2013/07/Optimize-your-Database-Table-using-your-phpMyAmin.jpg"><img class="size-large wp-image-9435" alt="Steps to Optimize Database tables from cPanel" src="http://Harkuchh.com/wp-content/uploads/2013/07/Optimize-your-Database-Table-using-your-phpMyAmin-580x353.jpg" width="580" height="353" /></a> <strong>click on check all to select all tables</strong>[/caption]
+<img alt="Steps to Optimize Database tables from cPanel" src="https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-frc3/t1/1526458_621269134605945_1212466637_n.jpg" width="580" height="353" /></a>
 
 &nbsp;
 <ul>
 	<li>Click on drop down Menu next to `<b>Check All/Uncheck All</b>` and select `<b>Optimize table</b>`.</li>
 </ul>
-[caption id=&#8221;attachment_9436&#8221; align=&#8221;aligncenter&#8221; width=&#8221;511&#8221;]<a href="http://Harkuchh.com/wp-content/uploads/2013/07/Optimize-your-Database-Table-ufrom-your-MyphpAmin.jpg"><img class=" wp-image-9436 " title="Optimize your Database Table ufrom your MyphpAmin" alt="Optimize your Database Table ufrom your MyphpAmin" src="http://Harkuchh.com/wp-content/uploads/2013/07/Optimize-your-Database-Table-ufrom-your-MyphpAmin.jpg" width="511" height="333" /></a> click on Optimize Table[/caption]
+<img title="Optimize your Database Table ufrom your MyphpAmin" alt="Optimize your Database Table ufrom your MyphpAmin" src="https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash3/t1/1797469_621269117939280_2072595790_n.jpg" width="511" height="333" /></a>
 <p style="text-align: center;"></p>
 This is it, you have done, database of your website has been optimized, if you have any sub-domains or any Add on domains in your account then just do same things (step 3 to 5) to optimize their databases.
 
