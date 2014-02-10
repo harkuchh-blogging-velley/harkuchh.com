@@ -4,7 +4,7 @@
   <title><![CDATA[Category: blogging | harkuchh]]></title>
   <link href="http://harkuchh.com/blog/categories/blogging/atom.xml" rel="self"/>
   <link href="http://harkuchh.com/"/>
-  <updated>2014-02-04T01:04:37+05:30</updated>
+  <updated>2014-02-11T00:35:11+05:30</updated>
   <id>http://harkuchh.com/</id>
   <author>
     <name><![CDATA[harkuchh]]></name>
@@ -12,6 +12,47 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Five reasons why every blogger should learn programming]]></title>
+    <link href="http://harkuchh.com/five-reasons-for-why-you-should-learn-programming/"/>
+    <updated>2014-02-07T23:47:12+05:30</updated>
+    <id>http://harkuchh.com/five-reasons-for-why-you-should-learn-programming</id>
+    <content type="html"><![CDATA[<p>In this post I am writing about why every blogger (and every person in general) should learn to code. Programming as itself is an asset that will make you a better and smarter person. Most important benefit you&rsquo;ll get is the ability to make <strong>literate decisions</strong>. You&rsquo;ll learn how to break down that large problem you are facing, and how to solve it&rsquo;s one piece at a time. Besides, it gives ou great level of confidence.<br/>
+Here are five reasons to convince you to learn programming.</p>
+
+<!-- more -->
+
+
+<h2>You want to be a God</h2>
+
+<p>I heard yea! So you wanna be a God? Well, you can be actually. Programmers are mini Gods who create little worlds with their programs and control everything. Literally. It&rsquo;s hard to understand this feeling without really experiencing it. But the ultimate control building a software offers is addictive. I myself was a gaming addict in my school time, and now gaming addiction is turned into coding addiction.</p>
+
+<p>The amount of automation you can put in your daily work truly make you feel like a God. It makes me feel real good when I see my script running and think my code can do in 30 minutes what my peers at harkuchh would have taken 4-5 days.</p>
+
+<h2>One blogger who know coding equals ten average bloggers</h2>
+
+<p>Don&rsquo;t get hyper. Let me explain why. Programming skills are valuable in every field directly or remotely related to computers and internet off course.I mean your programming skills become specially important in fields which are completely dependent on computers and Internet. Blogging is such a case. I joined Harkuchh &ndash; The Blogging Valley about a month ago, and the technological improvements we&rsquo;ve made here improved our productivity while brought down the expenses. Although many things are under experiment phase, the time we&rsquo;ve saved so far which would have been wasted in trying things which don&rsquo;t bring any profit is enormous.</p>
+
+<p>To give an example, consider data gathering. We all need to collect data from various sources, many times it involve just copy pasting data from some other source. We&rsquo;ve built a software to automate such things, and saved days of work.</p>
+
+<p>But there are more benefits than I can describe here. Enough benefits that Krishan Kummar (founder of harkuchh.com) is learning to code. (We are thinking about starting giving programming classes to bloggers. Please comment or mail us if you are interested).</p>
+
+<h2>Dream, Believe, Achieve</h2>
+
+<p>These quotes all seem too good to be practical in real world. This might be true, but not in the world where you can even be a God. You just wish if there was a software which would do <em>something awesome here</em>, and you roll out your emacs (or your favorite editor), and voila! It&rsquo;s there. Anything is possible, all you need to do is to believe in your wit and skills. Sounds too good to be real? Welcome to the world of programmers :)</p>
+
+<h2>It teaches you to make better decisions in life</h2>
+
+<p>I just can&rsquo;t emphasize how beneficial it is for anyone (including you bloggers) to have some programming skills. Even if you don&rsquo;t become a wiz, acquaintance with programming is a very much helpful. When you don&rsquo;t know anything about how your websites and software are actually working under-the-hood, you are like riding a bike eye-folded. You either hit a tree or something, or you go too slow.</p>
+
+<p>Most important benefit you&rsquo;ll get is the ability to make <strong>literate decisions</strong>. You&rsquo;ll learn how to break down that large problem you are facing, and how to solve it&rsquo;s one piece at a time. Besides, it give you great level of confidence. When you think of a crazy idea, and you have good programming skills under your belt, you quickly analyze all the steps which you&rsquo;ll need to take to make that awesome thing. You carry this habit to your real life. And suddenly all things become simple, because you&rsquo;ll quickly analyze everything and sort out plans for doing things which seem impossible or very hard to others. It&rsquo;ll give you a new perspective in your career, as well as in your life.</p>
+
+<h2>Programming is fun, and it makes you smarter</h2>
+
+<p>I ditched gaming for coding, not because it give me money, but simply because it&rsquo;s more fun. I still play games once in a while when I want my brain to relax, but I&rsquo;m yet to find a game which&rsquo;ll give me more thrill than coding. If you follow the right steps (like choose right first language, right teacher, right things to do in your first steps in coding world), programming is like playing a very powerful computer game. Projects you do are your highscore and skills you gain are your reward, that&rsquo;ll stay with you for rest of your life. Besides, remember all your kids (the next generation) will be taught coding in schools like we are taught poems, then your children will ask you questions related to coding, what you gonna do then? ;)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Full Fledge Guide on TLD's - What is Top Level Domain(s)]]></title>

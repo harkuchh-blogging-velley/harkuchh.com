@@ -4,7 +4,7 @@
   <title><![CDATA[harkuchh]]></title>
   <link href="http://harkuchh.com/atom.xml" rel="self"/>
   <link href="http://harkuchh.com/"/>
-  <updated>2014-02-04T01:04:37+05:30</updated>
+  <updated>2014-02-11T00:35:11+05:30</updated>
   <id>http://harkuchh.com/</id>
   <author>
     <name><![CDATA[harkuchh]]></name>
@@ -12,6 +12,47 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Five reasons why every blogger should learn programming]]></title>
+    <link href="http://harkuchh.com/five-reasons-for-why-you-should-learn-programming/"/>
+    <updated>2014-02-07T23:47:12+05:30</updated>
+    <id>http://harkuchh.com/five-reasons-for-why-you-should-learn-programming</id>
+    <content type="html"><![CDATA[<p>In this post I am writing about why every blogger (and every person in general) should learn to code. Programming as itself is an asset that will make you a better and smarter person. Most important benefit you&rsquo;ll get is the ability to make <strong>literate decisions</strong>. You&rsquo;ll learn how to break down that large problem you are facing, and how to solve it&rsquo;s one piece at a time. Besides, it gives ou great level of confidence.<br/>
+Here are five reasons to convince you to learn programming.</p>
+
+<!-- more -->
+
+
+<h2>You want to be a God</h2>
+
+<p>I heard yea! So you wanna be a God? Well, you can be actually. Programmers are mini Gods who create little worlds with their programs and control everything. Literally. It&rsquo;s hard to understand this feeling without really experiencing it. But the ultimate control building a software offers is addictive. I myself was a gaming addict in my school time, and now gaming addiction is turned into coding addiction.</p>
+
+<p>The amount of automation you can put in your daily work truly make you feel like a God. It makes me feel real good when I see my script running and think my code can do in 30 minutes what my peers at harkuchh would have taken 4-5 days.</p>
+
+<h2>One blogger who know coding equals ten average bloggers</h2>
+
+<p>Don&rsquo;t get hyper. Let me explain why. Programming skills are valuable in every field directly or remotely related to computers and internet off course.I mean your programming skills become specially important in fields which are completely dependent on computers and Internet. Blogging is such a case. I joined Harkuchh &ndash; The Blogging Valley about a month ago, and the technological improvements we&rsquo;ve made here improved our productivity while brought down the expenses. Although many things are under experiment phase, the time we&rsquo;ve saved so far which would have been wasted in trying things which don&rsquo;t bring any profit is enormous.</p>
+
+<p>To give an example, consider data gathering. We all need to collect data from various sources, many times it involve just copy pasting data from some other source. We&rsquo;ve built a software to automate such things, and saved days of work.</p>
+
+<p>But there are more benefits than I can describe here. Enough benefits that Krishan Kummar (founder of harkuchh.com) is learning to code. (We are thinking about starting giving programming classes to bloggers. Please comment or mail us if you are interested).</p>
+
+<h2>Dream, Believe, Achieve</h2>
+
+<p>These quotes all seem too good to be practical in real world. This might be true, but not in the world where you can even be a God. You just wish if there was a software which would do <em>something awesome here</em>, and you roll out your emacs (or your favorite editor), and voila! It&rsquo;s there. Anything is possible, all you need to do is to believe in your wit and skills. Sounds too good to be real? Welcome to the world of programmers :)</p>
+
+<h2>It teaches you to make better decisions in life</h2>
+
+<p>I just can&rsquo;t emphasize how beneficial it is for anyone (including you bloggers) to have some programming skills. Even if you don&rsquo;t become a wiz, acquaintance with programming is a very much helpful. When you don&rsquo;t know anything about how your websites and software are actually working under-the-hood, you are like riding a bike eye-folded. You either hit a tree or something, or you go too slow.</p>
+
+<p>Most important benefit you&rsquo;ll get is the ability to make <strong>literate decisions</strong>. You&rsquo;ll learn how to break down that large problem you are facing, and how to solve it&rsquo;s one piece at a time. Besides, it give you great level of confidence. When you think of a crazy idea, and you have good programming skills under your belt, you quickly analyze all the steps which you&rsquo;ll need to take to make that awesome thing. You carry this habit to your real life. And suddenly all things become simple, because you&rsquo;ll quickly analyze everything and sort out plans for doing things which seem impossible or very hard to others. It&rsquo;ll give you a new perspective in your career, as well as in your life.</p>
+
+<h2>Programming is fun, and it makes you smarter</h2>
+
+<p>I ditched gaming for coding, not because it give me money, but simply because it&rsquo;s more fun. I still play games once in a while when I want my brain to relax, but I&rsquo;m yet to find a game which&rsquo;ll give me more thrill than coding. If you follow the right steps (like choose right first language, right teacher, right things to do in your first steps in coding world), programming is like playing a very powerful computer game. Projects you do are your highscore and skills you gain are your reward, that&rsquo;ll stay with you for rest of your life. Besides, remember all your kids (the next generation) will be taught coding in schools like we are taught poems, then your children will ask you questions related to coding, what you gonna do then? ;)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Strong Passwords, weak passwords: How to generate strongest possible passwords which you can remember]]></title>
@@ -1626,41 +1667,6 @@ This was a message I received from a guy few days back, I explained to him all p
 	<li><span style="font-family: georgia; color: #000000;">Now you go to your WordPress Dashboard and click on users there fill your First name, Last name name and Username and your email address ( fill same email, with which you created your Gravtar account). Eventually click on <b style="color: #000000; font-family: georgia;">Update profile.</b></span></li>
 </ul>
 <span style="font-family: georgia; color: #000000;">You done ! From now whenever you will comment on a website there your photo will shown with your name and comment. Now say, I love Harkuchh.Com :)</span>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[What Are Search Engines Webmasters ?]]></title>
-    <link href="http://harkuchh.com/what-are-search-engines-webmasters/"/>
-    <updated>2013-04-01T00:00:00+05:30</updated>
-    <id>http://harkuchh.com/what-are-search-engines-webmasters</id>
-    <content type="html"><![CDATA[Every <strong>top, popular and reputed Search engines</strong> like <strong>Google, Bing, Baidu</strong> have their search engine webmasters, these are the tools through which a webmaster or any website owner <strong>directly register their websites to these top search engines</strong>.<!--more-->
-
-<a href="http://harkuchh.com/what-are-search-engines-webmasters/webmaster-tools-tips-from-google/" rel="attachment wp-att-8574"><img class="aligncenter size-full wp-image-8574" alt="Webmaster-Tools-Tips-From-Google" src="http://harkuchh.com/wp-content/uploads/2013/04/Webmaster-Tools-Tips-From-Google.jpg" width="336" height="336" /></a>
-
-Registration of any website to the engine webmasters search are essential and are very helpful in finding many things relating to their websites and ownership verification, site crawling, site errors, such as 404 (Not Found), 500 (Internal server error), denied, keywords through which the traffic is coming from search engines that and many other things.
-
-Recommended : <a href="http://harkuchh.com/how-to-submit-website-on-google-and-all-other-top-search-engines/" target="_blank"><em>How to submit your site on all top search engines</em></a>.
-<h1><span style="color: #000000;"><b>Steps To Register a site on Google Webmasters</b></span></h1>
-<h3><b>Registration To Google Webmasters</b></h3>
-<ul>
-	<li>Sign in to your Gmail account.</li>
-	<li>Now Go to <a href="google.com/webmasters" target="_blank">google.com/webmasters</a>.</li>
-	<li>Click On <span style="text-decoration: underline;">Add Site</span> Orange Button.</li>
-	<li>Choose Your Suitable Method To Verify Ownership of that website to know google that you owns that website.</li>
-</ul>
-<ol start="1">
-<ol start="1">
-	<li><b>HTML Verification</b> - Just download the html file from the page in front of you and upload the given HTML file to your website’s root folder via File Manager in cPanel or through FTP Client like filezilla in the ‘public_html’ folder.</li>
-	<li><b>HTML Tag Verification</b> – Click on it and you found a single line of code. Copy it and paste within the header section of your website.</li>
-	<li><b>Google Analytics Script </b>- Sign In Google Analytics and link it to your website.</li>
-</ol>
-</ol>
-<ul>
-	<li>Now Click Verify. Thus Ownership Verified</li>
-	<li>Now Go To Webmasters Tool Home and click on Add/Test Sitemap Button and put your website’s sitemap URL like <strong>http://Harkuchh.com/sitemap.xml.</strong></li>
-</ul>
-That&#8217;s all, you Done and have fun&#8230; don&#8217;t forget to share.
 ]]></content>
   </entry>
   
