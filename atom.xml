@@ -4,7 +4,7 @@
   <title><![CDATA[harkuchh]]></title>
   <link href="http://harkuchh.com/atom.xml" rel="self"/>
   <link href="http://harkuchh.com/"/>
-  <updated>2014-02-11T22:42:08+05:30</updated>
+  <updated>2014-02-11T23:51:32+05:30</updated>
   <id>http://harkuchh.com/</id>
   <author>
     <name><![CDATA[harkuchh]]></name>
@@ -12,6 +12,59 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Why I am learning Python]]></title>
+    <link href="http://harkuchh.com/why-i-am-learning-python/"/>
+    <updated>2014-02-11T23:16:11+05:30</updated>
+    <id>http://harkuchh.com/why-i-am-learning-python</id>
+    <content type="html"><![CDATA[<p>Why I&rsquo;m learning Python? well yes, this is really a very valid question and it has a solid answer too, I think everybody should read this, not because I&rsquo;ve written this for you but because it has much much importance and advantages for you.</p>
+
+<!-- more -->
+
+
+<p>Some days back, I was in my office with my friend Channi (Charanjit Singh) we were planning to work on a website for a special purpose. While talking I said him that, “on this website we&rsquo;ll need to do same thing again and again hundreds of time and it will take lots of our time and effort :(“. Then he said &ldquo;Don&rsquo;t worry dude, I&rsquo;ll make a script that will automate all this thing and then you will need to do that only once and rest will be done by the script.”</p>
+
+<p>I was surprised and like, is it possible? He said &ldquo;Yeah dude, it&rsquo;s simple and will not take too long to be developed&rdquo; then I told him to do it fast, and I started writing a post on my movie blog and when I published only one post He said &ldquo;Done bro! here it is.&rdquo;</p>
+
+<p>I said &ldquo;seriously, will it do all those things which I was talking about?&rdquo; I got the best reply, it was &lsquo;off course!&rsquo;.</p>
+
+<p>I said let&rsquo;s see, and unbelievably it done all those things in just minutes, any person who have no knowledge of coding and programming will never believe that the things which required at least 1 week day and night work was done in just minutes. I was shocked! and said to my friend, “Awesome bro, how did you do it”, he replied &ldquo;Python bro, it&rsquo;s awesome&rdquo;.</p>
+
+<p>Till then I just knew that Python is a programming language but I didn&rsquo;t know anything about its working or coding. Actually I didn&rsquo;t know any coding or programming language. Not even C++ in which I spent all four years of my B.tech degree.</p>
+
+<p>So when I heard Python, I didn&rsquo;t take even a second to say, “bro! can&rsquo;t I learn Python?”</p>
+
+<p>“Of course you can”, he said. “But you will need to be regular on it”, he added.</p>
+
+<p>I replied joyfully “of course I will, it will be great if I can do things in minute(s) for which I give hours, days and even weeks to complete, so let&rsquo;s start it now.”</p>
+
+<p>He said No! We will start it from tommorow, let me prepare modules and a structure for teaching Python in the best way to you. And next day we started.</p>
+
+<p>And now, just after a week.. Even I cannot believe that now I can do many things with my own created crawlers which none of you can do even in weeks, please note, I&rsquo;m not showing off here but I&rsquo;m just trying to tell, how much difference simple coding are able to create.</p>
+
+<p>Let me share an example with you so that you can get my words better, previously I used to copy contents of events websites manually in which I needed to..</p>
+
+<ul>
+<li><p>Go to a website</p></li>
+<li><p>Open a post</p></li>
+<li><p>Create a new text file (to copy post)</p></li>
+<li><p>Copy posts title from that website</p></li>
+<li><p>Paste that into text file</p></li>
+<li><p>Copy body of the post</p></li>
+<li><p>Paste that into text file again</p></li>
+<li><p>Copy keywords, description and tags from source code</p></li>
+<li><p>Paste them into text file</p></li>
+</ul>
+
+
+<p>&hellip;and these all steps were required for every post and imagine if there were 100 posts on that site it simply means I needed to do these all things 100 times to get everything in my hand, most of you are doing same, I know. But..</p>
+
+<p>today, I just take some minutes to create a crawler for any specific website and run it, after that crawler do all the rest thing in minutes. Any non technical person will never believe that, it copies posts at the rate of 500-600/minute with proper distinguish between every part of the post which includes title, body, images, keywords, tags, description, category and all related information which I think I require and I told, to to do same thing manually I required at least 2-3 days.</p>
+
+<p>So this is the difference and that all is possible with a simple effort to learn python. That is why I&rsquo;m learning Python.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Five reasons why every blogger should learn programming]]></title>
@@ -1629,44 +1682,6 @@ I hope if your question was <strong>how to check someone’s IP</strong> or how 
 <span style="color: #333333;">Now if anything is not clear to you or you are not getting anything properly feel free to ask. Just comment below.</span>
 
 Read <a href="http://inhindi.harkuchh.com/subdomain-kya-hota-hai-apni-site-ka-sub-domian-kaise-bnau" target="_blank"><em>this post in Hindi.</em></a>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[How to Show Photo with Comment on website]]></title>
-    <link href="http://harkuchh.com/how-to-show-photo-with-comment-on-website/"/>
-    <updated>2013-04-09T00:00:00+05:30</updated>
-    <id>http://harkuchh.com/how-to-show-photo-with-comment-on-website</id>
-    <content type="html"><![CDATA[<strong>“</strong>When I comment on any website or blog then a logo come in front of my name, but I have seen with comments of many people there photo come with there name at the place of logo, I also want that when I comment on any website then my Pic come there with my name instead of that ugly logo, How to do that ?<span style="font-size: large;"><strong>”</strong><!--more-->
-<br/>
-<br/>
-<img class="aligncenter size-large wp-image-6084" alt="How to show Photo with comment on Website" src="https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-ash3/t1/1622246_621336457932546_813364578_n.jpg" width="580" height="120" />
-<br/>
-<br/>
-This was a message I received from a guy few days back, I explained to him all procedure then another guy asked me same question last evening, then I realised writing a post about this will be better instead of explaining same thing again and again to different people. So here is the Procedure to show your photo with your comment at the place of logo..
-<br/>
-<br/>
-<em>this is very easy and simple and not require more than 3-4 minutes.</em></span></span>
-<br/>
-<br/>
-<ul>
-	<li><span style="font-family: georgia; color: #000000;">First of all you go to <strong style="color: #000000; font-family: georgia;"><a title="click here" href="https://en.gravatar.com/" target="_blank" rel="nofollow">Gravtar.com</a></strong> and fill your email address there.</span></li>
-</ul>
-<br/>
-<br/>
-<img class="aligncenter size-full wp-image-6083" alt="Show photo with comment on website" src="https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-ash3/t1/1898082_621336464599212_1392698295_n.jpg" width="548" height="91" /></a><br/>
-<br/>
-<ul>
-	<li><span style="font-family: georgia; color: #000000;">Then go to your e-mail box there you will find a mail from <b style="color: #000000; font-family: georgia;">Gravtar </b>just click on it and your account is created. Now just fill your username and password.</span></li>
-</ul>
-<br/>
-<ul>
-	<li><span style="font-family: georgia; color: #000000;">Upload your Photo which you want to show with your comment, then click <b style="color: #000000; font-family: georgia;">Next </b>and you will see `<strong style="color: #000000; font-family: georgia;">Choose a rating for your Gravatar</strong>` option with 4 options, click on <b style="color: #000000; font-family: georgia;">rated G </b>(G rated Gravatar is suitable for display on all websites with any audience type). Procedure is 90% completed.</span></li>
-</ul>
-<ul>
-	<li><span style="font-family: georgia; color: #000000;">Now you go to your WordPress Dashboard and click on users there fill your First name, Last name name and Username and your email address ( fill same email, with which you created your Gravtar account). Eventually click on <b style="color: #000000; font-family: georgia;">Update profile.</b></span></li>
-</ul>
-<span style="font-family: georgia; color: #000000;">You done ! From now whenever you will comment on a website there your photo will shown with your name and comment. Now say, I love Harkuchh.Com :)</span>
 ]]></content>
   </entry>
   

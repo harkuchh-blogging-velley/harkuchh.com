@@ -317,8 +317,12 @@
         <lastmod>2014-02-11T00:34:58+05:30</lastmod>
     </url>
     <url>
+        <loc>http://harkuchh.com/why-i-am-learning-python/</loc>
+        <lastmod>2014-02-11T23:51:32+05:30</lastmod>
+    </url>
+    <url>
         <loc>http://harkuchh.com/blog/archives/</loc>
-        <lastmod>2014-02-11T21:50:16+05:30</lastmod>
+        <lastmod>2014-02-11T23:51:32+05:30</lastmod>
     </url>
     <url>
         <loc>http://harkuchh.com/about/</loc>
@@ -326,6 +330,6 @@
     </url>
     <url>
         <loc>http://harkuchh.com/</loc>
-        <lastmod>2014-02-11T21:50:16+05:30</lastmod>
+        <lastmod>2014-02-11T23:51:32+05:30</lastmod>
     </url>
 </urlset>
