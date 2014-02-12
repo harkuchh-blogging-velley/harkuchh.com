@@ -4,7 +4,7 @@
   <title><![CDATA[harkuchh]]></title>
   <link href="http://harkuchh.com/atom.xml" rel="self"/>
   <link href="http://harkuchh.com/"/>
-  <updated>2014-02-12T01:56:39+05:30</updated>
+  <updated>2014-02-13T00:02:41+05:30</updated>
   <id>http://harkuchh.com/</id>
   <author>
     <name><![CDATA[harkuchh]]></name>
@@ -12,6 +12,48 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Why Bloggers Need to Save Themselves From Google: Lesson We Got After Losing 400K]]></title>
+    <link href="http://harkuchh.com/why-bloggers-need-to-save-themselves-from-google-lesson-we-got-after-losing-400k/"/>
+    <updated>2014-02-12T23:56:09+05:30</updated>
+    <id>http://harkuchh.com/why-bloggers-need-to-save-themselves-from-google-lesson-we-got-after-losing-400k</id>
+    <content type="html"><![CDATA[<p>Google is no more that same open company which had ‘<a href="http://www.zdnet.com/blog/foremski/google-drops-dont-be-evil-motto/435">don’t be evil</a>’ as their slogan.<br/>
+Google is evil. We all know it.</p>
+
+<p>But Google can be particularly evil to you if you are a blogger. Being a blogger, most of your living depends on Google one way or other. Google is a major traffic source, all information you need come through Google, and Google Adsense is major source of most blogger’s income. Imagine Google having a grudge against you. I mean against you, as a person in particular. Everything you do is seen with a skeptical eye, and suddenly your websites which were rolling few days back are now ruins facing drought of visitors.</p>
+
+<!-- more -->
+
+
+<p>
+Yes, Google can do it, and it does.</p>
+
+<h2>Our Experience</h2>
+
+<p>We at Harkuchh &ndash; The Blogging Valley were unfortunate enough to face the fury of Google. We have multiple blogs here, some good and some not so good. And we are always doing all sort of experiments to try new things. Few months back, we were working as always and things were going as breeze. Then Krishan started a test project, a kind of illegitimate blog. It was an experiment. We spent very little time on it, and it was just lying around in some corner, with Krishan occasionally working on it.</p>
+
+<p>Few weeks after starting that experiment, we started facing problems in getting traffic to our websites. For some reason, all of our websites were facing more than 50% fall in traffic. Even the best quality posts which have backlinks on high PR sites stopped appearing on Google search results. It was incomprehensible. What could we have done wrong to bring this on us? And few days later another nightmare came true. Our Google adsense account got disabled, with no clarification of course. With it went our Rs 400+K sum. All that was left was shattered plans, unbalanced budget and minds full of confusion.</p>
+
+<h2>The Mistake</h2>
+
+<p>You guessed it right. That experiment was the mistake. But it was not at all clear at that time. There was not a single link that could tell any connection between our legitimate blogs and that experiment blog. We do extra effort to not to link our blogs with each other in any way. Then how could Google tell that experiment blog belonged to us? How could it be that all our genuine blogs were suffering Google’s rage?</p>
+
+<p>The real mistake was not that we somehow made some connection between the experiment and some of our real blogs. Because there was no connection. We cross-checked many times.</p>
+
+<p>There was actually no mistake. Things should not have been the way they were.</p>
+
+<h2>The Lesson</h2>
+
+<p>As we noticed later, the only thing that could have resulted in connection was a Google account. What Krishan did was that he used same Google account for analytics and webmaster tools which was also used on our other blogs. But he didn’t use the adsense on the experiment. <br/>
+I know Google tracking everyone on Internet is not a new story, but this was new for us. This had never happened before. Google is now making connections between different sites you own. Any one site you run can affect your other sites as well.</p>
+
+<p>So our suggestion is, if you are going to try something crazy never ever use same Google accounts in any way on different sites. It would be even better if you
+operate on your experiments in sandboxed environments. That’s what we are doing now. And it’s working, for now at least.</p>
+
+<p>So better save your ass from Google. It’s no longer our all good friend.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Why I Am Learning Python]]></title>
@@ -1618,70 +1660,6 @@ Hey publisher, it is highly recommended that whenever you feel any sudden or sus
 This is highly recommended because in case you unfortunately get <b>banned from AdSense because of invalid activity on Ads, </b><strong>you will have stats which you can use at the time of appeal for your account being reinstated</strong><b>.</b>
 
 I hope if your question was <strong>how to check someone’s IP</strong> or how to find those IPs who are doing froud clicks, this <b>complete tutorial to featch the IP of invalid clicker on Ads</b> will help you to keep your Adsense safe and along with your forever, have a look of my other Adsense tutorials those will be also helpful for you. For this awesome guidance I expect a share and a comment from your side, will I get it..
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[What Is Subdomain ? How to Create SubDomain of My Website]]></title>
-    <link href="http://harkuchh.com/what-is-subdomain-how-to-create-subdomain-of-my-website/"/>
-    <updated>2013-04-15T00:00:00+05:30</updated>
-    <id>http://harkuchh.com/what-is-subdomain-how-to-create-subdomain-of-my-website</id>
-    <content type="html"><![CDATA[<span style="color: #333333;">Few days back I created a Subdomain of my website and when I advertised it on Facebook one of my friend asked me Hey K.K, How did you created Subdomain of your website then I said to him that it’s very easy, you can we can create sub-domain of your website through cPanel.<!--more--></span>
-
-<span style="color: #333333;">He said sorry I don’t know much about cPanel so please tell me in detail `How to create Sub domain in cPanel` then I explained it to him, he suggested me to write a post on it because many people who running their blogs and websites don’t know properly How to create sub-domain of a Domain name, so I’m going to tell you this in very easy language and explained everything very clearly..</span>
-
-<span style="color: #333333;"> </span>
-<h2><span style="color: #333333;"><strong>What is Subdomain ?</strong></span></h2>
-<span style="color: #333333;">Subdomains are the third level domains that are used to organize different types of your web site content. Suppose you have a website on Automobile and now you also want to create a site for Gadgets at that time rather than purchasing a new domain, you can create sub domain using the domain you already own, and by this way you can create multiple site by purchasing only one domain.</span>
-
-<span style="color: #333333;">Same like that I wanted to create a website for career tips then I simply made a subdomain (<a href="http://careerguide.harkuchh.com" target="_blank">careerguide.harkuchh.com</a>) of my domain name Harkuchh.com.</span>
-
-<span style="color: #333333;"> </span>
-<h2><span style="color: #333333;"><strong>How to Create Subdomain of My Website ?</strong></span></h2>
-<span style="color: #333333;">To <strong>create a Subdomain</strong> just follow instruction given below..</span>
-<ol start="1">
-	<li><span style="color: #333333;"><strong>Log in to cPanel.</strong></span></li>
-	<li><span style="color: #333333;"><a title="Click to see Preview" href="http://harkuchh.com/wp-content/uploads/2012/12/SubDomain-of-Website.jpg" target="_blank"><span style="color: #333333;">click on<strong> Subdomains</strong></span></a> under Domain Section.</span></li>
-	<li><span style="color: #333333;">Type the <a title="See Preview" href="http://harkuchh.com/wp-content/uploads/2012/12/Create-subdomain-of-my-website.jpg" target="_blank"><span style="color: #333333;"><strong>subdomain name</strong></span></a> you want in the box before the domain name.</span></li>
-	<li><span style="color: #333333;">Click inside the &#8221;<strong>Document Root</strong>&#8221; box and it will auto-fill.</span></li>
-	<li><span style="color: #333333;">Hit the <strong>Create</strong> button.</span></li>
-	<li><span style="color: #333333;">You Will see a<a title="See preview" href="http://harkuchh.com/wp-content/uploads/2012/12/Subdomain-created.jpg" target="_blank"><span style="color: #333333;"> message</span></a> that Subdomain has been created ! Now Go back to cPanel Home.<strong> </strong></span></li>
-</ol>
-<span style="color: #333333;"><strong> </strong></span>
-<h2><span style="color: #333333;"><strong>How to Install WordPress in Sub-domain</strong></span></h2>
-<span style="color: #333333;">After making a Subdomain You must need to install a CMS to work in it, so in order to <strong>Install Wordpress Instructions</strong> are given below..</span>
-<ol>
-	<li><span style="color: #333333;">Click on <a title="See preview" href="http://harkuchh.com/?attachment_id=5083" target="_blank"><span style="color: #333333;"><strong>Fantastico De Luxe</strong></span></a> in cPanel.</span></li>
-	<li><span style="color: #333333;">Now Click on <strong>WordPress </strong>at left.</span></li>
-	<li><span style="color: #333333;">Carefully <a title="See Preview" href="http://harkuchh.com/wp-content/uploads/2012/12/Click-on-finish-Install.jpg" target="_blank"><span style="color: #333333;"><strong>choose Domain</strong></span></a> in which you want to Install WordPress.</span></li>
-	<li><span style="color: #333333;">Fill Admin <a href="http://harkuchh.com/wp-content/uploads/2012/12/Click-on-finish-Install.jpg" target="_blank"><span style="color: #333333;"><strong>Username and Password</strong></span></a> in Admin access data section.</span></li>
-	<li><span style="color: #333333;">Click on <strong>Create</strong>.</span></li>
-	<li><span style="color: #333333;"><strong>Done !</strong> now open your subdomain Wordpress account and work. :lol:</span></li>
-</ol>
-<span style="color: #333333;"> Must Check : <a href="http://harkuchh.com/how-to-make-backup-of-website/" target="_blank"><em>How to create backup of your blog and site.</em></a></span>
-<h2 style="padding-left: 30px;"></h2>
-&nbsp;
-<h2 style="padding-left: 30px;"><span style="color: #333333;"><strong>FAQ’s regarding Subdomains</strong></span></h2>
-<span style="color: #333333;"> </span>
-<h3><span style="color: #333333;"><strong>Can I delete Subdomain after once created ?</strong></span></h3>
-<p style="padding-left: 30px;"><span style="color: #333333;">Yes, You can delete is anytime you want from cPanel.</span></p>
-
-<h3><span style="color: #333333;"><strong>How many Subdomains can I create on one Domain name?</strong></span></h3>
-<p style="padding-left: 30px;"><span style="color: #333333;">It’s depend on your hosting company, generally 25 Subdomain are allowed with one domain.</span></p>
-
-<h3><span style="color: #333333;"><strong>Can I Use Different CMS in Subdomains ?</strong></span></h3>
-<p style="padding-left: 30px;"><span style="color: #333333;">Yes, If you are using Wordpress in main Domain you are free to choose any CMS for subdomain like Wordpress, Jhoomla.</span></p>
-
-<h3><span style="color: #333333;"><strong>How do I create a subdomain in my control panel ?</strong></span></h3>
-<p style="padding-left: 30px;"><span style="color: #333333;">Stupid read the post from starting, all is written.</span></p>
-
-<h3><span style="color: #333333;"><strong>Where to create Subdomains ?</strong></span></h3>
-<span style="color: #333333;"><strong>           </strong> Subdomains can be created from cPanel of your website.</span>
-<h3><span style="color: #333333;"><strong>Change made in main domain will effect subdomain or not ?</strong></span></h3>
-<p style="padding-left: 30px;"><span style="color: #333333;">change in any domain whether it&#8217;s main or subdomain can&#8217;t effect any other.</span></p>
-<span style="color: #333333;">Now if anything is not clear to you or you are not getting anything properly feel free to ask. Just comment below.</span>
-
-Read <a href="http://inhindi.harkuchh.com/subdomain-kya-hota-hai-apni-site-ka-sub-domian-kaise-bnau" target="_blank"><em>this post in Hindi.</em></a>
 ]]></content>
   </entry>
   

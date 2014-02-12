@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Blogging | harkuchh]]></title>
   <link href="http://harkuchh.com/blog/categories/blogging/atom.xml" rel="self"/>
   <link href="http://harkuchh.com/"/>
-  <updated>2014-02-12T01:56:39+05:30</updated>
+  <updated>2014-02-13T00:02:41+05:30</updated>
   <id>http://harkuchh.com/</id>
   <author>
     <name><![CDATA[harkuchh]]></name>
@@ -12,6 +12,48 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Why Bloggers Need to Save Themselves From Google: Lesson We Got After Losing 400K]]></title>
+    <link href="http://harkuchh.com/why-bloggers-need-to-save-themselves-from-google-lesson-we-got-after-losing-400k/"/>
+    <updated>2014-02-12T23:56:09+05:30</updated>
+    <id>http://harkuchh.com/why-bloggers-need-to-save-themselves-from-google-lesson-we-got-after-losing-400k</id>
+    <content type="html"><![CDATA[<p>Google is no more that same open company which had ‘<a href="http://www.zdnet.com/blog/foremski/google-drops-dont-be-evil-motto/435">don’t be evil</a>’ as their slogan.<br/>
+Google is evil. We all know it.</p>
+
+<p>But Google can be particularly evil to you if you are a blogger. Being a blogger, most of your living depends on Google one way or other. Google is a major traffic source, all information you need come through Google, and Google Adsense is major source of most blogger’s income. Imagine Google having a grudge against you. I mean against you, as a person in particular. Everything you do is seen with a skeptical eye, and suddenly your websites which were rolling few days back are now ruins facing drought of visitors.</p>
+
+<!-- more -->
+
+
+<p>
+Yes, Google can do it, and it does.</p>
+
+<h2>Our Experience</h2>
+
+<p>We at Harkuchh &ndash; The Blogging Valley were unfortunate enough to face the fury of Google. We have multiple blogs here, some good and some not so good. And we are always doing all sort of experiments to try new things. Few months back, we were working as always and things were going as breeze. Then Krishan started a test project, a kind of illegitimate blog. It was an experiment. We spent very little time on it, and it was just lying around in some corner, with Krishan occasionally working on it.</p>
+
+<p>Few weeks after starting that experiment, we started facing problems in getting traffic to our websites. For some reason, all of our websites were facing more than 50% fall in traffic. Even the best quality posts which have backlinks on high PR sites stopped appearing on Google search results. It was incomprehensible. What could we have done wrong to bring this on us? And few days later another nightmare came true. Our Google adsense account got disabled, with no clarification of course. With it went our Rs 400+K sum. All that was left was shattered plans, unbalanced budget and minds full of confusion.</p>
+
+<h2>The Mistake</h2>
+
+<p>You guessed it right. That experiment was the mistake. But it was not at all clear at that time. There was not a single link that could tell any connection between our legitimate blogs and that experiment blog. We do extra effort to not to link our blogs with each other in any way. Then how could Google tell that experiment blog belonged to us? How could it be that all our genuine blogs were suffering Google’s rage?</p>
+
+<p>The real mistake was not that we somehow made some connection between the experiment and some of our real blogs. Because there was no connection. We cross-checked many times.</p>
+
+<p>There was actually no mistake. Things should not have been the way they were.</p>
+
+<h2>The Lesson</h2>
+
+<p>As we noticed later, the only thing that could have resulted in connection was a Google account. What Krishan did was that he used same Google account for analytics and webmaster tools which was also used on our other blogs. But he didn’t use the adsense on the experiment. <br/>
+I know Google tracking everyone on Internet is not a new story, but this was new for us. This had never happened before. Google is now making connections between different sites you own. Any one site you run can affect your other sites as well.</p>
+
+<p>So our suggestion is, if you are going to try something crazy never ever use same Google accounts in any way on different sites. It would be even better if you
+operate on your experiments in sandboxed environments. That’s what we are doing now. And it’s working, for now at least.</p>
+
+<p>So better save your ass from Google. It’s no longer our all good friend.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Five Reasons Why Every Blogger Should Learn Programming]]></title>
