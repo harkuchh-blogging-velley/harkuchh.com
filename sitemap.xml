@@ -310,7 +310,7 @@
         <loc>
             http://harkuchh.com/strong-passwords-weak-passwords-how-to-generate-strongest-possible-passwords-which-you-can-remember/
         </loc>
-        <lastmod>2014-02-12T01:55:55+05:30</lastmod>
+        <lastmod>2014-02-12T01:55:54+05:30</lastmod>
     </url>
     <url>
         <loc>http://harkuchh.com/five-reasons-for-why-you-should-learn-programming/</loc>
@@ -327,23 +327,33 @@
         <lastmod>2014-02-13T00:02:40+05:30</lastmod>
     </url>
     <url>
-        <loc>http://harkuchh.com/blog/archives/</loc>
-        <lastmod>2014-02-13T00:02:40+05:30</lastmod>
+        <loc>
+            http://harkuchh.com/why-and-how-to-set-up-a-webmaster-account-sign-up-to-verification-full-guide/
+        </loc>
+        <lastmod>2014-02-16T08:17:18+05:30</lastmod>
     </url>
     <url>
-        <loc>http://harkuchh.com/blog/</loc>
-        <lastmod>2014-02-13T00:02:40+05:30</lastmod>
+        <loc>http://harkuchh.com/5-firefox-plugins-i-cant-live-without/</loc>
+        <lastmod>2014-02-16T08:13:23+05:30</lastmod>
     </url>
     <url>
         <loc>http://harkuchh.com/about/</loc>
         <lastmod>2014-02-12T01:40:36+05:30</lastmod>
     </url>
     <url>
-        <loc>http://harkuchh.com/robots.txt</loc>
-        <lastmod>2014-02-12T01:08:56+05:30</lastmod>
+        <loc>http://harkuchh.com/blog/archives/</loc>
+        <lastmod>2014-02-16T08:17:18+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://harkuchh.com/blog/</loc>
+        <lastmod>2014-02-16T08:17:18+05:30</lastmod>
     </url>
     <url>
         <loc>http://harkuchh.com/</loc>
-        <lastmod>2014-02-13T00:02:40+05:30</lastmod>
+        <lastmod>2014-02-16T08:17:18+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://harkuchh.com/robots.txt</loc>
+        <lastmod>2014-02-12T01:08:56+05:30</lastmod>
     </url>
 </urlset>

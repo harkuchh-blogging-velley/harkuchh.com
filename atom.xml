@@ -4,7 +4,7 @@
   <title><![CDATA[harkuchh]]></title>
   <link href="http://harkuchh.com/atom.xml" rel="self"/>
   <link href="http://harkuchh.com/"/>
-  <updated>2014-02-13T00:02:41+05:30</updated>
+  <updated>2014-02-16T08:18:22+05:30</updated>
   <id>http://harkuchh.com/</id>
   <author>
     <name><![CDATA[harkuchh]]></name>
@@ -12,6 +12,46 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[5 Firefox Plugins I Can't Live Without]]></title>
+    <link href="http://harkuchh.com/5-firefox-plugins-i-cant-live-without/"/>
+    <updated>2014-02-16T08:01:47+05:30</updated>
+    <id>http://harkuchh.com/5-firefox-plugins-i-cant-live-without</id>
+    <content type="html"><![CDATA[<p>I use Firefox as my primary web browser. I have emotional attachments with Mozilla and their <a href="https://www.mozilla.org/en-US/mission/">mission</a>. I used Chrome for sometime, but I ditched it for some reasons. Firefox make me feel more like home. The philosophical bond of trust is a big thing for me.</p>
+
+<p>Here&rsquo;s a list of top 5 Firefox addons I use daily. Whenever I switch to a new machine, installing these is generally the first thing I do.</p>
+
+<!-- more -->
+
+
+<h3><a href="https://addons.mozilla.org/en-US/firefox/addon/fxchrome">FxChrome</a></h3>
+
+<p><img src="http://i.imgur.com/b7MQxEu.png" alt="FxChrome Firefox plugin" />
+FxChrome is a Chrome like theme for Firefox. Firefox is cool, but it doesn&rsquo;t look that cool. By default I mean. This theme make Firefox look like Chrome, while keeping all Mozilla goodness.</p>
+
+<h3><a href="https://wappalyzer.com/">Wappalyzer</a></h3>
+
+<p>Wappalyzer is a browser extension that identifies the technologies used on websites. Whenever I see a good site, first thing that come to mind is what technologies are these guys using?</p>
+
+<p>Wappalyzer save me a lot of work. It shows the technologies used by the sites in the address bar. So whenever I visit a website, it tells me things like they are using Wordpress, jQuery, Google Analytics and other technologies.</p>
+
+<h3><a href="http://www.ghostery.com/">Ghostery</a></h3>
+
+<p>Ghostery is for my paranoid self. It stop websites from tracking me. Ghostery detects and stop all sort of trackers used on websites, from analytics to social media widgets. I used to use AdBlock Plus as well earlier, but now I use Ghostery only.<br/>
+After all ads are the reason why content on Internet is free. Ghostery protects my privacy while I am still able to support publishers.</p>
+
+<h3><a href="http://trac.arantius.com/wiki/Extensions/Resurrect">Resurrect Pages</a></h3>
+
+<p>Web pages go down all the time. It happen a lot with me that I visit some website and it&rsquo;s down. Resurrect pages help resurrecting the dead (pages) using various archiving sites of the web. Whenever I visit a dead page, it shows a list of archives, and I can choose to visit a snapshot of the page from there.</p>
+
+<h3><a href="https://www.pushbullet.com">PushBullet</a></h3>
+
+<p>You&rsquo;ll understand the value of PushBullet only if you use the PushBullet app on your Android phone. PushBullet help me share content between my phone and my browser. I send all sort of things with it to my phone, would it be the todo list of things I need to do when I go out of my home (that actually happen very rarely), or links to articles I want to read on phone when lying in bed or notes etc.</p>
+
+<p>And for some reason my brain start producing awesome ideas when I am about to sleep, and there is no time to start my computer to note them. Then I just start my phone, and send those ideas to my computer as notes. It&rsquo;s a really useful app.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Why Bloggers Need to Save Themselves From Google: Lesson We Got After Losing 400K]]></title>
@@ -1613,53 +1653,6 @@ That way when readers will see your that strong &amp; meaningful comment related
 <b>Note</b> : If you will do it gently then you will never feel requirement of <b>search engine optimization packages</b>, <b>link building service</b><b> </b>for seo of your blog and that is the reason building quality backlinks is called as the <b>best search engine optimization </b>tool and it will let you save the expense of <b>search engine optimization software</b>s because the right way will give you <b>free back links</b>. This is the <b>affordable search engine optimization </b>strategy for everyone, after all it’s free.
 
 Happy Blogging &#8230; :)
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[How to Track IP Who Performing Invalid Clicks on Adsense Using StatCounter]]></title>
-    <link href="http://harkuchh.com/how-to-track-ip-who-performing-invalid-clicks-on-adsense-using-statcounter/"/>
-    <updated>2013-04-19T00:00:00+05:30</updated>
-    <id>http://harkuchh.com/how-to-track-ip-who-performing-invalid-clicks-on-adsense-using-statcounter</id>
-    <content type="html"><![CDATA[Just 2-3 days back I wrote a guest post for Ammar Ali’s  blog Allbloggingtips with title `<a title="checkout the Post" href="http://allbloggingtips.com/2013/04/16/protect-adsense-from-invalid-clicks/" target="_blank" rel="nofollow"><em>Why and How To Protect Adsense Account From Invalid Clicks?</em></a>` and because I wrote that post so Ammar sir gave me privilege to handle all the comments below that post, when I visited that page next day I saw many comments at the bottom, most of them thanked Author(<em><a href="https://www.facebook.com/Haarkuchh" target="_blank" rel="nofollow">me</a></em>) for sharing that useful info but there I noticed almost every person saying <span style="font-size: medium;">`</span><em>Hey Thanks K.K this is really helpful, I&#8217;m also having a serious issue of invalid clicks on one of my websites these days you have given awesome info. kindly also tell us<strong> how to detect those IP’s from where invalid clicks are being performed on our blog<span style="font-size: large;">`</span></strong></em>, so this post is dedicated to all those bloggers who are keen to know `<strong>How to track invalid Adsense clicks</strong> using StatCounter`<a href="http://google.com" target="_blank">.</a><!--more-->
-
-Every Adsense publisher knows that <strong>Invalid Click Activity</strong> <strong>on Adsense Ads</strong> is really a very serious issue which can lead them to a banned Adsense account from Google and painful thing is that that ban remains permanent. Google may knows everything and it can give you result of any query but still it doesn’t provide any tool to <strong>detect the IP’s from where Invalid Clicks or Click Bombing have done</strong>. So it’s all publisher’s duty to fetch those IP’s to <strong>protecting their <a href="http://harkuchh.com/tag/adsense/" target="_blank" rel="nofollow">AdSense account</a> from Invalid Click Activity</strong>.
-
-Many webmasters and bloggers have <strong>lost their AdSense account just because of Invalid Click Activity</strong> and their unawareness, but I’m sure you’re aware enough that’s why you are reading this article on <a href="http://harkuchh.com" target="_blank"><em>Harkuchh.com</em></a>, so let’s discus how to <strong>track the IP address from where you are getting Invalid Clicks on your Ads</strong>.
-
-You can<strong> track every single</strong> <b>IP performing clicks on Adsense Ads</b> <strong>by using StatCounter</strong>, and it’s pretty easy. All you need to do is read and follow the given steps very carefully, must note that<span style="color: #ff0000;"> You can’t afford to miss any point</span>. Let’s start..
-<h1><strong>Track invalid Adsense Clicks using Statcounter</strong></h1>
-<strong>1.</strong> Create an account on <a href="http://statcounter.com" target="_blank" rel="nofollow">Statcounter</a> by using your permanent email account.
-
-<strong>2.</strong> After that you’ll need to create a new project for your website which you want to track. Click on <b>Add</b><b> New Project </b>and in Project url fill your website URL and fill all the required information like, Project Title, Country, Time Zone, etc. Just select <b>Invisible</b><b> Tracking</b> and you can choose to receive monthly or weekly reports via email<a href="http://yahoo.com/" target="_blank">.</a>
-
-<a href="http://harkuchh.com/wp-content/uploads/2013/04/How-To-detect-IP-Performing-invalid-Clicks-on-Adsense-Ads-tutorial.jpg"><img class="aligncenter size-full wp-image-8760" alt="How To detect IP Performing invalid Clicks on Adsense Ads tutorial" src="http://harkuchh.com/wp-content/uploads/2013/04/How-To-detect-IP-Performing-invalid-Clicks-on-Adsense-Ads-tutorial.jpg" width="554" height="292" /></a>
-
-&nbsp;
-
-<strong>3.</strong> Once you’re done with the previous step, StatCounter will <strong>detect the platform of your website</strong> and <strong>gives you a code</strong> with detailed instructions on <b>how to install the stat counter code in your website</b>, just follow the given instruction carefully<a href="http://bing.com" target="_blank">.</a>
-<h1><strong>How to Track IP clicking on Ads</strong></h1>
-Now once you have set statcounter for your website by following the given instructions, you can start viewing all your site related reports within minutes. Now back to the Statcounter Home page.
-
-<strong>4.</strong> First of all click on your project name (your site) then click on <b>Stats </b>and next then click on <a href="http://harkuchh.com/how-to-track-ip-who-performing-invalid-clicks-on-adsense-using-statcounter"><strong>Exit Link Activity</strong></a> here you can find all the Links on which your visitors clicked to Exit from your site. You can find date, time, exit link name and also the page on which the exit link was clicked. <i>Exit link means the link by clicking which a user jumps to a new page that might be your Ad </i>or a link to any other website.
-
-<a href="http://harkuchh.com/wp-content/uploads/2013/04/How-To-detect-IP-Performing-invalid-Clicks-on-Adsense-Ads.jpg"><img class="aligncenter size-full wp-image-8761" alt="How To detect IP Performing invalid Clicks on Adsense Ads" src="http://harkuchh.com/wp-content/uploads/2013/04/How-To-detect-IP-Performing-invalid-Clicks-on-Adsense-Ads.jpg" width="533" height="296" /></a>
-
-If you will examine the links clicked<strong> you can find how many clicks are performed there on advertisements and also at what time the click was made</strong>.
-
-So there you get all the clicks performed on your Ads but this information is not enough because still you are far from those IP’s from where clicks are done so let’s move further, look at the opened page you can easily see a <strong>Magnifying glass icon</strong> before the date in every row of the table. By clicking on that magnifying glass you will get to the page where you can see more detailed information about the visitor who clicked on the link.
-
-<a href="http://harkuchh.com/wp-content/uploads/2013/04/How-To-Track-IP-who-Performing-invalid-Clicks-on-Adsense-using-StatCounter.jpg"><img class="aligncenter size-large wp-image-8762" alt="How To Track IP who Performing invalid Clicks on Adsense using StatCounter" src="http://harkuchh.com/wp-content/uploads/2013/04/How-To-Track-IP-who-Performing-invalid-Clicks-on-Adsense-using-StatCounter-580x138.jpg" width="580" height="138" /></a>
-
-<strong>You can find the IP address of the clicker(s) here</strong> along with his location, host name, browser, OS, resolution, ISP, visiting length, and the pages he viewed including the exit link.
-
-Now if you use a bit of your awesome brain you can track all the valid as well as invalid clicks on your Adsense Ads. If you find any IP clicked on your Ads many times it simply means you are <strong>being <a href="http://harkuchh.com" target="_blank">click bombed</a> by that IP</strong>, then you can disable ads temporarily on your website or remove your website from authorized websites list in Google AdSense, you can also ban the fetched IP for showing your Ads from cPanel of your site.
-
-Hey publisher, it is highly recommended that whenever you feel any sudden or suspicious change in your Adsense Account  like <strong>sudden increase in Page CTR</strong> or many clicks but <strong>Zero or very low CPC</strong> then your most important task is to detect the location and IP address of the person doing invalid click activity on your Ads.
-
-This is highly recommended because in case you unfortunately get <b>banned from AdSense because of invalid activity on Ads, </b><strong>you will have stats which you can use at the time of appeal for your account being reinstated</strong><b>.</b>
-
-I hope if your question was <strong>how to check someone’s IP</strong> or how to find those IPs who are doing froud clicks, this <b>complete tutorial to featch the IP of invalid clicker on Ads</b> will help you to keep your Adsense safe and along with your forever, have a look of my other Adsense tutorials those will be also helpful for you. For this awesome guidance I expect a share and a comment from your side, will I get it..
 ]]></content>
   </entry>
   
