@@ -1,1 +1,276 @@
-<?xml version="1.0" encoding="utf-8"?> <feed xmlns="http://www.w3.org/2005/Atom"><title><![CDATA[Category: LINUX | harkuchh]]></title><link href="http://harkuchh.com/blog/categories/linux/atom.xml" rel="self"/><link href="http://harkuchh.com/"/> <updated>2014-02-17T16:50:45+05:30</updated> <id>http://harkuchh.com/</id> <author> <name><![CDATA[harkuchh]]></name> </author> <generator uri="http://octopress.org/">Octopress</generator> <entry><title type="html"><![CDATA[How to Get Started With Linux]]></title><link href="http://harkuchh.com/how-to-get-started-with-linux/"/> <updated>2013-03-27T00:00:00+05:30</updated> <id>http://harkuchh.com/how-to-get-started-with-linux</id> <content type="html"><![CDATA[<p><span style="font-family:georgia">So are you eventually tired of Windows’ crashes and viruses ? I know many who are. It’s simply not worth to keep using a system which can’t even function properly (Windows you hearing me ?).</span></p><p><span style="font-family:georgia">I know you have heard of that Linux thing but never tried. Yes the rumors are true,Linux never crashes, and it never hangs. You don’t even need to press the refresh again and again to keep it working properly. It’s awesomeness in its most raw form.</span></p><p><span style="font-family:georgia">If you are reading this post you are most likely willing to get out of the jail Microsoft has put you in (and they even ask you to pay for it), or you are standing on the line to make the decision to give Linux a shot. If it’s the latter case, here are some features of Linux which should give you the final push.</span></p><h3 dir="ltr" style="padding-left: 30px;"><span style="color:#000"><strong><span style="font-family:georgia">Stable to its core</span></strong></span></h3><p><span style="font-family:georgia">As I stated earlier, it’s a solid system. So solid that sometimes I am forced to wonder that even Ambuja Cement is no match for it. You can leave a computer running for a month in a cyber cafe, and even after the month it will be working as fast as ever, without any need of restart or anything at all. Hell, <strong>most servers run Linux</strong> (that include Google, Yahoo, Facebook and more) and they run literally for years non stop. Try that with your Windows machine ^_^</span></p><h3 dir="ltr" style="padding-left: 30px;"><span style="color:#000"><strong><span style="font-family:georgia">No viruses ever (god promise)</span></strong></span></h3><p><span style="font-family:georgia">I can bet on this. Being a power user (and a proud geek) for about three years, I never ever faced a virus in Linux (never even heard of any). This is one thing you gonna miss the most once you start using (or enjoying I would say) Linux. How come Linux has no viruses? Read our previous post on <em><a href="http://harkuchh.com/why-virus-dont-work-on-linux/">Why virus don’t work on Linux</a></em>.</span></p><h3 dir="ltr" style="padding-left: 30px;"><span style="color:#000"><strong><span style="font-family:georgia">No Licenses</span></strong></span></h3><p>Don’t want to pay for your “WINDOWS” anymore? You don’t need to. Linux is all free. You don’t need to pay a single paisa for it, and nobody will ask you to do that. You no more need to live in the fear that if you mistakenly update your windows someday, Microsoft will block your computer. <span style="font-family:georgia">No money? No worries, Linux is all free and open source (if you care about that).</span></p><h3 dir="ltr" style="padding-left: 30px;"><span style="color:#000"><strong><span style="font-family:georgia">Free Free Free</span></strong></span></h3><p><span style="font-family:georgia">Almost every software on Linux is free too. Literally each and everyone of these and millions of more.</span></p><ul><li dir="ltr"><a href="http://www.libreoffice.org/#/Home" target="_blank" rel="nofollow"><span style="font-family:georgia">Free Office suite </span></a></li><li dir="ltr"><span style="font-family:georgia">Free Photoshop, <a href="http://www.gimp.org/">Gimp</a> we call it</span></li><li dir="ltr"><a href="http://www.blender.org/"><span style="font-family:georgia">Free Animation Studio</span></a></li><li dir="ltr"><a href="http://www.mixxx.org/"><span style="font-family:georgia">Free DJ Studio </span></a></li></ul><h2 dir="ltr"><span style="font-family:georgia">Linux is hard to use ?</span></h2><p><span style="font-family:georgia">I heard someone saying that Linux is very hard to use. May be it was in 90’s. But. Wake up Sid, <a href="http://mediacdn.snorgcontent.com/media/catalog/product/g/e/geekisthenew_fullpic_1.jpg">Geek is the new sexy anyway</a>. Although you don’t need to be a <a href="http://channikhabra.blogspot.in/">geek</a> to use Linux, it’s too sexy man. Remember what Steve Jobs said? You need to think different. Very well then, Follow my lead.</span></p><h1 dir="ltr"><span style="font-family:georgia;color:#000">First steps in animal territory</span></h1><h3 dir="ltr" style="padding-left: 30px;"><span style="font-family:georgia;color:#000">Taste Linux <span style="font-family:georgia">without loosing Windows safe-house (pun intended)</span></span></h3><p>Yup! You can install Linux like a windows program and then if you don’t like it just uninstall it like anything else. It will still be the full blown Linux Operating System, but it will not affect your Windows. No, I am not talking about Virtual Box or VMware. What we are going to do is use a software which will install the Ububtu (most popular Linux) like any windows application.</p><h3 dir="ltr" style="padding-left: 30px;"><span style="color:#000"><strong><span style="font-family:georgia">Here's how to do the magic</span></strong></span></h3><p><span style="font-family:georgia">It’s basically the Ubuntu (very famous Linux distribution) which is installed with a program (WUBI) provided by Canonical (people that make Ubuntu)</span></p><ul><li dir="ltr"><span style="font-family:georgia">Download the <a href="http://www.ubuntu.com/download/desktop/thank-you?release=latest&amp;bits=32&amp;distro=desktop&amp;status=zeroc">latest Ubuntu iso file</a></span></li></ul><ul><li dir="ltr"><span style="font-family:georgia">Download latest <a href="http://www.ubuntu.com/download/desktop/thank-you?release=latest&amp;bits=32&amp;distro=wubi&amp;status=zeroc">Ubuntu Windows Installer</a> (wubi we call it)</span></li></ul><ul><li dir="ltr"><span style="font-family:georgia">Place the .iso file and wubi.exe in same folder and run wubi.exe</span></li></ul><ul><li dir="ltr"><span style="font-family:georgia">Then Choose the drive you want to install Ubuntu in</span></li></ul><blockquote><ul><li dir="ltr"><span style="font-family:georgia">Don't worry, C: will be just fine too. It will not harm your computer in any way.</span></li></ul></blockquote><ul><li dir="ltr"><span style="font-family:georgia">Choose how much space you want to give the new OS (1 GB is enough)</span></li></ul><ul><li dir="ltr"><span style="font-family:georgia">Click the magic button (Install I mean)</span></li></ul><ul><li dir="ltr"><span style="font-family:georgia">Restart the Computer</span></li></ul><ul><li dir="ltr"><span style="font-family:georgia">Then on startup, you will be given two choices like in this screen <img alt="" src="https://lh4.googleusercontent.com/LVd-LkFbai6YJJlqdzAjI2xX8HGkMe9BOC_QfSy00mTLPiDlRrqmDAoW0sTB-OCbGOtwtcJ133kDZpyv3RYfNTXtiyonb6o-WZC6QA1cvDc7MKsAawAMkm4K" width="440px;" height="187px;"/></span></li><li dir="ltr"><span style="font-family:georgia">Make your choice and you are welcome :)</span></li></ul><h1 dir="ltr"><span style="font-family:georgia;color:#000">Using Linux</span></h1><p><span style="font-family:georgia">So now we can run Linux easily and play with it like a toy. But what next? Ubuntu has a very straight forward approach, nice looks and slick interface. There is no need of much illustration. Feel free to enjoy it to your heart’s content. Here are some tips and tricks about some new things you gonna find in Ubuntu.</span></p><h3 dir="ltr" style="padding-left: 30px;"><span style="color:#000"><strong><span style="font-family:georgia">Installing new software</span></strong></span></h3><p><span style="font-family:georgia">Installing new software in Linux is different from Windows. There are no .exe files or other setups like that which you can use to install software. Yea, that means you no longer need to click those next-next buttons for every software you want to install. Instead there is a software center where you can search for software, read the description about what the software do and install it if you want. The latest version of the software will then get downloaded and installed on your new machine. It’s more like an app store, and much powerful system then Windows' ‘setup’ approach. We’ll discuss in some other post what’s so amazing about Linux approach of installing software.</span></p><h3 dir="ltr" style="padding-left: 30px;"><span style="color:#000"><strong><span style="font-family:georgia">Removing software</span></strong></span></h3><p><span style="font-family:georgia">You guessed it right, the software center. It’s your one stop shop for every new software you want to install or remove.</span></p><h3 dir="ltr" style="font-family: georgia; padding-left: 30px;"><span style="color:#000">What if you are offline ?</span></h3><p><span style="font-family:georgia">That’s actually worst than it sounds. There are many <a href="http://channikhabra.blogspot.in/2011/07/why-not-to-install-linux-offline-and.html">problems you’ll face using Linux offline</a>. If you are using a computer which can’t stay online, I recommend not trying Linux on this machine. That is if you are new to Linux world. There are of course solutions to those problems (follow same link given above), but they are kind of hard for Linux beginners.</span></p><h3 dir="ltr" style="padding-left: 30px;"><span style="font-family:georgia;color:#000">Watching videos and listening music</span></h3><p><span style="font-family:georgia">You will not be able to listen to music or watch videos on Ubuntu you just installed, lol. Actually you can, but you need to download extra software for that. Why is it like this? Well, it’s because the decoder packages which are used to play music (mp3) and videos are not open source. In order to keep itself completely open and free, Ubuntu do not offer those software in default CD. You need to install them later.</span></p><h3 dir="ltr" style="padding-left: 30px;"><span style="font-family:georgia;color:#000">How to do that ?</span></h3><p><span style="font-family:georgia">Simply try to play a mp3 and/or a video and Ubuntu will ask you to download and install some plugins. Click ‘Install’ and get going. It will download about 28-35MB, and here you have the safest machine you can get with little to no effort on your part.</span></p><h1 dir="ltr"><span style="font-family:georgia;color:#000">Why should you use Linux ?</span></h1><p><span style="font-family:georgia">If the reasons I gave in beginning of this article were not enough, here are some use cases that may convince you.</span></p><h3 dir="ltr" style="padding-left: 30px;"><span style="color:#000"><strong><span style="font-family:georgia">To Surf Internet</span></strong></span></h3><p><span style="font-family:georgia">Which is the safest way to surf the web? There is none. But you can minimize the risk by using Linux. Most bad websites assume you to be using Windows and try to hack using scripts which think exploit several ‘features’(?) of windows. Using Linux means automatic safety from 70% of those bad websites.</span></p><h3 dir="ltr" style="padding-left: 30px;"><span style="color:#000"><strong><span style="font-family:georgia">Lack of Anti-virus</span></strong></span></h3><p><span style="font-family:georgia">Are you tired of your antivirus screaming in your face to buy the pro version or singing the songs that its trial version is expired? No virus means no need for anti-virus. Use Linux, the ‘Ram-baan’ for all viruses.</span></p><h3 dir="ltr" style="padding-left: 30px;"><span style="color:#000"><strong><span style="font-family:georgia">Transfer data from pen drives</span></strong></span></h3><p><span style="font-family:georgia">If you are like me (and most people I know), there will be lots of times when you will need to use a pen drive (or data card) but you are scared that the pen drive would have virus. Just boot into Ubuntu and use it for all data transfer. Virus don’t spread by itself, it spread only when you open a virus file (which happens automatically when you open a pen drive). Using Linux can save your ass every time you need to use a pen drive.</span></p><p><span style="font-family:georgia">It is not that hard to use Linux as people say. Use this guide to help you, or you can contact me if you have any problem. I will be more than happy to help. Linux is the awesomeness you must not ignore. Even if you need to suffer a little with your first steps towards Linux, it’s worth the fruit you gonna get in the end. <span style="font-family:georgia">Happy hacking :) </span></span></p> ]]></content> </entry> <entry><title type="html"><![CDATA[Why Virus Don’t Work on Linux?]]></title><link href="http://harkuchh.com/why-virus-dont-work-on-linux/"/> <updated>2012-11-12T00:00:00+05:30</updated> <id>http://harkuchh.com/why-virus-dont-work-on-linux</id> <content type="html"><![CDATA[<p><span style="color:#333"><em><strong>Hello folks!!</strong></em> Many of you are always wondering about the fuzz that you<em style="color:#000"><strong> don’t need an antivirus in linux</strong></em>, no virus affect the Linux operating system and all other goodness of linux operating system. Linux has always been favourite among hackers and computer geeks, there is a reason for that. Its awesome flexibility and super robust security are one of them. But how on God’s holy Earth Linux prevents Viruses. That’s what you were always thinking about, right ? That’s what we gonna see in this post. Here is the answer with explanation..</span></p><h3 style="padding-left: 30px;"></h3><h3 style="padding-left: 30px;"><span style="color:#333"><em><strong>The registry thing</strong></em></span></h3><hr/><p><span style="color:#333">Windows use the system of registry for mapping complex aspects of functioning of the operating system and other system/application software. In really simple terms, it can be thought of as a map which decided what will do what and how. Many viruses target registry to do malicious things, because it can be done in few lines of code by editing registry values. <em>This is not possible on Linux because its mapping system is not that naive. So it is inert to such viruses.</em></span></p><p><span style="color:#333"> </span></p><p><span style="color:#333"><img class="size-large wp-image-3757 aligncenter" title="linux is virus free" alt="" src="http://harkuchh.com/wp-content/uploads/2012/08/linux-is-virus-free-580x251.jpg" width="580" height="251"/></span></p><h3 style="padding-left: 30px;"></h3><h3 style="padding-left: 30px;"><span style="color:#333"> </span> <span style="color:#333"><em><strong>User and the root</strong></em></span></h3><hr/><p><span style="color:#333">Linux uses different privileges for different kind of users. There is a root (administrator in Windows), which has the power to perform system level changes. But normal user don’t have permission to do anything with system that can damage it. But Windows most of time is run as Administrator, which make it prone to simple viruses which would not work otherwise. <em><strong>Tight user permissions make Linux safe.</strong></em></span></p><p><span style="color:#333"> </span></p><h3 style="padding-left: 30px;"><span style="color:#333"><strong><em>File system control</em></strong></span></h3><hr/><p><span style="color:#333">Linux has a special kind of file system. System files and user files are stored on totally different level. What this mean is that, even if a user run some bad program, it won’t affect other users or system. Only the user who run that program pay the price. But in windows, all the users on the system pay for the deeds of one stupid user.</span></p><p><span style="color:#333"> </span></p><h3 style="padding-left: 30px;"><span style="color:#333"><em><strong>File Permissions</strong></em></span></h3><hr/><p><span style="color:#333">Linux has different permissions for different files for different users. Any program can’t change files, or create new files if the user running that program don’t have permission to do that. So the viruses which replicate themselves in different folders don’t work on linux.</span></p><p><span style="color:#333"> </span></p><h3 style="padding-left: 30px;"><span style="color:#333"><strong><em>Win32 API</em></strong></span></h3><hr/><p><span style="color:#333">Most Windows program are written using the application programming interface called Win32 API which is provided by Microsoft. Most viruses also use this. Since Win32 API don’t work in Linux, so such viruses also don’t work.</span></p><p><span style="color:#333"> </span></p><h3 style="padding-left: 30px;"><span style="color:#333"><strong><em>The most important thing</em></strong></span></h3><hr/><p><span style="color:#333">The most important reason which make Linux inert towards viruses is its architecture. Linux and Windows are very different system from architectural point of view. Executables for Windows (.exe files) have different architecture which Linux don’t understand, so viruses written for Windows don’t work in Linux.</span></p><p><span style="color:#333"> </span></p><p style="padding-left:30px"><span style="color:#333">Now I think you have the answer of a very known question that "<strong>Why do viruses don't effect Linux</strong>"  Do Like and share this Post to let everybody know this awesome feature the awesome operating System <em><strong>Linux</strong></em>, You may have seen many people afraid of Virus and they always show hesitation in using pendrives, flashdrives etc. so we recommend you to please share this post and tell everyone you don't need to afraid of viruses anymore :)</span></p><p><span style="color:#333">Also See : <a href="http://harkuchh.com/5-reasons-you-should-use-linux-not-windows/"><span style="color:#333"><em>The five reasons you should use Linux not Windows</em></span></a></span></p> ]]></content> </entry> </feed>
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: LINUX | harkuchh]]></title>
+  <link href="http://harkuchh.com/blog/categories/linux/atom.xml" rel="self"/>
+  <link href="http://harkuchh.com/"/>
+  <updated>2014-02-17T17:03:15+05:30</updated>
+  <id>http://harkuchh.com/</id>
+  <author>
+    <name><![CDATA[harkuchh]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[How to Get Started With Linux]]></title>
+    <link href="http://harkuchh.com/how-to-get-started-with-linux/"/>
+    <updated>2013-03-27T00:00:00+05:30</updated>
+    <id>http://harkuchh.com/how-to-get-started-with-linux</id>
+    <content type="html"><![CDATA[<p><span style="font-family: georgia;">So are you eventually tired of Windows’ crashes and viruses ? I know many who are. It&rsquo;s simply not worth to keep using a system which can&rsquo;t even function properly (Windows you hearing me ?).<!--more--></span></p>
+
+<p><span style="font-family: georgia;">I know you have heard of that Linux thing but never tried. Yes the rumors are true,Linux never crashes, and it never hangs. You don&rsquo;t even need to press the refresh again and again to keep it working properly. It&rsquo;s awesomeness in its most raw form.</span></p>
+
+<p><span style="font-family: georgia;">If you are reading this post you are most likely willing to get out of the jail Microsoft has put you in (and they even ask you to pay for it), or you are standing on the line to make the decision to give Linux a shot. If it&rsquo;s the latter case, here are some features of Linux which should give you the final push.</span></p>
+
+<h3 dir="ltr" style="padding-left: 30px;"><span style="color: #000000;"><strong><span style="font-family: georgia;">Stable to its core</span></strong></span></h3>
+
+
+<p><span style="font-family: georgia;">As I stated earlier, it&rsquo;s a solid system. So solid that sometimes I am forced to wonder that even Ambuja Cement is no match for it. You can leave a computer running for a month in a cyber cafe, and even after the month it will be working as fast as ever, without any need of restart or anything at all. Hell, <strong>most servers run Linux</strong> (that include Google, Yahoo, Facebook and more) and they run literally for years non stop. Try that with your Windows machine ^_^</span></p>
+
+<h3 dir="ltr" style="padding-left: 30px;"><span style="color: #000000;"><strong><span style="font-family: georgia;">No viruses ever (god promise)</span></strong></span></h3>
+
+
+<p><span style="font-family: georgia;">I can bet on this. Being a power user (and a proud geek) for about three years, I never ever faced a virus in Linux (never even heard of any). This is one thing you gonna miss the most once you start using (or enjoying I would say) Linux. How come Linux has no viruses? Read our previous post on <em><a href="http://harkuchh.com/why-virus-dont-work-on-linux/">Why virus don&rsquo;t work on Linux</a></em>.</span></p>
+
+<h3 dir="ltr" style="padding-left: 30px;"><span style="color: #000000;"><strong><span style="font-family: georgia;">No Licenses</span></strong></span></h3>
+
+
+<p>Don&rsquo;t want to pay for your &ldquo;WINDOWS&rdquo; anymore? You don&rsquo;t need to. Linux is all free. You don&rsquo;t need to pay a single paisa for it, and nobody will ask you to do that. You no more need to live in the fear that if you mistakenly update your windows someday, Microsoft will block your computer.
+<span style="font-family: georgia;">No money? No worries, Linux is all free and open source (if you care about that).</span></p>
+
+<h3 dir="ltr" style="padding-left: 30px;"><span style="color: #000000;"><strong><span style="font-family: georgia;">Free Free Free</span></strong></span></h3>
+
+
+<p><span style="font-family: georgia;">Almost every software on Linux is free too. Literally each and everyone of these and millions of more.</span></p>
+
+<ul>
+    <li dir="ltr"><a href="http://www.libreoffice.org/#/Home" target="_blank" rel="nofollow"><span style="font-family: georgia;">Free Office suite </span></a></li>
+    <li dir="ltr"><span style="font-family: georgia;">Free Photoshop, <a href="http://www.gimp.org/">Gimp</a> we call it</span></li>
+    <li dir="ltr"><a href="http://www.blender.org/"><span style="font-family: georgia;">Free Animation Studio</span></a></li>
+    <li dir="ltr"><a href="http://www.mixxx.org/"><span style="font-family: georgia;">Free DJ Studio </span></a></li>
+</ul>
+
+
+<h2 dir="ltr"><span style="font-family: georgia;">Linux is hard to use ?</span></h2>
+
+
+<p><span style="font-family: georgia;">I heard someone saying that Linux is very hard to use. May be it was in 90&rsquo;s. But. Wake up Sid, <a href="http://mediacdn.snorgcontent.com/media/catalog/product/g/e/geekisthenew_fullpic_1.jpg">Geek is the new sexy anyway</a>. Although you don&rsquo;t need to be a <a href="http://channikhabra.blogspot.in/">geek</a> to use Linux, it&rsquo;s too sexy man. Remember what Steve Jobs said? You need to think different. Very well then, Follow my lead.</span></p>
+
+<h1 dir="ltr"><span style="font-family: georgia; color: #000000;">First steps in animal territory</span></h1>
+
+
+<h3 dir="ltr" style="padding-left: 30px;"><span style="font-family: georgia; color: #000000;">Taste Linux <span style="font-family: georgia;">without loosing Windows safe-house (pun intended)</span></span></h3>
+
+
+<p>Yup! You can install Linux like a windows program and then if you don&rsquo;t like it just uninstall it like anything else.
+It will still be the full blown Linux Operating System, but it will not affect your Windows. No, I am not talking about Virtual Box or VMware. What we are going to do is use a software which will install the Ububtu (most popular Linux) like any windows application.</p>
+
+<h3 dir="ltr" style="padding-left: 30px;"><span style="color: #000000;"><strong><span style="font-family: georgia;">Here's how to do the magic</span></strong></span></h3>
+
+
+<p><span style="font-family: georgia;">It&rsquo;s basically the Ubuntu (very famous Linux distribution) which is installed with a program (WUBI) provided by Canonical (people that make Ubuntu)</span></p>
+
+<ul>
+    <li dir="ltr"><span style="font-family: georgia;">Download the <a href="http://www.ubuntu.com/download/desktop/thank-you?release=latest&amp;bits=32&amp;distro=desktop&amp;status=zeroc">latest Ubuntu iso file</a></span></li>
+</ul>
+
+
+<ul>
+    <li dir="ltr"><span style="font-family: georgia;">Download latest <a href="http://www.ubuntu.com/download/desktop/thank-you?release=latest&amp;bits=32&amp;distro=wubi&amp;status=zeroc">Ubuntu Windows Installer</a> (wubi we call it)</span></li>
+</ul>
+
+
+<ul>
+    <li dir="ltr"><span style="font-family: georgia;">Place the .iso file and wubi.exe in same folder and run wubi.exe</span></li>
+</ul>
+
+
+<ul>
+    <li dir="ltr"><span style="font-family: georgia;">Then Choose the drive you want to install Ubuntu in</span></li>
+</ul>
+
+
+<blockquote>
+<ul>
+    <li dir="ltr"><span style="font-family: georgia;">Don't worry, C: will be just fine too. It will not harm your computer in any way.</span></li>
+</ul>
+</blockquote>
+
+
+<ul>
+    <li dir="ltr"><span style="font-family: georgia;">Choose how much space you want to give the new OS (1 GB is enough)</span></li>
+</ul>
+
+
+<ul>
+    <li dir="ltr"><span style="font-family: georgia;">Click the magic button (Install I mean)</span></li>
+</ul>
+
+
+<ul>
+    <li dir="ltr"><span style="font-family: georgia;">Restart the Computer</span></li>
+</ul>
+
+
+<ul>
+    <li dir="ltr"><span style="font-family: georgia;">Then on startup, you will be given two choices like in this screen
+<img alt="" src="https://lh4.googleusercontent.com/LVd-LkFbai6YJJlqdzAjI2xX8HGkMe9BOC_QfSy00mTLPiDlRrqmDAoW0sTB-OCbGOtwtcJ133kDZpyv3RYfNTXtiyonb6o-WZC6QA1cvDc7MKsAawAMkm4K" width="440px;" height="187px;" /></span></li>
+    <li dir="ltr"><span style="font-family: georgia;">Make your choice and you are welcome :)</span></li>
+</ul>
+
+
+<h1 dir="ltr"><span style="font-family: georgia; color: #000000;">Using Linux</span></h1>
+
+
+<p><span style="font-family: georgia;">So now we can run Linux easily and play with it like a toy. But what next? Ubuntu has a very straight forward approach, nice looks and slick interface. There is no need of much illustration. Feel free to enjoy it to your heart&rsquo;s content. Here are some tips and tricks about some new things you gonna find in Ubuntu.</span></p>
+
+<h3 dir="ltr" style="padding-left: 30px;"><span style="color: #000000;"><strong><span style="font-family: georgia;">Installing new software</span></strong></span></h3>
+
+
+<p><span style="font-family: georgia;">Installing new software in Linux is different from Windows. There are no .exe files or other setups like that which you can use to install software. Yea, that means you no longer need to click those next-next buttons for every software you want to install. Instead there is a software center where you can search for software, read the description about what the software do and install it if you want. The latest version of the software will then get downloaded and installed on your new machine. It&rsquo;s more like an app store, and much powerful system then Windows' &lsquo;setup&rsquo; approach. We&rsquo;ll discuss in some other post what&rsquo;s so amazing about Linux approach of installing software.</span></p>
+
+<h3 dir="ltr" style="padding-left: 30px;"><span style="color: #000000;"><strong><span style="font-family: georgia;">Removing software</span></strong></span></h3>
+
+
+<p><span style="font-family: georgia;">You guessed it right, the software center. It&rsquo;s your one stop shop for every new software you want to install or remove.</span></p>
+
+<h3 dir="ltr" style="font-family: georgia; padding-left: 30px;"><span style="color: #000000;">What if you are offline ?</span></h3>
+
+
+<p><span style="font-family: georgia;">That&rsquo;s actually worst than it sounds. There are many <a href="http://channikhabra.blogspot.in/2011/07/why-not-to-install-linux-offline-and.html">problems you&rsquo;ll face using Linux offline</a>. If you are using a computer which can&rsquo;t stay online, I recommend not trying Linux on this machine. That is if you are new to Linux world. There are of course solutions to those problems (follow same link given above), but they are kind of hard for Linux beginners.</span></p>
+
+<h3 dir="ltr" style="padding-left: 30px;"><span style="font-family: georgia; color: #000000;">Watching videos and listening music</span></h3>
+
+
+<p><span style="font-family: georgia;">You will not be able to listen to music or watch videos on Ubuntu you just installed, lol. Actually you can, but you need to download extra software for that. Why is it like this? Well, it&rsquo;s because the decoder packages which are used to play music (mp3) and videos are not open source. In order to keep itself completely open and free, Ubuntu do not offer those software in default CD. You need to install them later.</span></p>
+
+<h3 dir="ltr" style="padding-left: 30px;"><span style="font-family: georgia; color: #000000;">How to do that ?</span></h3>
+
+
+<p><span style="font-family: georgia;">Simply try to play a mp3 and/or a video and Ubuntu will ask you to download and install some plugins. Click &lsquo;Install&rsquo; and get going. It will download about 28-35MB, and here you have the safest machine you can get with little to no effort on your part.</span></p>
+
+<h1 dir="ltr"><span style="font-family: georgia; color: #000000;">Why should you use Linux ?</span></h1>
+
+
+<p><span style="font-family: georgia;">If the reasons I gave in beginning of this article were not enough, here are some use cases that may convince you.</span></p>
+
+<h3 dir="ltr" style="padding-left: 30px;"><span style="color: #000000;"><strong><span style="font-family: georgia;">To Surf Internet</span></strong></span></h3>
+
+
+<p><span style="font-family: georgia;">Which is the safest way to surf the web? There is none. But you can minimize the risk by using Linux. Most bad websites assume you to be using Windows and try to hack using scripts which think exploit several &lsquo;features&rsquo;(?) of windows. Using Linux means automatic safety from 70% of those bad websites.</span></p>
+
+<h3 dir="ltr" style="padding-left: 30px;"><span style="color: #000000;"><strong><span style="font-family: georgia;">Lack of Anti-virus</span></strong></span></h3>
+
+
+<p><span style="font-family: georgia;">Are you tired of your antivirus screaming in your face to buy the pro version or singing the songs that its trial version is expired? No virus means no need for anti-virus. Use Linux, the &lsquo;Ram-baan&rsquo; for all viruses.</span></p>
+
+<h3 dir="ltr" style="padding-left: 30px;"><span style="color: #000000;"><strong><span style="font-family: georgia;">Transfer data from pen drives</span></strong></span></h3>
+
+
+<p><span style="font-family: georgia;">If you are like me (and most people I know), there will be lots of times when you will need to use a pen drive (or data card) but you are scared that the pen drive would have virus. Just boot into Ubuntu and use it for all data transfer. Virus don&rsquo;t spread by itself, it spread only when you open a virus file (which happens automatically when you open a pen drive). Using Linux can save your ass every time you need to use a pen drive.</span></p>
+
+<p><span style="font-family: georgia;">It is not that hard to use Linux as people say. Use this guide to help you, or you can contact me if you have any problem. I will be more than happy to help. Linux is the awesomeness you must not ignore. Even if you need to suffer a little with your first steps towards Linux, it&rsquo;s worth the fruit you gonna get in the end.
+<span style="font-family: georgia;">Happy hacking :)
+</span></span></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Why Virus Don’t Work on Linux?]]></title>
+    <link href="http://harkuchh.com/why-virus-dont-work-on-linux/"/>
+    <updated>2012-11-12T00:00:00+05:30</updated>
+    <id>http://harkuchh.com/why-virus-dont-work-on-linux</id>
+    <content type="html"><![CDATA[<p><span style="color: #333333;"><em><strong>Hello folks!!</strong></em>
+Many of you are always wondering about the fuzz that you<em style="color: #000000;"><strong> don’t need an antivirus in linux</strong></em>, no virus affect the Linux operating system and all other goodness of linux operating system. Linux has always been favourite among hackers and computer geeks, there is a reason for that. Its awesome flexibility and super robust security are one of them. But how on God’s holy Earth Linux prevents Viruses. That’s what you were always thinking about, right ? That’s what we gonna see in this post. Here is the answer with explanation..<!--more--></span></p>
+
+<h3 style="padding-left: 30px;"></h3>
+
+
+<h3 style="padding-left: 30px;"><span style="color: #333333;"><em><strong>The registry thing</strong></em></span></h3>
+
+
+
+
+<hr />
+
+
+<p><span style="color: #333333;">Windows use the system of registry for mapping complex aspects of functioning of the operating system and other system/application software. In really simple terms, it can be thought of as a map which decided what will do what and how. Many viruses target registry to do malicious things, because it can be done in few lines of code by editing registry values. <em>This is not possible on Linux because its mapping system is not that naive. So it is inert to such viruses.</em></span></p>
+
+<p><span style="color: #333333;"> </span></p>
+
+<p><span style="color: #333333;"><img class="size-large wp-image-3757 aligncenter" title="linux is virus free" alt="" src="http://harkuchh.com/wp-content/uploads/2012/08/linux-is-virus-free-580x251.jpg" width="580" height="251" /></span></p>
+
+<h3 style="padding-left: 30px;"></h3>
+
+
+<h3 style="padding-left: 30px;"><span style="color: #333333;"> </span>
+<span style="color: #333333;"><em><strong>User and the root</strong></em></span></h3>
+
+
+
+
+<hr />
+
+
+<p><span style="color: #333333;">Linux uses different privileges for different kind of users. There is a root (administrator in Windows), which has the power to perform system level changes. But normal user don’t have permission to do anything with system that can damage it. But Windows most of time is run as Administrator, which make it prone to simple viruses which would not work otherwise. <em><strong>Tight user permissions make Linux safe.</strong></em></span></p>
+
+<p><span style="color: #333333;"> </span></p>
+
+<h3 style="padding-left: 30px;"><span style="color: #333333;"><strong><em>File system control</em></strong></span></h3>
+
+
+
+
+<hr />
+
+
+<p><span style="color: #333333;">Linux has a special kind of file system. System files and user files are stored on totally different level. What this mean is that, even if a user run some bad program, it won’t affect other users or system. Only the user who run that program pay the price. But in windows, all the users on the system pay for the deeds of one stupid user.</span></p>
+
+<p><span style="color: #333333;"> </span></p>
+
+<h3 style="padding-left: 30px;"><span style="color: #333333;"><em><strong>File Permissions</strong></em></span></h3>
+
+
+
+
+<hr />
+
+
+<p><span style="color: #333333;">Linux has different permissions for different files for different users. Any program can’t change files, or create new files if the user running that program don’t have permission to do that. So the viruses which replicate themselves in different folders don’t work on linux.</span></p>
+
+<p><span style="color: #333333;"> </span></p>
+
+<h3 style="padding-left: 30px;"><span style="color: #333333;"><strong><em>Win32 API</em></strong></span></h3>
+
+
+
+
+<hr />
+
+
+<p><span style="color: #333333;">Most Windows program are written using the application programming interface called Win32 API which is provided by Microsoft. Most viruses also use this. Since Win32 API don’t work in Linux, so such viruses also don’t work.</span></p>
+
+<p><span style="color: #333333;"> </span></p>
+
+<h3 style="padding-left: 30px;"><span style="color: #333333;"><strong><em>The most important thing</em></strong></span></h3>
+
+
+
+
+<hr />
+
+
+<p><span style="color: #333333;">The most important reason which make Linux inert towards viruses is its architecture. Linux and Windows are very different system from architectural point of view. Executables for Windows (.exe files) have different architecture which Linux don’t understand, so viruses written for Windows don’t work in Linux.</span></p>
+
+<p><span style="color: #333333;"> </span></p>
+
+<p style="padding-left: 30px;"><span style="color: #333333;">Now I think you have the answer of a very known question that "<strong>Why do viruses don't effect Linux</strong>"  Do Like and share this Post to let everybody know this awesome feature the awesome operating System <em><strong>Linux</strong></em>, You may have seen many people afraid of Virus and they always show hesitation in using pendrives, flashdrives etc. so we recommend you to please share this post and tell everyone you don't need to afraid of viruses anymore :)</span></p>
+
+
+<p><span style="color: #333333;">Also See : <a href="http://harkuchh.com/5-reasons-you-should-use-linux-not-windows/"><span style="color: #333333;"><em>The five reasons you should use Linux not Windows</em></span></a></span></p>
+]]></content>
+  </entry>
+  
+</feed>
