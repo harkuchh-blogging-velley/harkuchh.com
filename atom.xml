@@ -4,7 +4,7 @@
   <title><![CDATA[harkuchh]]></title>
   <link href="http://harkuchh.com/atom.xml" rel="self"/>
   <link href="http://harkuchh.com/"/>
-  <updated>2014-02-17T17:03:15+05:30</updated>
+  <updated>2014-02-17T19:36:42+05:30</updated>
   <id>http://harkuchh.com/</id>
   <author>
     <name><![CDATA[harkuchh]]></name>
@@ -12,6 +12,154 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Tricks to Search Amazing Things With Google Syntax]]></title>
+    <link href="http://harkuchh.com/tricks-to-search-amazing-things-with-google-syntax/"/>
+    <updated>2014-02-17T18:54:25+05:30</updated>
+    <id>http://harkuchh.com/tricks-to-search-amazing-things-with-google-syntax</id>
+    <content type="html"><![CDATA[<p>This gonna be a long post, but I bet you won&rsquo;t want to miss a single word. Krishan tried to convince me to break it into 4 different posts by giving multiple references from all his blogging &lsquo;knowledge&rsquo; (here&rsquo;s a pun if you can get it), but I din&rsquo;t agree. Quality of content is more important imo.</p>
+
+<p>Here I am telling best of the tricks I use to get what I want from Google. They are fun. If you have some more you think I should know, please mention in comments. Enjoy!</p>
+
+<!-- more    -->
+
+
+<h2>Exclude all results of a website</h2>
+
+<p>So many times we need to search something but results from some spammy website clutter all search results. Search with following query to remove results from a particular website</p>
+
+<blockquote><p> -site:&ldquo;spamy_site_name.com&rdquo;</p></blockquote>
+
+<p>e.g</p>
+
+<blockquote><p> big bang theory episode -site:youtube.com</p></blockquote>
+
+<p>Above query will remove all results of youtube.com.</p>
+
+<h3>How it work</h3>
+
+<p>You know already if would have read my last post about Google Syntax. There are two things working here.</p>
+
+<ul>
+<li>&ldquo;&ndash;&#8221;<br/>
+The minus(&lsquo;&ndash;&rsquo;) sign tells google to exclude results of the query directly after it.</li>
+<li>site:<br/>
+This tells google the website to be excluded</li>
+</ul>
+
+
+<h2>Direct download anything</h2>
+
+<p>We all love downloading free music, right? But discovering music has become a tedious task with all those spam sites punching ads in our faces.<br/>
+Here&rsquo;s a trick to get to direct links of songs on a website. Search for the following query and replace desired fields to get direct links (most of the time):</p>
+
+<blockquote><p>intitle:&ldquo;index of&rdquo; mp3 wadali brothers</p></blockquote>
+
+<p>You can replace anything after and including &lsquo;mp3&rsquo;.<br/>
+In my school days I created a bot to download porn using this technique. I had one hell of a porn collection back then. I still curse me for deleting it :&ndash;/</p>
+
+<h3>How it work</h3>
+
+<p>This trick uses the fact that people on Internet are not actually all smart. There are pretty stupid people around here.</p>
+
+<p>What we are actually doing here is that we are not searching for any pages created by site developer, but for the default pages which server generates for filesystem access over Http. Don&rsquo;t worry if you didn&rsquo;t get it.</p>
+
+<p>Try opening something like &ldquo;file:///&rdquo;. There is no web page over there, but your browser might be showing you a list of files. This is exactly what we are searching for, a page with direct access to the folder on server where &lsquo;mp3&rsquo; are saved.</p>
+
+<h3>Beware of spam</h3>
+
+<p>I am not the only one who know this trick. Spammers know it very well too. This query will work without a glitch for uncommon terms (like &lsquo;wadali brothers&rsquo;) which are not very popular. But if you search for something remotely famous (or too general like hindi songs), you will find herds of spam sites rolling on your site.</p>
+
+<h3>Detect spam</h3>
+
+<p>How can you differentiate b/w spam page and real page you are looking for?<br/>
+Well, as I said, we are not actually looking for any page at all. So if you see anything stylish (like colors, styles, ads, sidebars), it&rsquo;s not a real page. Real thing we are looking for do not have anything but white background, black text, blue links (violet visited links), a header and an untitled list. Nothing more.</p>
+
+<h3>How to Avoid spam</h3>
+
+<ul>
+<li><p><strong>Use the previous technique of excluding all results from a website</strong><br/>
+Just keep adding <code>-site:spamsite.com</code> for every spam site you don&rsquo;t want to see.</p></li>
+<li><p><strong>Avoid too general queries</strong><br/>
+Try to search for something specific like the song name or singer name. It works to a limit though. If you are searching for something very popular, spam is there waiting for you.</p></li>
+</ul>
+
+
+<h2>Download books and documents</h2>
+
+<p>This one is my favorite. I read a lot of books. So of course I download a lot of them. This technique can actually be used to download any kind of document available in some specific file extension.</p>
+
+<blockquote><p>ext:pdf how to think like computer scientist python</p></blockquote>
+
+<p>And there you get direct links to the pdf file. You can replace &lsquo;pdf&rsquo; with &lsquo;doc&rsquo;,&lsquo;odf&rsquo;,&lsquo;epub&rsquo; or any other format. You will likely meet less spam in this dimension, but there are times when you&rsquo;ll not find a book. Publicly available free books will generally be there though.</p>
+
+<h3>How it work</h3>
+
+<p>It search for files with specific file extension. Duh! How else it might be working?</p>
+
+<h2>View public cameras</h2>
+
+<p>You can search cameras which have public access. I mean you can get access to the video stream of some publicly available video cameras. Sometimes there are controls available as well for controlling cameras.</p>
+
+<p>You can look through cameras placed in many places like traffic lights, shopping stores, offices and even home cameras sometime.
+You need to search for special queries for this. They are kinda hard to remember, so even I&rsquo;ve made a list of those queries.</p>
+
+<h3>How it work</h3>
+
+<p>It&rsquo;s same technique as &lsquo;direct download anything&rsquo;. We are searching for some &lsquo;special&rsquo; pages on the net that Google has (by mistake?) crawled.</p>
+
+<script type="text/javascript">
+
+</script>
+
+
+<h3>List of queries for watching online cameras</h3>
+
+<ul>
+<li><a href="https://encrypted.google.com/search?hl=en&amp;q=inurl:%E2%80%9DViewerFrame?Mode=">inurl:”ViewerFrame?Mode=</a></li>
+<li><a href="https://encrypted.google.com/search?hl=en&amp;q=intitle:Axis%202400%20video%20server">intitle:Axis 2400 video server</a></li>
+<li><a href="https://encrypted.google.com/search?hl=en&amp;q=inurl:/view.shtml">inurl:/view.shtml</a></li>
+<li><a href="https://encrypted.google.com/search?hl=en&amp;q=intitle:%E2%80%9DLive%20View%20/%20%E2%80%93%20AXIS%E2%80%9D%20|%20inurl:view/view.shtml^">intitle:”Live View / – AXIS” | inurl:view/view.shtml^</a></li>
+<li><a href="https://encrypted.google.com/search?hl=en&amp;q=inurl:ViewerFrame?Mode=">inurl:ViewerFrame?Mode=</a></li>
+<li><a href="https://encrypted.google.com/search?hl=en&amp;q=inurl:ViewerFrame?Mode=Refresh">inurl:ViewerFrame?Mode=Refresh</a></li>
+<li><a href="https://encrypted.google.com/search?hl=en&amp;q=inurl:axis-cgi/jpg">inurl:axis-cgi/jpg</a></li>
+<li><a href="https://encrypted.google.com/search?hl=en&amp;q=inurl:axis-cgi/mjpg">inurl:axis-cgi/mjpg </a></li>
+<li><a href="https://encrypted.google.com/search?hl=en&amp;q=inurl:view/indexFrame.shtml">inurl:view/indexFrame.shtml</a></li>
+<li><a href="https://encrypted.google.com/search?hl=en&amp;q=inurl:view/index.shtml">inurl:view/index.shtml</a></li>
+<li><a href="https://encrypted.google.com/search?hl=en&amp;q=inurl:view/view.shtml">inurl:view/view.shtml</a></li>
+<li><a href="https://encrypted.google.com/search?hl=en&amp;q=liveapplet">liveapplet</a></li>
+<li><a href="https://encrypted.google.com/search?hl=en&amp;q=intitle:%E2%80%9Dlive%20view%E2%80%9D%20intitle:axis">intitle:”live view” intitle:axis</a></li>
+<li><a href="https://encrypted.google.com/search?hl=en&amp;q=intitle:liveapplet">intitle:liveapplet</a></li>
+<li><a href="https://encrypted.google.com/search?hl=en&amp;q=allintitle:%E2%80%9DNetwork%20Camera%20NetworkCamera%E2%80%9D">allintitle:”Network Camera NetworkCamera”</a></li>
+<li><a href="https://encrypted.google.com/search?hl=en&amp;q=intitle:axis%20intitle:%E2%80%9Dvideo%20server%E2%80%9D">intitle:axis intitle:”video server”</a></li>
+<li><a href="https://encrypted.google.com/search?hl=en&amp;q=intitle:liveapplet%20inurl:LvAppl">intitle:liveapplet inurl:LvAppl</a></li>
+<li><a href="https://encrypted.google.com/search?hl=en&amp;q=intitle:%E2%80%9DEvoCam%E2%80%9D%20inurl:%E2%80%9Dwebcam.html%E2%80%9D">intitle:”EvoCam” inurl:”webcam.html”</a></li>
+<li><a href="https://encrypted.google.com/search?hl=en&amp;q=intitle:%E2%80%9DLive%20NetSnap%20Cam-Server%20feed%E2%80%9D">intitle:”Live NetSnap Cam-Server feed”</a></li>
+<li><a href="https://encrypted.google.com/search?hl=en&amp;q=intitle:%E2%80%9DLive%20View%20/%20%E2%80%93%20AXIS%E2%80%9D">intitle:”Live View / – AXIS”</a></li>
+<li><a href="https://encrypted.google.com/search?hl=en&amp;q=intitle:%E2%80%9DLive%20View%20/%20%E2%80%93%20AXIS%20206M%E2%80%9D">intitle:”Live View / – AXIS 206M”</a></li>
+<li><a href="https://encrypted.google.com/search?hl=en&amp;q=intitle:%E2%80%9DLive%20View%20/%20%E2%80%93%20AXIS%20206W%E2%80%9D">intitle:”Live View / – AXIS 206W”</a></li>
+<li><a href="https://encrypted.google.com/search?hl=en&amp;q=intitle:%E2%80%9DLive%20View%20/%20%E2%80%93%20AXIS%20210%E2%80%B3">intitle:”Live View / – AXIS 210″</a></li>
+<li><a href="https://encrypted.google.com/search?hl=en&amp;q=inurl:indexFrame.shtml%20Axis">inurl:indexFrame.shtml Axis</a></li>
+<li><a href="https://encrypted.google.com/search?hl=en&amp;q=inurl:%E2%80%9DMultiCameraFrame?Mode=Motion%E2%80%9D">inurl:”MultiCameraFrame?Mode=Motion”</a></li>
+<li><a href="https://encrypted.google.com/search?hl=en&amp;q=intitle:start%20inurl:cgistart">intitle:start inurl:cgistart</a></li>
+<li><a href="https://encrypted.google.com/search?hl=en&amp;q=intitle:%E2%80%9DWJ-NT104%20Main%20Page%E2%80%9D">intitle:”WJ-NT104 Main Page”</a></li>
+<li><a href="https://encrypted.google.com/search?hl=en&amp;q=intext:%E2%80%9DMOBOTIX%20M1%E2%80%B3%20intext:%E2%80%9DOpen%20Menu%E2%80%9D">intext:”MOBOTIX M1″ intext:”Open Menu”</a></li>
+<li><a href="https://encrypted.google.com/search?hl=en&amp;q=intext:%E2%80%9DMOBOTIX%20M10%E2%80%B3%20intext:%E2%80%9DOpen%20Menu%E2%80%9D">intext:”MOBOTIX M10″ intext:”Open Menu”</a></li>
+<li><a href="https://encrypted.google.com/search?hl=en&amp;q=intext:%E2%80%9DMOBOTIX%20D10%E2%80%B3%20intext:%E2%80%9DOpen%20Menu%E2%80%9D">intext:”MOBOTIX D10″ intext:”Open Menu”</a></li>
+<li><a href="https://encrypted.google.com/search?hl=en&amp;q=intitle:snc-z20%20inurl:home/">intitle:snc-z20 inurl:home/</a></li>
+<li><a href="https://encrypted.google.com/search?hl=en&amp;q=intitle:snc-cs3%20inurl:home/">intitle:snc-cs3 inurl:home/</a></li>
+<li><a href="https://encrypted.google.com/search?hl=en&amp;q=intitle:snc-rz30%20inurl:home/">intitle:snc-rz30 inurl:home/</a></li>
+<li><a href="https://encrypted.google.com/search?hl=en&amp;q=intitle:%E2%80%9Dsony%20network%20camera%20snc-p1%E2%80%B3">intitle:”sony network camera snc-p1″</a></li>
+<li><a href="https://encrypted.google.com/search?hl=en&amp;q=intitle:%E2%80%9Dsony%20network%20camera%20snc-m1%E2%80%B3">intitle:”sony network camera snc-m1″</a></li>
+<li><a href="https://encrypted.google.com/search?hl=en&amp;q=site:.viewnetcam.com%20-www.viewnetcam.com">site:.viewnetcam.com -www.viewnetcam.com</a></li>
+<li><a href="https://encrypted.google.com/search?hl=en&amp;q=intitle:%E2%80%9DToshiba%20Network%20Camera%E2%80%9D%20user%20login">intitle:”Toshiba Network Camera” user login</a></li>
+<li><a href="https://encrypted.google.com/search?hl=en&amp;q=intitle:%E2%80%9Dnetcam%20live%20image%E2%80%9D">intitle:”netcam live image”</a></li>
+<li><a href="https://encrypted.google.com/search?hl=en&amp;q=intitle:%E2%80%9Di-Catcher%20Console%20%E2%80%93%20Web%20Monitor%E2%80%9D">intitle:”i-Catcher Console – Web Monitor”</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[5 Firefox Plugins I Can't Live Without]]></title>
@@ -1614,45 +1762,6 @@ Read <a href="http://inhindi.harkuchh.com/free-online-advertising-sites/" target
 <span style="font-family: georgia;">I have discussed all the important points and possible ways and it will help you to get an Approved Adsense for sure, now if you have any confusion, query, or point regarding it, please let me know via comment. It will be like an honor to interact with you.</span>
 
 Read <a href="http://inhindi.harkuchh.com/google-adsense-ke-liye-apply-karne-se-pehle-kin-cheezon-ka-dhyaan-rakhe/" target="_blank"><em><strong>this post in Hindi</strong></em></a>.
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[What Are the Back Links and How to Build Back Links]]></title>
-    <link href="http://harkuchh.com/what-are-the-back-links-and-how-to-build-back-links/"/>
-    <updated>2013-05-19T00:00:00+05:30</updated>
-    <id>http://harkuchh.com/what-are-the-back-links-and-how-to-build-back-links</id>
-    <content type="html"><![CDATA[To make decent money in Blogging the thing which every blogger needs more than anything else is <b>huge traffic to the blog</b>. We all are the bloggers and we know, every blogger, writer or webmaster wish to get more and <b>more traffic to their blog</b>, because it’s a simple formula i.e. <b>more audiences means more money</b>. I’ve seen many Bloggers doing very hard job on their blogs but still they won’t get the remarkable traffic to their blogs and I noticed generally they won’t pay their attention to <b>Back link building </b>and if you tell them to <b>generate backlinks</b> they thinks that we are asking them to <b>buy back links </b>because<b> </b>they don’t know the proper way to <b>building back links</b>, if you are one of them then must read this post at least twice because if you get it properly it will be the the best <b>SEO help </b>for you, forever<a href="http://bing.com" target="_blank">.</a><a href="http://google.com/" target="_blank">.</a><!--more-->
-<h1><b>What are Back links ?</b></h1>
-<strong>Backlinks</strong> enable the reader to keep track of some other pages on the web which is linked to the current post they are reading, let’s make it easy with an example, suppose I’ve written a post about <a href="http://harkuchh.com/tag/adsense/" target="_blank"><span style="text-decoration: underline;"><strong>Google Adsense</strong></span></a> on my blog and then you come to my blog and read that post, you finds it interesting, then you goes to your own blog and writes a post inspired by my post and you link your post with my original post from where you took the idea (remember giving credit is necessary). Now my post will automatically show that you has linked to it, and it will provide a short snippet of my text and a link to my post, that is the reason why in <b>seo backlink</b> plays a very important role.
-
-<a href="http://harkuchh.com/wp-content/uploads/2013/05/What-are-the-Back-links-and-How-to-Build-Back-Links.png"><img class="aligncenter size-full wp-image-8894" alt="What are the Back links and How to Build Back Links" src="http://harkuchh.com/wp-content/uploads/2013/05/What-are-the-Back-links-and-How-to-Build-Back-Links.png" width="350" height="263" /></a>
-<h2><b>Why Backlink is important ?</b></h2>
-<b> </b>Backlink is one of the key factor to get good raputation to your blog as well as <b>buildings backlinks</b> are one of the best, popular and effective ways to <b>get more traffic to any blog or website </b>not only that it is also said that it is the best <b>search engine optimization strategy</b> generating backlinks..
-
-&nbsp;
-<h2><b>How to Build Backlinks ?</b></h2>
-Well when it comes to building back links there are two <b>ways to generate backlinks for blogs</b> which are the <b>right way to build backlinks</b> and a <b>wrong way to build back links</b>, as it’s very valuable it take efforts but once you&#8217;ve done the right way, soon you will see the traffic coming to your blog.
-
-&nbsp;
-<h2><b>Let’s know what are the way to generate backlinks ?</b></h2>
-<b> </b>
-<h3>The Wrong Way to Build Backlinks</h3>
-I know this very well because I also did it when I was new to this field but thankful to the <a href="http://Labnol.org" target="_blank"><strong>Labnol.org</strong></a> I came to know about it very soon and I stopped doing that, but what’s that ? Actually many people especially newbies normally tries to build their back links by the wrong way at one point due to lack of knowledge about it, people generally do not care that the way the are following is a wrong way, even if they knew. The wrong way to create backlink is, go and post your links every where you can, like in comments, social sites, but this is called spamming, by doing this you’re doing nothing more than posting irrelevant links and remember by following this way you will never get <b>quality backlinks</b>, for example you go to YouTube and open one of the Eninem’s video then in comments you post a comment with URL of your post `How to keep keep your Adsense Account Secure` boy by doing this you’re wasting your time because nobody is going click on that link and eventually your link will be removed.
-
-&nbsp;
-<h3><b>The Right Way to Build Quality Backlinks</b></h3>
-Now you know what mistakes you were doing let’s know the <b>best way to build Quality backlinks</b>, well the right way to do it is Place your links to the relevant places where it would be useful, meaningful and desirable. if you’ll place your links to such pages then it will surely drive traffic to your blog easily. For instance you have written a post `<span style="text-decoration: underline;"><a href="http://harkuchh.com/justin-biebers-untold-story/" target="_blank"><b>You are small enough to make fun of Justin Bieber</b></a></span>`then you go to some other websites with questions or controversy on Justin Bieber then you leave a relevant relevant comment with the link of your article where you have written something related to the topic like `No, you are wrong, you are making fun of Justin Bieber you’re calling him Gay but you don’t know his power <a href="http://harkuchh.com/justin-biebers-untold-story/" target="_blank">check this out</a> first and then see where you stands`.
-
-&nbsp;
-
-That way when readers will see your that strong &amp; meaningful comment related to the subject they are talking about will surely click on your link to see more information. Believe me this is the <b>best way to build smart referral link</b>. This is great quality of work which is important and when someone comes to that post and really find what they are looking for then most probably you will a potential fan and another reader.
-
-&nbsp;
-
-<b>Note</b> : If you will do it gently then you will never feel requirement of <b>search engine optimization packages</b>, <b>link building service</b><b> </b>for seo of your blog and that is the reason building quality backlinks is called as the <b>best search engine optimization </b>tool and it will let you save the expense of <b>search engine optimization software</b>s because the right way will give you <b>free back links</b>. This is the <b>affordable search engine optimization </b>strategy for everyone, after all it’s free.
-
-Happy Blogging &#8230; :)
 ]]></content>
   </entry>
   
