@@ -4,11 +4,7 @@
   <title><![CDATA[Category: Blogging | harkuchh]]></title>
   <link href="http://harkuchh.com/blog/categories/blogging/atom.xml" rel="self"/>
   <link href="http://harkuchh.com/"/>
-<<<<<<< HEAD
-  <updated>2014-02-20T17:20:37+05:30</updated>
-=======
-  <updated>2014-02-18T19:23:18+05:30</updated>
->>>>>>> b9b09e09eaa9c389449522641dcd8b7182164bcf
+  <updated>2014-02-20T17:42:47+05:30</updated>
   <id>http://harkuchh.com/</id>
   <author>
     <name><![CDATA[harkuchh]]></name>
@@ -16,6 +12,110 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Why &amp; How to Set Up a Webmaster Account, Sign Up to Verification Full Guide]]></title>
+    <link href="http://harkuchh.com/why-and-how-to-set-up-a-webmaster-account-sign-up-to-verification-full-guide/"/>
+    <updated>2014-02-14T17:53:15+05:30</updated>
+    <id>http://harkuchh.com/why-and-how-to-set-up-a-webmaster-account-sign-up-to-verification-full-guide</id>
+    <content type="html"><![CDATA[<p>Hey Folk!</p>
+
+<p>If you have a blog or, you’re going to make a blog then you must know and understand the importance of Google Webmaster account. People do blogging for two distinctive purposes. First, for their interest in which they want to share their write ups with others and second, for earning money online. And for these both, one thing which is the most important is, traffic. If a blog has no traffic then the bloggers gets pissed off from blogging and after some days, month or year he quits.</p>
+
+<!-- more -->
+
+
+<p>So, if you don’t want this shit to happen with you, then you should never ignore Webmaster even in your dreams.</p>
+
+<p>Some days back, someone from my Facebook friend list said “Sir, I’m working on my blog day and night with all my potential but still I’m getting no results, neither in the sense of earnings nor traffic, what should I do?” I asked him “have you added your site&rsquo;s  sitemap in webmaster account?” He replied “Webmaster! what is this Sir?”. Then I realised many people are making such mistakes just because of unawareness and just because of this their hard work and many expenses are going into the vain, which is really a very disappointing thing for anybody.</p>
+
+<p>I remember those days very well when we used to get excited when we saw 10 people online on our blog and suddenly gets depressed when Analytics used to show `Right now 0 visitors online on site’.</p>
+
+<p>So to help my that facebook friend I guided him in setting up his webmasters account with all other features like crawling, indexing, fetching etc. After some days he left a message..</p>
+
+<p>“Thank you so much Sir, now I’m getting good traffic on my blog and my Adsense earning also increased so well, you please write a full tutorial of points which you taught me that day so that everybody who is unfamiliar to this great tool should take advantage of it.” so here is..</p>
+
+<h2>Step by Step Guidance to Set Up a Google Webmaster Account</h2>
+
+
+<p><i>Requirements</i> : A Gmail account.</p>
+
+<h3>How to Setup Webmasters Account</h3>
+
+
+<p><ul>
+1  Go to </b><code>www.google.com/webmasters</code></b>.</p>
+
+<p>2 Click on <b><code>Sign in to Webmaster Tools</code></b>.</p>
+
+<p><img src="https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-prn2/t1/1779894_599044810164498_2001446957_n.jpg"/></p>
+
+<p>3 Enter your website url in box and click on <b><code>Add a Site</code>.</b></p>
+
+<p><img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-frc3/t1/1689401_599044826831163_1890776689_n.jpg"/></p>
+
+<p>4 Click on <b><code>Alternative Method</code></b>.</p>
+
+<p>5 Select <b><code>HTML File Upload</code></b>. You can also use other methods for verify, but this is the easiest way.</p>
+
+<p>6 Click on option 1. <b><code>Download this HTML verification file</code></b>.</p>
+
+<p><img src="https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-prn2/t1/1622832_599044823497830_1394752480_n.jpg"/></p>
+
+<p>7 Log in to your website <b><code>cPanel</code></b>.</p>
+
+<p><img src="https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-prn2/t1/1897960_599044833497829_999904030_n.jpg"/></p>
+
+<ol>
+<li>Open <b><code>File Manager</code></b>.</li>
+</ol>
+
+
+<p><img src="https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-ash3/t1/11580_599044853497827_380585638_n.jpg"/></p>
+
+<ol>
+<li>Click on <b><code>Publich_Html</code>.</b></li>
+</ol>
+
+
+<p><img src="https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-prn2/t1/1621998_599044863497826_1325505598_n.jpg"/></p>
+
+<ol>
+<li><b>Upload</b> that downloaded file into Publich_Html.</li>
+</ol>
+
+
+<p><img src="https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-frc1/t1/1920246_599044880164491_2009952653_n.jpg"/></p>
+
+<ol>
+<li><b><code>Confirm</code></b> successful upload by visiting option no. 3 link.</li>
+</ol>
+
+
+<p><img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-frc3/t1/1689401_599044826831163_1890776689_n.jpg"/></p>
+
+<ol>
+<li>Click <b><code>VERIFY</code></b>.</li>
+</ol>
+
+
+<p><img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-frc3/t1/1689401_599044826831163_1890776689_n.jpg"/></p>
+
+<p>You Done, your webmasters Account is all set now.</p>
+
+<p>Now you should also Add Sitemap to webmasters, for that just see..</p>
+
+<p><h3>How to Add Sitemap to Webmasters</h3></p>
+
+<ol>
+<li>Click on <b><code>Site Dashboard</code></b> at Left.</li>
+<li>Click on <b><code>ADD/TEST SITEMAP</code></b>.</li>
+<li>Write <b><code>sitemap.xml</code></b> in the box front of website url.</li>
+<li>Click on <b><code>Submit Sitemap</code></b> (Blue Button).</li>
+</ol>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Why Bloggers Need to Save Themselves From Google: Lesson We Got After Losing 400K]]></title>
