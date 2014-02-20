@@ -4,7 +4,11 @@
   <title><![CDATA[Category: Announcements | harkuchh]]></title>
   <link href="http://harkuchh.com/blog/categories/announcements/atom.xml" rel="self"/>
   <link href="http://harkuchh.com/"/>
+<<<<<<< HEAD
   <updated>2014-02-20T17:20:37+05:30</updated>
+=======
+  <updated>2014-02-18T19:23:18+05:30</updated>
+>>>>>>> b9b09e09eaa9c389449522641dcd8b7182164bcf
   <id>http://harkuchh.com/</id>
   <author>
     <name><![CDATA[harkuchh]]></name>
@@ -14,6 +18,7 @@
 
   
   <entry>
+<<<<<<< HEAD
     <title type="html"><![CDATA[Announcing 2 Week Python Tutorial Series]]></title>
     <link href="http://harkuchh.com/announcing-2-week-python-tutorial-series/"/>
     <updated>2014-02-20T16:33:03+05:30</updated>
@@ -54,6 +59,8 @@
   </entry>
   
   <entry>
+=======
+>>>>>>> b9b09e09eaa9c389449522641dcd8b7182164bcf
     <title type="html"><![CDATA[Launching harkuchh.com/forums to Help Blogging Community]]></title>
     <link href="http://harkuchh.com/launching-harkuchh-dot-com-slash-forums-to-help-blogging-community/"/>
     <updated>2014-02-18T03:39:09+05:30</updated>
