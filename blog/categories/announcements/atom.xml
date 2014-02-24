@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Announcements | harkuchh]]></title>
+  <link href="http://harkuchh.com/blog/categories/announcements/atom.xml" rel="self"/>
+  <link href="http://harkuchh.com/"/>
+  <updated>2014-02-24T14:49:12+05:30</updated>
+  <id>http://harkuchh.com/</id>
+  <author>
+    <name><![CDATA[harkuchh]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Announcing 2 Week Python Tutorial Series]]></title>
+    <link href="http://harkuchh.com/announcing-2-week-python-tutorial-series/"/>
+    <updated>2014-02-20T16:33:03+05:30</updated>
+    <id>http://harkuchh.com/announcing-2-week-python-tutorial-series</id>
+    <content type="html"><![CDATA[<p>Few days back we shared our experience about how we utilize the Python programming language in our work at harkuchh blogging valley. We got very positive interest about it and readers requested tutorials about the Python programming language.</p>
+
+<p>So here I am with the announcement of the python tutorial series on harkcuhh.com.</p>
+
+<!-- more -->
+
+
+<h2>2 week tutorial series</h2>
+
+<p>I have drafted a roadmap for a tutorial of 2 weeks. We&rsquo;ll publish Python tutorials here and continue for 2 weeks. There will be 14 tutorials, one for each day. You might be thinking if it is possible to master Python in 2 weeks. It is not. Mastering anything takes time. My aim here is to teach you to start thinking in Python. So that you can open any tutorial over there and make sense of it.</p>
+
+<p>I suppose thing which would be rolling in your head would be something like &ldquo;How much Python will I learn from this tutorial?&rdquo;. There are not actual metrics to know how much of a language you know, but you will learn enough to continue on your own, or to follow more advanced tutorials that I will do after this one.</p>
+
+<p>This series is meant for absolute beginners, who know little to no programming. We will emphasize more on basics and the thought process one needs to solve problems the Python way.</p>
+
+<p>We will start with a very gentle introduction to the Python programming language, and will raise the bar with every tutorial. We will discuss the general programming problems which are taught in most programming classes, just to showcase how easy it is to do same things with Python. It will enable you to do comparison between other languages and Python if you follow some other course in some other programming language.</p>
+
+<p>My reason for starting this series on harkuchh.com is more than teaching some folks programming. Programming is heavily under-rated in our city Chandigarh. Tech scene in the city is daunting. No enthusiastic community, no user groups, and dominance of PHP. It&rsquo;s a nightmare. This should change. I want to build a community of programmers. I want to discover the hidden gems in our blogging community. There are many smart people in this community, who I think can make brilliant programmers.</p>
+
+<h3>Who&rsquo;s the targeted audience?</h3>
+
+<p>As Krishan has told me, primary readers of harkuchh.com are bloggers, not much acquainted with programming. I want to usher those guys to the world of programming, without being hard on their brains. It will be a fun trip.</p>
+
+<h3>How much time you should give to the tutorial?</h3>
+
+<p>It will <strong>not</strong> be a very fast paced or heavily technical tutorial. I am aiming for teaching enough programming that you&rsquo;ll be able to do some fun things yourself, and will be able to pursue deeper tutorials.</p>
+
+<h3>What you will and what you will not learn</h3>
+
+<p>You&rsquo;ll not be able to do magic with just reading these 14 tutorials. At the end of Day 14, you will be able to make sense of any Python tutorial. And depending on how smart you are and with how much dedication you follow this series, you shall be able to automate several of you day-to-day tasks (computer related of course). I won&rsquo;t make huge promises, but you potential is limited by you only. Work hard, love your work, and conquer the world.</p>
+
+<p>Happy Hacking!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Launching harkuchh.com/forums to Help Blogging Community]]></title>
+    <link href="http://harkuchh.com/launching-harkuchh-dot-com-slash-forums-to-help-blogging-community/"/>
+    <updated>2014-02-18T03:39:09+05:30</updated>
+    <id>http://harkuchh.com/launching-harkuchh-dot-com-slash-forums-to-help-blogging-community</id>
+    <content type="html"><![CDATA[<p>Hello Friends,</p>
+
+<p>Today I’m very glad to announce that me and my harkuchh team is all set to launch our <a href="http://harkuchh.com/forums/">harkuchh forums</a>. We have been doing a hell of experiments since Charanjit has joined harkuchh. We were playing with this idea of building a community for bloggers. A community that will not suck blood. A community that is not <a href="http://harkuchh.com/corporate-society-is-fraud-bitch-please/">Corporate Society</a>. We envisioned a community that will help each other grow.</p>
+
+<!-- more -->
+
+
+<p> <br/>
+The blogging culture we’ve all been a part for so long is depressing. Good content not getting what it deserve, and spam rolling everywhere; ruining the good work of many. It sucks. Those who create quality content should not suffer. I believe everything stopping a quality blogger from rising is a sin on the spammer’s head who is responsible for his demise.</p>
+
+<p>We tried many things and now we are settled with what I’m here to announce. Things may change in future depending on the response from community; life is an experiment after all.</p>
+
+<p>Ok then, now some questions will come to your mind, which is obvious. Questions like, Harkuchh Forums! But why? What it will do?  Questions like this may tease you, so here I’m explaining the reason behind the origination of Harkuchh forums.</p>
+
+<p>Around two years back I started blogging with my very first blog Harkuchh.com. That time I was unaware of blogging and all other related things like Domain, Hosting, Ranking, Search Engine, Algorithm updates, Penguin, Panda, Humming Bird, SEO, Spam, Quality Post, Backlinks etc etc. I used to ask for help from various bloggers through their blogs comment boxes and facebook messages and they barely gave their time to respond to those message.</p>
+
+<p>When I realized nobody will care to you untill you become something by your own and then I started reading, trying and implementing. Nobody was around to tell me what I’m doing wrong or what I’m doing right.</p>
+
+<p>Blogging was like a big desert where I was familiar with nothing and wherever I turned there was something unknown and complex. I was like the only who had to survive, thankfully I proved myself Bear Grills :P Just kidding.</p>
+
+<p>I mean I’m really thankful to the God that somehow I learnt many things of blogging from sources I don’t remember today but I can never forget Google and YouTube, with these two biggest platforms it was impossible for me to reach wherever I’m today. But it took a long, very long while to reach this place.</p>
+
+<p>So,</p>
+
+<p>As I’ve gone through all this and I know the pain of no result and no answers from people whom we expect to get a genuine reply, I thought of making a platform or a community where people can ask and share their blogging experience, queries with the people from the same world of Blogging. And here is the&hellip;</p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Tips | harkuchh]]></title>
+  <link href="http://harkuchh.com/blog/categories/tips/atom.xml" rel="self"/>
+  <link href="http://harkuchh.com/"/>
+  <updated>2014-02-24T14:49:12+05:30</updated>
+  <id>http://harkuchh.com/</id>
+  <author>
+    <name><![CDATA[harkuchh]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[How to Use Google Like a Pro: Tips to Use Google Syntax]]></title>
+    <link href="http://harkuchh.com/how-to-use-google-like-a-pro-tips-to-use-google-syntax/"/>
+    <updated>2014-01-30T21:00:32+05:30</updated>
+    <id>http://harkuchh.com/how-to-use-google-like-a-pro-tips-to-use-google-syntax</id>
+    <content type="html"><![CDATA[<p>I know you all use Google to reach everywhere on the Internet, but are you using it properly? Google actually provides a specific syntax for searching which is unknown to the masses. Also known as the Google operators, this syntax can make your Googling much easy and much less frustrating.</p>
+
+<p>It&rsquo;s specially useful for bloggers since all of us need to keep an eye on the Internet trends. It&rsquo;s very useful to know how to properly use our most used tool, that is Google.</p>
+
+<!-- more -->
+
+
+<p>So let&rsquo;s waste less time an look at what Google has to offer for us.</p>
+
+<h1>How to use Google syntax?</h1>
+
+<p>All the search operators described here can be used by putting the operator in the search box followed by the search query. Like to use <strong>related:</strong> operator, following query will be used</p>
+
+<pre><code>related:"harkuchh.com"
+</code></pre>
+
+<h2><em>related:</em> Search for related sites</h2>
+
+<pre><code>related:"example.com"
+</code></pre>
+
+<p><em>related:</em> is used to search for websites which are similar to the website we provide in search box. When we use this operator, Google will search for any information related to the given website from all over the Internet. Google will show websites which have similar content.</p>
+
+<h2><em>link:</em> Search for all pages that link to a particular url</h2>
+
+<pre><code>link:"http://harkuchh.com/trick-to-copy-content-from-a-website-with-copy-protector-enabled/"
+</code></pre>
+
+<p>This operator will search for all the pages that link to the given url.</p>
+
+<h2><em>site:</em> Search within a particular website only</h2>
+
+<pre><code>"site:"harkuchh.com" blogging tips
+</code></pre>
+
+<p>Above query will only search &lsquo;harkuchh.com&rsquo; for the words &lsquo;blogging tips&rsquo;. This is a very useful operator. Just imagine when you need to find a particular post you once seen on a website but can&rsquo;t find a link to it. It&rsquo;s one of my most used operators.</p>
+
+<h2>Search for an exact phrase or word</h2>
+
+<p>When we search for a sentence on Google, it doesn&rsquo;t just search for that exact sentence.
+Try searching for</p>
+
+<pre><code>I will become dictator of the world
+</code></pre>
+
+<p>Google will search for text which have &lsquo;I&rsquo;, &lsquo;will&rsquo;, &lsquo;become&rsquo; etc anywhere on the page. But if we want to only search for pages which contain the complete sentence &ldquo;I will become dictator of the world&rdquo;, we can do it just by putting the whole sentence within quotes. Like this</p>
+
+<pre><code>"I will become dictator of the world"
+</code></pre>
+
+<h2>Exclude something in the results</h2>
+
+<p>Sometimes we want that some specific type of results should not appear in the search results. Google provide a special operator just for this purpose.<br/>
+That is &lsquo;&ndash;&rsquo;.<br/>
+Yes just that. Putting a &lsquo;&ndash;&rsquo; in front of any word will show results which do not have that word in them.
+To make it even better, this work with other Google operators as well.</p>
+
+<pre><code>hello lady how are you -season
+</code></pre>
+
+<p>Above query if searched without &lsquo;-season&rsquo; will show some youtube results about some seasons of some TV program. But running above query will remove those results which have the word &lsquo;season&rsquo; in them.</p>
+]]></content>
+  </entry>
+  
+</feed>
