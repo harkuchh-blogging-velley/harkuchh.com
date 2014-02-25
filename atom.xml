@@ -4,7 +4,7 @@
   <title><![CDATA[harkuchh]]></title>
   <link href="http://harkuchh.com/atom.xml" rel="self"/>
   <link href="http://harkuchh.com/"/>
-  <updated>2014-02-24T14:47:29+05:30</updated>
+  <updated>2014-02-26T00:11:28+05:30</updated>
   <id>http://harkuchh.com/</id>
   <author>
     <name><![CDATA[harkuchh]]></name>
@@ -12,6 +12,90 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Python Tutorial Day 0: Hello Python! Nice to Meet Yea!]]></title>
+    <link href="http://harkuchh.com/python-tutorial-day-0-hello-python-nice-to-meet-yea/"/>
+    <updated>2014-02-25T22:37:45+05:30</updated>
+    <id>http://harkuchh.com/python-tutorial-day-0-hello-python-nice-to-meet-yea</id>
+    <content type="html"><![CDATA[<p>Hello friends,</p>
+
+<p>As promised here we are starting a Python tutorial series. This will go 2 week long, including 14 tutorials. Can you learn Python only in 2 weeks? No you can&rsquo;t. Teaching you everything Python has to offer is not the objective of this series. I am aiming for those who are brand new to programming, and want to introduce programming to them gently. Please read the <a href="http://harkuchh.com/announcing-2-week-python-tutorial-series/">announcement</a> for more details about the series.</p>
+
+<p>I deeply apologize for the delay in publishing this post. Many funny things are going on around me nowadays. They have started development work in harkuchh, I had my own projects I was bootstrapping and my relations with harkuchh are on shaky grounds. This series might be the last I write on this blog, but I will finish it before leaving.</p>
+
+<p>Let&rsquo;s not waste time and start with our day 0 of learning Python. From the title you might have already guessed, there will be 15 tutorials in total. This one is meant for setting up the Python interpreter so that you can easily write and run Python programs on your own machine. We will also discus some basic terminology related to programming and there will of course be the traditional <code>hello world</code>. Don&rsquo;t skip on reading this one considering it a filler. If you are coming from the world of languages like PHP, C family languages or Java etc, there are some new things for you to grok.</p>
+
+<h2>Installing Python</h2>
+
+<p>You need to know about versions of Python before you install Python. Python has 2 major versions: 2.x (latest 2.7.6) and 3.x (latest 3.3.4). Those new to Python often get confused which one they should use. There are obvious benefits of Python 3.x over 2.x, but I recommend you to download and install 2.x. There are too many reasons to mention here. I am using 2.7 on my machine, so I recommend you to install a 2.x version (whichever is latest on the site) just to keep up with the programs we will write in this series.</p>
+
+<h3>Windows</h3>
+
+<p>It&rsquo;s very easy for MS Windows users to install Python on their machines. Since Windows is built as an idiot-proof operating system, there are click and install packages (aka setups) available. Follow these steps.</p>
+
+<ul>
+<li>Go to the <a href="http://www.python.org/download/releases/">official python download site</a></li>
+<li>Download the latest 2.x package for windows from the site</li>
+<li>It&rsquo;s a traditional windows installer which will guide you through the installation.</li>
+<li>Just run the installer and go through &lsquo;next&rsquo; clicks to install</li>
+<li>That&rsquo;s all you need for now</li>
+</ul>
+
+
+<h3>Linux</h3>
+
+<p>If you are using some variant of Linux, cheer up as Python is most likely already installed on your system. Most Linux systems come preinstalled with a 2.x version of Python.</p>
+
+<p>But there is one extra goodie packaged with Windows installed that is that is not installed in Linux by default. It&rsquo;s called IDLE. We&rsquo;ll talk about it in a minute. You can easily install it with the package manager of your distro.</p>
+
+<h2>Running Python</h2>
+
+<p>You most likely now have Python installed on your system which is ready to roll. Python has something new for those who code in more traditional languages. If you are using Windows, go to the Start Menu and search of <code>Python IDLE</code>. Idle is a simple GUI Python IDE which is meant for aiding new Python devs to get started quickly. If you are a Linux user and have not install Idle, you can just shoot out your terminal and enter <code>python</code>. A python shell will be spawned for you.</p>
+
+<p><img src="http://i.imgur.com/GSCB4bj.jpg" alt="Idle shell" /></p>
+
+<p>What you are seeing in above snapshot is the Python Shell. Python provides a shell (also called REPL) to help making programs interactively. It&rsquo;s fun to use and you will use it for making almost every Python program for some time.</p>
+
+<p>You can type in any valid Python statement in there, and press Enter. Python will execute that statement, prints the output and ask you for entering more. That&rsquo;s why it is called REPL (Read Eval Process Loop). The shell reads every single line you enter in there, it evaluate that line, process the task you give it, and Loops for more input.</p>
+
+<p>At this moment we have not learned any Python code yet, but you can try basic calcualtions like <code>5+5</code> or anything. You can also write your name in <code>'</code> or <code>"</code>. It will simply evaluate it, print result and ask for more.</p>
+
+<p><strong>print</strong> statement: This is the first thing generally taught to new programmers. I won&rsquo;t break the tradition. <code>print</code> statement in Python is used to print anything on the screen. Like if you want to print your name, just write <code>print "My name"</code>. Yes, for printing a sentence, it is required to put in inside <code>'</code> or <code>"</code>s.</p>
+
+<p>Play around with repl more if you want.</p>
+
+<h2><code>Hello world</code> program in Python</h2>
+
+<p>We will close today&rsquo;s tutorial with the <code>hello world</code> program in Python. REPL allows us to execute statements interactively, but when writing actual programs, we need to save them in files for executing later. Traditionally, python programs are written in files with extension <code>.py</code>. We will talk about them some other day.</p>
+
+<p>Let&rsquo;s quickly wrap up and write our &lsquo;hello world&rsquo; program.</p>
+
+<p>I told you Idle is actually a simple IDE (Interactive Development Environment) for Python. It allows you to create Python programs, and run them from right inside the Idle. Open a new file in Idle:<br/>
+* Go to <code>File</code> Menu
+* Click <code>New File</code> (or whatever new option is there, sorry I am using Linux right now)</p>
+
+<p><img src="http://i.imgur.com/kFEuTAA.png?1" alt="Python Idle New File Hello world" /></p>
+
+<p>It will open a new window. Note that this windows is not an interactive shell. You can write multiple statements in it and they will not automatically execute. We will write our <code>hello world</code> program in it.</p>
+
+<p>You might have already guessed it. Our program is just one single statement.</p>
+
+<figure class='code'><figcaption><span>hello_world.py </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='python'><span class='line'><span class="k">print</span> <span class="s">&quot;Hello world!&quot;</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Write above line in the window, and save it with any name and <code>.py</code> extension.</p>
+
+<p><code>.py</code> files can be executed in Windows by simply double clicking on them. But we will execute this one from right inside the Idle. Just press <code>F5</code> key. The output of our program will be shown in the Python shell (the other window).</p>
+
+<p>That&rsquo;s it for today.</p>
+
+<p><em><strong>Note:</strong> I wrote this one in a sort of rush because I didn&rsquo;t want to delay it any further. There were readers coming back to harkuchh for this tutorial series and going back disappointed. If you don&rsquo;t understand anything, or find something hard to understand, or something doesn&rsquo;t work, or for any kind of queries, please leave a comment.</em></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Announcing 2 Week Python Tutorial Series]]></title>
@@ -1058,50 +1142,6 @@ As the most awesome feature of WordPress is that, you can have plugin for doing 
 [caption id=&#8221;attachment_8842&#8221; align=&#8221;aligncenter&#8221; width=&#8221;480&#8221;]<a href="http://harkuchh.com/wp-content/uploads/2013/05/how-to-add-nofollow-to-a-link-in-wordpress.jpg"><img class="size-full wp-image-8842" alt="make a link nofollow in WordPress" src="http://harkuchh.com/wp-content/uploads/2013/05/how-to-add-nofollow-to-a-link-in-wordpress.jpg" width="480" height="249" /></a> <strong>make a link nofollow in WordPress</strong>[/caption]
 
 For <strong>making the comments links nofollow</strong>, You can also go to <strong>settings &gt; Nofollow</strong>, and uncheck the option to<strong> make your comment links nofollow</strong>. So if you was searching for the <strong>best way to make a link nofollow</strong> in WordPress or <a href="http://harkuchh.com/how-to-make-a-link-nofollow-in-wordpress/"><strong>How to make a link Nofollow in WordPress</strong></a>, it’s the best way. Enjoy this plugin it’s for you.
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[How to Manage Blog and Blogging During Exams]]></title>
-    <link href="http://harkuchh.com/how-to-manage-blog-and-blogging-during-exams/"/>
-    <updated>2013-06-23T00:00:00+05:30</updated>
-    <id>http://harkuchh.com/how-to-manage-blog-and-blogging-during-exams</id>
-    <content type="html"><![CDATA[<span style="color: #333333;">Exam time is close now and this is the most popular question for bloggers category that ‘How to deal with blog and study during exams consistently’ and it’s like a task for all bloggers to manage blog and study during exams, as a blogger you can’t stop <a href="http://harkuchh.com/category/blogging/" target="_blank"><span style="color: #333333;">blogging</span></a> for long time interval and you also can’t ignore academic exams because these are very important.<!--more-->
-</span>
-
-<span style="color: #333333;">So the question is `How to manage Blog and Exams Together` if you ask this to people mostly will suggest you to stop or ignore blogging until your exams get over but I <a title="most important plug-ins for Wordpress blog" href="http://harkuchh.com/most-important-plugins-for-wordpress-blog/" target="_blank"><span style="color: #333333;">recommend</span></a> you to don’t do that otherwise it will effect your site <a href="http://harkuchh.com/how-to-increase-website-blog-traffic-and-ranking/" target="_blank"><span style="color: #333333;">ranking, traffic</span></a> and earnings as well.</span>
-
-<span style="color: #333333;">I have great solutions for this problem which I follow during my engineering exams, and trust me, they work always like a charm for me to effectively manage my blog during exams and I’m 100% sure they will also help you a lot, here are the..</span>
-
-<span style="color: #333333;"> </span>
-<h2><span style="color: #008000;"><strong>5 Simple Ways To Manage Your Blog During Exams</strong></span></h2>
-<span style="color: #333333;"> </span>
-<h3><span style="color: #333333;"><strong> 1.   Write Posts in Advance and Schedule them for later</strong></span></h3>
-<span style="color: #333333;">WordPress, Jhoomla and all CMS give us ability to schedule our post to publish later automatically then why don’t we take advantage of this technology in need, You just need to write some posts in advance and schedule it to publish during exams this is the best way to manage your blog during exams.  </span>
-
-<span style="color: #333333;"> </span>
-<h3><span style="color: #333333;"> <strong>2.   </strong><strong>In holidays between exams give little time to your Blog</strong></span></h3>
-<span style="color: #333333;">No matter how busy you are during exams, spend sometime to write quick blog posts. Just think it’s not a big deal, as we all know, no one do study 24*7 during exams specially bloggers can’t, just make a strong promise to yourself that you will not waste your time on social sites and will sit on PC for just a little time and in that little time you must have to complete and publish a post. This idea really works. You just need to be honest to your self promise.</span>
-
-<span style="color: #333333;"> </span>
-<h3><span style="color: #333333;"><strong> 3.   Publish your already published old but useful post as new</strong></span></h3>
-<span style="color: #333333;">This is one of my favourite idea it’s lil bit creative but very easy and smart, all you need to do is that during exams you just need to give maximum 5-10 minutes to your blog and <a title="see how" href="http://harkuchh.com/how-to-show-an-old-post-on-homepage-as-first-post/" target="_blank"><span style="color: #333333;">publish your an old post again as new</span></a> about which your visitors don’t know or rarely know, if you do that with minor editing if required, your visitors will think you working regularly on it, this way your regular readers will be regular on your blog.</span>
-
-<span style="color: #333333;"> </span>
-<h3><span style="color: #333333;"><strong>4.   </strong><strong>Seek Your Fellow Bloggers for Help</strong></span></h3>
-<span style="color: #333333;">When a blogger do blogging regularly then he automatically come in contact with many bloggers and building a good relationship with fellow bloggers is very important. You can ask your friend blogger to manage your blog during exams, like writing articles, accepting guest posts, approving comments, this can be done by paying some money to him or doing it for free depend on your friendship.</span>
-
-<span style="color: #333333;"> </span>
-<h3><span style="color: #333333;"><strong> 5.   Ask your real life close Friends to help</strong></span></h3>
-<span style="color: #333333;">You can also ask to your real life close friends for writing posts about various topics, discus with  them the topics on which you need posts and if it’s OK with your friend then it’s great otherwise you can also ask them to write on a topic they can write easily, by this way you will have many posts for your blog and you can publish them on your blog in exams by moderating it in your taste. I’m thnkful to my dear friend Raj who helped me in same category. I’m sure you also have some nice friends like me.  </span>
-
-<span style="color: #333333;"> </span>
-
-Don&#8217;t miss : <a href="http://harkuchh.com/what-is-subdomain-how-to-create-subdomain-of-my-website/" target="_blank"><em>Simple way to create a Subdomain of your blog or website</em></a>
-
-<span style="color: #333333;">By following these ways you never have to worry too much about your blog in even exam days or whenever it’s not easy for you to work on blog. This way will not only give you free time when you’re busy they also make it easy for you to manage your blog when you don’t have enough time. :lol: </span>
-
-<span style="color: #333333;">Hope you enjoyed reading this article, now if you have any other ideas to manage blog and exams please let me and the readers know about them. Your point will be published on this blog with your name.  ;-) </span>
 ]]></content>
   </entry>
   

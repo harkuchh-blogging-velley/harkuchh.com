@@ -9,7 +9,7 @@
   <meta name="author" content="harkuchh">
 
   
-  <meta name="description" content="Few days back we shared our experience about how we utilize the Python programming language in our work at harkuchh blogging valley. We got very &hellip;">
+  <meta name="description" content="Hello friends, As promised here we are starting a Python tutorial series. This will go 2 week long, including 14 tutorials. Can you learn Python only &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -56,6 +56,117 @@
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/python-tutorial-day-0-hello-python-nice-to-meet-yea/">Python Tutorial Day 0: Hello Python! Nice to Meet Yea!</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-02-25T22:37:45+05:30" pubdate data-updated="true">Feb 25<span>th</span>, 2014</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Hello friends,</p>
+
+<p>As promised here we are starting a Python tutorial series. This will go 2 week long, including 14 tutorials. Can you learn Python only in 2 weeks? No you can&rsquo;t. Teaching you everything Python has to offer is not the objective of this series. I am aiming for those who are brand new to programming, and want to introduce programming to them gently. Please read the <a href="http://harkuchh.com/announcing-2-week-python-tutorial-series/">announcement</a> for more details about the series.</p>
+
+<p>I deeply apologize for the delay in publishing this post. Many funny things are going on around me nowadays. They have started development work in harkuchh, I had my own projects I was bootstrapping and my relations with harkuchh are on shaky grounds. This series might be the last I write on this blog, but I will finish it before leaving.</p>
+
+<p>Let&rsquo;s not waste time and start with our day 0 of learning Python. From the title you might have already guessed, there will be 15 tutorials in total. This one is meant for setting up the Python interpreter so that you can easily write and run Python programs on your own machine. We will also discus some basic terminology related to programming and there will of course be the traditional <code>hello world</code>. Don&rsquo;t skip on reading this one considering it a filler. If you are coming from the world of languages like PHP, C family languages or Java etc, there are some new things for you to grok.</p>
+
+<h2>Installing Python</h2>
+
+<p>You need to know about versions of Python before you install Python. Python has 2 major versions: 2.x (latest 2.7.6) and 3.x (latest 3.3.4). Those new to Python often get confused which one they should use. There are obvious benefits of Python 3.x over 2.x, but I recommend you to download and install 2.x. There are too many reasons to mention here. I am using 2.7 on my machine, so I recommend you to install a 2.x version (whichever is latest on the site) just to keep up with the programs we will write in this series.</p>
+
+<h3>Windows</h3>
+
+<p>It&rsquo;s very easy for MS Windows users to install Python on their machines. Since Windows is built as an idiot-proof operating system, there are click and install packages (aka setups) available. Follow these steps.</p>
+
+<ul>
+<li>Go to the <a href="http://www.python.org/download/releases/">official python download site</a></li>
+<li>Download the latest 2.x package for windows from the site</li>
+<li>It&rsquo;s a traditional windows installer which will guide you through the installation.</li>
+<li>Just run the installer and go through &lsquo;next&rsquo; clicks to install</li>
+<li>That&rsquo;s all you need for now</li>
+</ul>
+
+
+<h3>Linux</h3>
+
+<p>If you are using some variant of Linux, cheer up as Python is most likely already installed on your system. Most Linux systems come preinstalled with a 2.x version of Python.</p>
+
+<p>But there is one extra goodie packaged with Windows installed that is that is not installed in Linux by default. It&rsquo;s called IDLE. We&rsquo;ll talk about it in a minute. You can easily install it with the package manager of your distro.</p>
+
+<h2>Running Python</h2>
+
+<p>You most likely now have Python installed on your system which is ready to roll. Python has something new for those who code in more traditional languages. If you are using Windows, go to the Start Menu and search of <code>Python IDLE</code>. Idle is a simple GUI Python IDE which is meant for aiding new Python devs to get started quickly. If you are a Linux user and have not install Idle, you can just shoot out your terminal and enter <code>python</code>. A python shell will be spawned for you.</p>
+
+<p><img src="http://i.imgur.com/GSCB4bj.jpg" alt="Idle shell" /></p>
+
+<p>What you are seeing in above snapshot is the Python Shell. Python provides a shell (also called REPL) to help making programs interactively. It&rsquo;s fun to use and you will use it for making almost every Python program for some time.</p>
+
+<p>You can type in any valid Python statement in there, and press Enter. Python will execute that statement, prints the output and ask you for entering more. That&rsquo;s why it is called REPL (Read Eval Process Loop). The shell reads every single line you enter in there, it evaluate that line, process the task you give it, and Loops for more input.</p>
+
+<p>At this moment we have not learned any Python code yet, but you can try basic calcualtions like <code>5+5</code> or anything. You can also write your name in <code>'</code> or <code>"</code>. It will simply evaluate it, print result and ask for more.</p>
+
+<p><strong>print</strong> statement: This is the first thing generally taught to new programmers. I won&rsquo;t break the tradition. <code>print</code> statement in Python is used to print anything on the screen. Like if you want to print your name, just write <code>print "My name"</code>. Yes, for printing a sentence, it is required to put in inside <code>'</code> or <code>"</code>s.</p>
+
+<p>Play around with repl more if you want.</p>
+
+<h2><code>Hello world</code> program in Python</h2>
+
+<p>We will close today&rsquo;s tutorial with the <code>hello world</code> program in Python. REPL allows us to execute statements interactively, but when writing actual programs, we need to save them in files for executing later. Traditionally, python programs are written in files with extension <code>.py</code>. We will talk about them some other day.</p>
+
+<p>Let&rsquo;s quickly wrap up and write our &lsquo;hello world&rsquo; program.</p>
+
+<p>I told you Idle is actually a simple IDE (Interactive Development Environment) for Python. It allows you to create Python programs, and run them from right inside the Idle. Open a new file in Idle:<br/>
+* Go to <code>File</code> Menu
+* Click <code>New File</code> (or whatever new option is there, sorry I am using Linux right now)</p>
+
+<p><img src="http://i.imgur.com/kFEuTAA.png?1" alt="Python Idle New File Hello world" /></p>
+
+<p>It will open a new window. Note that this windows is not an interactive shell. You can write multiple statements in it and they will not automatically execute. We will write our <code>hello world</code> program in it.</p>
+
+<p>You might have already guessed it. Our program is just one single statement.</p>
+
+<figure class='code'><figcaption><span>hello_world.py </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='python'><span class='line'><span class="k">print</span> <span class="s">&quot;Hello world!&quot;</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Write above line in the window, and save it with any name and <code>.py</code> extension.</p>
+
+<p><code>.py</code> files can be executed in Windows by simply double clicking on them. But we will execute this one from right inside the Idle. Just press <code>F5</code> key. The output of our program will be shown in the Python shell (the other window).</p>
+
+<p>That&rsquo;s it for today.</p>
+
+<p><em><strong>Note:</strong> I wrote this one in a sort of rush because I didn&rsquo;t want to delay it any further. There were readers coming back to harkuchh for this tutorial series and going back disappointed. If you don&rsquo;t understand anything, or find something hard to understand, or something doesn&rsquo;t work, or for any kind of queries, please leave a comment.</em></p>
+</div>
+  
+  
+
+
+    </article>
   
   
     <article>
@@ -438,49 +549,6 @@ Here are five reasons to convince you to learn programming.</p>
 
     </article>
   
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/how-to-use-google-like-a-pro-tips-to-use-google-syntax/">How to Use Google Like a Pro: Tips to Use Google Syntax</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-01-30T21:00:32+05:30" pubdate data-updated="true">Jan 30<span>th</span>, 2014</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>I know you all use Google to reach everywhere on the Internet, but are you using it properly? Google actually provides a specific syntax for searching which is unknown to the masses. Also known as the Google operators, this syntax can make your Googling much easy and much less frustrating.</p>
-
-<p>It&rsquo;s specially useful for bloggers since all of us need to keep an eye on the Internet trends. It&rsquo;s very useful to know how to properly use our most used tool, that is Google.</p>
-
-</div>
-  
-  
-    <footer>
-      <a rel="full-article" href="/how-to-use-google-like-a-pro-tips-to-use-google-syntax/">Read on &rarr;</a>
-    </footer>
-  
-
-
-    </article>
-  
   <div class="pagination">
     
       <a class="prev" href="/blog/page/2/">&larr; Older</a>
@@ -494,6 +562,10 @@ Here are five reasons to convince you to learn programming.</p>
     <section>
   <h1>Recent Posts</h1>
   <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/python-tutorial-day-0-hello-python-nice-to-meet-yea/">Python Tutorial Day 0: Hello Python! Nice to Meet Yea!</a>
+      </li>
     
       <li class="post">
         <a href="/announcing-2-week-python-tutorial-series/">Announcing 2 Week Python Tutorial Series</a>
@@ -529,10 +601,6 @@ Here are five reasons to convince you to learn programming.</p>
     
       <li class="post">
         <a href="/full-fledge-guide-on-tlds-what-is-top-level-domain-s/">Full Fledge Guide on TLD&#8217;s - What Is Top Level Domain(s)</a>
-      </li>
-    
-      <li class="post">
-        <a href="/how-to-use-google-like-a-pro-tips-to-use-google-syntax/">How to Use Google Like a Pro: Tips to Use Google Syntax</a>
       </li>
     
   </ul>
