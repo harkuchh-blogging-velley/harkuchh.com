@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Python | harkuchh]]></title>
   <link href="http://harkuchh.com/blog/categories/python/atom.xml" rel="self"/>
   <link href="http://harkuchh.com/"/>
-  <updated>2014-02-26T00:11:28+05:30</updated>
+  <updated>2014-03-04T10:47:14+05:30</updated>
   <id>http://harkuchh.com/</id>
   <author>
     <name><![CDATA[harkuchh]]></name>
@@ -12,6 +12,328 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Python Tutorial Day 1: Basics of Python and Programming]]></title>
+    <link href="http://harkuchh.com/python-tutorial-day-1-basics-of-python-and-programming/"/>
+    <updated>2014-03-04T10:01:26+05:30</updated>
+    <id>http://harkuchh.com/python-tutorial-day-1-basics-of-python-and-programming</id>
+    <content type="html"><![CDATA[<p>I want to start with an apology. I am apologizing a lot lately. There&rsquo;s a whole world of changes going on in my life. I wrote <a href="http://channikhabra.github.io/2014/02/26/i-have-decided-to-do-a-job-where-they-will-exploit-shit-out-of-me/">a post</a> on my blog (<a href="http://channikhabra.github.io/">my personal blog</a>), and it hit the <a href="http://news.ycombinator.com/">hacker news</a>. So I got a shitload of advises, suggestions, opinions, job offers, interview calls etc. Was a very busy week. Besides I am back in harkuchh. We are about to start a development shop. Hope things will be better this time.</p>
+
+<p>Let&rsquo;s continue with our Python tutorial. I know many would&rsquo;ve left following this tutorial series due the lack of schedule, but still I&rsquo;d like to keep my promise. Hope few of you&rsquo;ll like these. My vision for these tutorials is to seed a community in our city, a community of like minded geeks.</p>
+
+<!-- more -->
+
+
+<p>This is a tutorial not a book, so we will go little bit fast. If you don&rsquo;t get anything or see anything confusing at any level, we&rsquo;ve got forums, there&rsquo;s comment box below and you always pm me.</p>
+
+<p>Today we will do some basic python statements, control structures and some basic looping. We will also do a couple programs for practice, and there will be exercises for you to do yourself. Again if you need help, you are welcome.</p>
+
+<h2>Printing on screen</h2>
+
+<p>Everyone from C++ is familiar with <code>std::cout</code> (or <code>System.out.println</code> in Java, <code>echo</code> in PHP?). I mean showing some text to the user of our program. Python has a very cute <code>print</code> statement for this. You&rsquo;d remember from &lsquo;hello_world&rsquo; program of <a href="http://harkuchh.com/python-tutorial-day-0-hello-python-nice-to-meet-yea/">previous tut</a>.<br/>
+<div class='bogus-wrapper'><notextile><figure class='code'><figcaption><span>print statement </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='python'><span class='line'><span class="k">print</span> <span class="o">&amp;</span><span class="n">ldquo</span><span class="p">;</span><span class="n">Let</span><span class="o">&amp;</span><span class="n">rsquo</span><span class="p">;</span><span class="n">s</span> <span class="n">get</span> <span class="n">rolling</span> <span class="k">with</span> <span class="n">Python</span><span class="o">&amp;</span><span class="n">rdquo</span><span class="p">;</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div></p>
+
+<h2>Variables and Data types</h2>
+
+<h4>What is a variable?</h4>
+
+<p>A variable is simply a name, which stores a value in it. Like in maths we write <code>let x is 10</code>, <code>x</code> here is a variable.</p>
+
+<h3>How to use variables in Python?</h3>
+
+<p>Using variables in Python is the easiest. To create a variable with name <code>a</code> and give it a value <code>3</code>, we simply write <code>a = 3</code></p>
+
+<p>Yup that&rsquo;s it. You don&rsquo;t need to tell Python that you&rsquo;ll save <code>integers</code> in it or something. You don&rsquo;t even need to use weird <code>$</code>s to use variables.
+All sort of stuff is done with variables. We store values in variables, do calculations on them and store results in other variables and so on. <br/>
+<div class='bogus-wrapper'><notextile><figure class='code'><figcaption><span>variables</span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+</pre></td><td class='code'><pre><code class='python'><span class='line'><span class="n">a</span> <span class="o">=</span> <span class="mi">3</span>
+</span><span class='line'><span class="n">b</span> <span class="o">=</span> <span class="mi">4</span>
+</span><span class='line'><span class="n">c</span> <span class="o">=</span> <span class="n">a</span> <span class="o">+</span> <span class="n">b</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div></p>
+
+<h4>What is a data type?</h4>
+
+<p>Programming languages have a notion of <code>data types</code>. Different type of data (like characters, numbers, lists etc) is categorized in some specific categories. These categories are called <code>data types</code>. For example for storing numbers without any decimal point (like 1,2,3) there&rsquo;s <code>integer</code> data type, for storing number with decimals (like 1.0,2.0 etc) there&rsquo;s <code>float</code> data type and similar. Different languages use different names.</p>
+
+<h3>Data types in Python</h3>
+
+<p>We saw above, we don&rsquo;t need to tell Python what type of data we are going to store in the variable, so do that mean Python don&rsquo;t have data types? No. Python do have data types. Data types are important. What actually happen is that Python is smart enough to guess what is the type of data in a variable when you store data in it, and it happens automatically whenever you save a value in a variable. This is called dynamic typing and this is why Python is called a dynamically typed language.</p>
+
+<p>To make it more clear, let&rsquo;s use the <code>type()</code> function. <code>type()</code> function tells us what is the data type of a variable. Let&rsquo;s try it</p>
+
+<h3>How to know the data type of a variable in Python?</h3>
+
+<p>Let&rsquo;s create a variable <code>a</code> with value <code>9</code><br/>
+<div class='bogus-wrapper'><notextile><figure class='code'><figcaption><span>variables</span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='python'><span class='line'><span class="n">a</span> <span class="o">=</span> <span class="mi">9</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div></p>
+
+<p>Now to know its type, we simply use <code>type()</code> like this.
+<div class='bogus-wrapper'><notextile><figure class='code'><figcaption><span>type of variable </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+</pre></td><td class='code'><pre><code class='python'><span class='line'><span class="nb">type</span><span class="p">(</span><span class="n">a</span><span class="p">)</span><span class="o">&lt;/</span><span class="n">p</span><span class="o">&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">&lt;</span><span class="n">blockquote</span><span class="o">&gt;&lt;</span><span class="n">blockquote</span><span class="o">&gt;&lt;</span><span class="n">p</span><span class="o">&gt;</span><span class="nb">int</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div></p></blockquote>
+
+<p>Note: Lines preceeding with <code>&gt;&gt;</code> in code represents output in the shell</p></blockquote>
+
+<p>Here we go. Python interpreter tells us that it&rsquo;s using <code>int</code> as the type of <code>a</code>. Try changing the value of a to decimal and string and use <code>type()</code> on it again.</p>
+
+<h3>Basic data types of Python</h3>
+
+<p>Ok, so we know there are data types and we don&rsquo;t explicitly need to use them. But it&rsquo;s better if we know what those types are, as it will be useful in future.</p>
+
+<ol>
+<li><strong>int</strong><br/>
+int is used for Integer type data i.e. numbers without any decimal point. e.g <code>type(2)</code></li>
+<li><strong>float</strong><br/>
+float is for numbers with decimal point e.g <code>type(2.0)</code></li>
+<li><strong>str</strong><br/>
+str is used for storing strings in Python. A string is nothing but just a word or sentence (or even a single character) which is inside a pair of <code>"</code> or <code>'</code>. You can use any of them. e.g <code>type("I am awesome")</code></li>
+</ol>
+
+
+<p>  There are more data types in python. But these are the basic ones and only ones we need for now. We&rsquo;ll meet other types soon in future posts.</p>
+
+<h2>Getting input from user</h2>
+
+<p>Printing on screen and getting input from user are two basic operations we are taught first in most programming languages (in schools/colleges of India at least). So <code>std::cin</code> equivalent of Python is <code>raw_input</code></p>
+
+<blockquote><p><strong>Note</strong>: There&rsquo;s a function called <code>input</code> as well in Python2.x, don&rsquo;t use it for getting input from user. <code>raw_input</code> is the right one to use.</p></blockquote>
+
+<p>So if we want to get input from a user, we simply do<br/>
+<div class='bogus-wrapper'><notextile><figure class='code'><figcaption><span>taking input from using </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='python'><span class='line'><span class="nb">raw_input</span><span class="p">()</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div></p>
+
+<p>I explained data types in python before telling you about the <code>raw_input</code> for a reason. What happens when we get input using <code>raw_input</code> is that, all the input is of <code>str</code> type. i.e whether a user enters a number or a character, Python will convert it into a string and give us back that string.</p>
+
+<p>Here&rsquo;s a demo. Write this in your IDLE shell or terminal</p>
+
+<p><div class='bogus-wrapper'><notextile><figure class='code'><figcaption><span>default data type of user input </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+</pre></td><td class='code'><pre><code class='python'><span class='line'><span class="n">a</span> <span class="o">=</span> <span class="nb">raw_input</span><span class="p">()</span>
+</span><span class='line'><span class="nb">type</span><span class="p">(</span><span class="n">a</span><span class="p">)</span><span class="o">&lt;/</span><span class="n">p</span><span class="o">&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">&lt;</span><span class="n">blockquote</span><span class="o">&gt;&lt;</span><span class="n">blockquote</span><span class="o">&gt;&lt;</span><span class="n">p</span><span class="o">&gt;</span><span class="nb">str</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div></p></blockquote></blockquote>
+
+<p>But many times we need numbers, i.e integer or float type data. We can easily convert strings into ints or floats by using the functions corresponding to the name of data type.<br/>
+e.g to convert <code>a</code> in above code into a <code>int</code>, we will simply write <code>int(a)</code>. Yup! That&rsquo;s it. Even better we can simply put <code>raw_input</code> in <code>int</code> to convert it into a number. Like this</p>
+
+<p><div class='bogus-wrapper'><notextile><figure class='code'><figcaption><span>converting user input to int</span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+</pre></td><td class='code'><pre><code class='python'><span class='line'><span class="n">a</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span><span class="nb">raw_input</span><span class="p">())</span>
+</span><span class='line'><span class="nb">type</span><span class="p">(</span><span class="n">a</span><span class="p">)</span><span class="o">&lt;/</span><span class="n">p</span><span class="o">&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">&lt;</span><span class="n">blockquote</span><span class="o">&gt;&lt;</span><span class="n">blockquote</span><span class="o">&gt;&lt;</span><span class="n">p</span><span class="o">&gt;</span><span class="nb">int</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div></p></blockquote></blockquote>
+
+<p>You can similarly convert it to float. Try to play with this in IDLE for some time.</p>
+
+<h3>Some basic arithmetic</h3>
+
+<p>It&rsquo;s pretty basic and obvious stuff, but let&rsquo;s quickly cover it here. How do we do calculations in Python? Like we do in math, except Python solve all the math problems for us. All the basic arithmetic operators are available, like <code>+</code>,<code>-</code>,<code>*</code>,<code>/</code>,<code>%</code>.</p>
+
+<p>Last two are special. <code>/</code> (division) in python 2.x don&rsquo;t work as you might expect it to. Let&rsquo;s look at some code:</p>
+
+<p><div class='bogus-wrapper'><notextile><figure class='code'><figcaption><span>dividing ints </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+</pre></td><td class='code'><pre><code class='python'><span class='line'> <span class="mi">3</span> <span class="o">/</span> <span class="mi">3</span><span class="o">&lt;/</span><span class="n">p</span><span class="o">&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">&lt;</span><span class="n">blockquote</span><span class="o">&gt;&lt;</span><span class="n">blockquote</span><span class="o">&gt;&lt;</span><span class="n">p</span><span class="o">&gt;</span><span class="mi">1</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div></p></blockquote></blockquote>
+
+<p>That&rsquo;s what you guessed, right?
+<div class='bogus-wrapper'><notextile><figure class='code'><figcaption><span>dividing ints </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+</pre></td><td class='code'><pre><code class='python'><span class='line'> <span class="mi">3</span> <span class="o">/</span> <span class="mi">2</span><span class="o">&lt;/</span><span class="n">p</span><span class="o">&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">&lt;</span><span class="n">blockquote</span><span class="o">&gt;&lt;</span><span class="n">blockquote</span><span class="o">&gt;&lt;</span><span class="n">p</span><span class="o">&gt;</span><span class="mi">1</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div></p></blockquote></blockquote>
+
+<p>wtf? I told you it&rsquo;s not as you might expect. In python 2.x division operator will take notice of the data types being used in division, and give result of that data type only. If you&rsquo;d like to have a decimal output, do this</p>
+
+<p><div class='bogus-wrapper'><notextile><figure class='code'><figcaption><span>diving float and float </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+</pre></td><td class='code'><pre><code class='python'><span class='line'><span class="o">&lt;/</span><span class="n">p</span><span class="o">&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">&lt;</span><span class="n">blockquote</span><span class="o">&gt;&lt;</span><span class="n">blockquote</span><span class="o">&gt;&lt;</span><span class="n">p</span><span class="o">&gt;</span><span class="mf">3.0</span> <span class="o">/</span> <span class="mf">2.0</span>
+</span><span class='line'><span class="mf">1.5</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div></p></blockquote></blockquote>
+
+<p>Converting any one of the two operands will also work</p>
+
+<p><div class='bogus-wrapper'><notextile><figure class='code'><figcaption><span>dividing float and int </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+</pre></td><td class='code'><pre><code class='python'><span class='line'><span class="o">&lt;/</span><span class="n">p</span><span class="o">&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">&lt;</span><span class="n">blockquote</span><span class="o">&gt;&lt;</span><span class="n">blockquote</span><span class="o">&gt;&lt;</span><span class="n">p</span><span class="o">&gt;</span><span class="mf">3.0</span> <span class="o">/</span> <span class="mi">2</span>
+</span><span class='line'><span class="mf">1.5</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div></p></blockquote>
+
+<p><strong>Note</strong>: The basic calculations we are doing are called <code>operations</code>. The symbols which represent what kind of operation we are going to do (like division, multiplication, addition etc) are called <code>operators</code> and the data on which we do operations is called <code>operand</code>.</p></blockquote>
+
+<p>There&rsquo;s actually a solution to above if you find it annoying, but we&rsquo;ll do it when we&rsquo;ll actually need it.</p>
+
+<p>Let&rsquo;s now turn to modulus operator i.e <code>%</code>. What do you think it would do? Find percentage? Well, it don&rsquo;t do it. It is called modulus operator and it actually find the remainder of a division operation. For example if we do <code>3 % 2</code>, it will tell us what will be left after dividing 3 by 2, i.e 1.</p>
+
+<p>Try it in your IDLE or terminal</p>
+
+<p><div class='bogus-wrapper'><notextile><figure class='code'><figcaption><span>modulus operator </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class='python'><span class='line'> <span class="mi">3</span> <span class="o">%</span> <span class="mi">2</span><span class="o">&lt;/</span><span class="n">p</span><span class="o">&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">&lt;</span><span class="n">blockquote</span><span class="o">&gt;&lt;</span><span class="n">blockquote</span><span class="o">&gt;&lt;</span><span class="n">p</span><span class="o">&gt;</span><span class="mi">1</span>
+</span><span class='line'> <span class="mi">59</span> <span class="o">%</span> <span class="mi">7</span>
+</span><span class='line'><span class="mi">3</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div></p></blockquote></blockquote>
+
+<p>Rest of operators do what you might expect them to. Try to play with them. God has given you that IDLE for a reason ;)</p>
+
+<h2>Some programs using what we learned today</h2>
+
+<p>I think we should wrap it up for today. Let&rsquo;s do some very easy programs using what we learned. I will keep the programs as simple as possible in beginning, slowly proceed to teach the <strong>Python way of doing things</strong>. Soon you will be doing it as second nature.</p>
+
+<h3>Take two numbers from user and find their sum</h3>
+
+<p><strong>Note</strong>: <em>If you don&rsquo;t know how to write a python program in a file and execute it from there, check it out in <a href="http://harkuchh.com/python-tutorial-day-0-hello-python-nice-to-meet-yea">previous tut</a>/.</em></p>
+
+<p><div class='bogus-wrapper'><notextile><figure class='code'><figcaption><span>simple program to find sum of two numbers </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+</pre></td><td class='code'><pre><code class='python'><span class='line'><span class="k">print</span> <span class="o">&amp;</span><span class="n">ldquo</span><span class="p">;</span><span class="n">Enter</span> <span class="n">first</span> <span class="n">Number</span><span class="p">:</span> <span class="o">&amp;</span><span class="n">rdquo</span><span class="p">;</span> <span class="c"># Print a message to tell user to enter first number</span>
+</span><span class='line'><span class="n">a</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span><span class="nb">raw_input</span><span class="p">())</span>   <span class="c"># raw_input() takes input from user, int() then convert that to an integer, and we save it in a</span>
+</span><span class='line'><span class="k">print</span> <span class="o">&amp;</span><span class="n">ldquo</span><span class="p">;</span><span class="n">Enter</span> <span class="n">another</span> <span class="n">Number</span><span class="o">&amp;</span><span class="n">rdquo</span><span class="p">;</span>
+</span><span class='line'><span class="n">b</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span><span class="nb">raw_input</span><span class="p">())</span>
+</span><span class='line'><span class="nb">sum</span> <span class="o">=</span> <span class="n">a</span> <span class="o">+</span> <span class="n">b</span>   <span class="c"># basic arithmetic</span>
+</span><span class='line'><span class="k">print</span> <span class="o">&amp;</span><span class="n">ldquo</span><span class="p">;</span><span class="n">The</span> <span class="nb">sum</span> <span class="n">of</span> <span class="n">two</span> <span class="n">numbers</span> <span class="ow">is</span><span class="p">:</span> <span class="o">&amp;</span><span class="n">rdquo</span><span class="p">;</span>
+</span><span class='line'><span class="k">print</span> <span class="nb">sum</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div></p>
+
+<blockquote><p><strong>Note</strong>: In python, <code>#</code> is used for single line comments. A comment is a message which programmer writes in code to tell other coders about something. Comments are not interpreted by Python. Read comments in code above if you can&rsquo;t guess what a line of code is doing.</p></blockquote>
+
+<p>Now that&rsquo;s too many lines of code for a very simple thing. This is not the Python way of doing things.</p>
+
+<p>Notice how we have to write two statements for one operation. All we want to do is tell user to enter some data and get that data. There&rsquo;s actually a simple of doing this. We can actually enter a string in <code>raw_input()</code>, and it will be printed before taking input from user. Try this</p>
+
+<p><div class='bogus-wrapper'><notextile><figure class='code'><figcaption><span>simple program to find sum of two numbers </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+</pre></td><td class='code'><pre><code class='python'><span class='line'><span class="nb">raw_input</span><span class="p">(</span><span class="o">&amp;</span><span class="n">ldquo</span><span class="p">;</span><span class="n">Enter</span> <span class="n">a</span> <span class="n">number</span><span class="p">:</span> <span class="o">&amp;</span><span class="n">rdquo</span><span class="p">;)</span><span class="o">&lt;/</span><span class="n">p</span><span class="o">&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">&lt;</span><span class="n">blockquote</span><span class="o">&gt;&lt;</span><span class="n">blockquote</span><span class="o">&gt;&lt;</span><span class="n">p</span><span class="o">&gt;</span><span class="n">Enter</span> <span class="n">a</span> <span class="n">number</span><span class="p">:</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div></p></blockquote></blockquote>
+
+<p>That&rsquo;s sweet. Let&rsquo;s change our program to use this.</p>
+
+<p><div class='bogus-wrapper'><notextile><figure class='code'><figcaption><span>simple program to find sum of two numbers </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class='python'><span class='line'><span class="n">a</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span><span class="nb">raw_input</span><span class="p">(</span><span class="o">&amp;</span><span class="n">ldquo</span><span class="p">;</span><span class="n">Enter</span> <span class="n">first</span> <span class="n">number</span><span class="p">:</span> <span class="o">&amp;</span><span class="n">rdquo</span><span class="p">;))</span>
+</span><span class='line'><span class="n">b</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span><span class="nb">raw_input</span><span class="p">(</span><span class="o">&amp;</span><span class="n">ldquo</span><span class="p">;</span><span class="n">Enter</span> <span class="n">second</span> <span class="n">number</span><span class="p">:</span> <span class="o">&amp;</span><span class="n">rdquo</span><span class="p">;))</span>
+</span><span class='line'><span class="nb">sum</span> <span class="o">=</span> <span class="n">a</span> <span class="o">+</span> <span class="n">b</span>
+</span><span class='line'><span class="k">print</span> <span class="o">&amp;</span><span class="n">ldquo</span><span class="p">;</span><span class="n">The</span> <span class="nb">sum</span> <span class="n">of</span> <span class="n">two</span> <span class="n">numbers</span> <span class="ow">is</span><span class="p">:</span> <span class="o">&amp;</span><span class="n">rdquo</span><span class="p">;</span>
+</span><span class='line'><span class="k">print</span> <span class="nb">sum</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div></p>
+
+<p>It&rsquo;s nice, but it&rsquo;s still not looking as beautiful. Why shall we do <code>print</code> twice at the end? We are basically just printing <code>sum</code>. Python do provide a nice way to do this. We can print the result of a variable in a string using <code>%d</code>, <code>%s</code> etc just like in C/C++. e.g</p>
+
+<p><div class='bogus-wrapper'><notextile><figure class='code'><figcaption><span>simple program to find sum of two numbers </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+</pre></td><td class='code'><pre><code class='python'><span class='line'><span class="n">a</span> <span class="o">=</span> <span class="mi">25</span>
+</span><span class='line'><span class="k">print</span> <span class="o">&amp;</span><span class="n">ldquo</span><span class="p">;</span><span class="n">Value</span> <span class="n">of</span> <span class="n">a</span> <span class="ow">is</span> <span class="o">%</span><span class="n">d</span><span class="o">&amp;</span><span class="n">rdquo</span><span class="p">;</span> <span class="o">%</span> <span class="n">a</span><span class="o">&lt;/</span><span class="n">p</span><span class="o">&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">&lt;</span><span class="n">blockquote</span><span class="o">&gt;&lt;</span><span class="n">blockquote</span><span class="o">&gt;&lt;</span><span class="n">p</span><span class="o">&gt;&amp;</span><span class="n">ldquo</span><span class="p">;</span><span class="n">Value</span> <span class="n">of</span> <span class="n">a</span> <span class="ow">is</span> <span class="mi">25</span><span class="o">&amp;</span><span class="n">rdquo</span><span class="p">;</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div></p></blockquote></blockquote>
+
+<p>Cool, right? There&rsquo;s actually an even better way of doing this, but we&rsquo;ll discuss that in another tutorial. For now, let&rsquo;s just use this in our program</p>
+
+<p><div class='bogus-wrapper'><notextile><figure class='code'><figcaption><span>simple program to find sum of two numbers </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+</pre></td><td class='code'><pre><code class='python'><span class='line'><span class="n">a</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span><span class="nb">raw_input</span><span class="p">(</span><span class="o">&amp;</span><span class="n">ldquo</span><span class="p">;</span><span class="n">Enter</span> <span class="n">first</span> <span class="n">number</span><span class="p">:</span> <span class="o">&amp;</span><span class="n">rdquo</span><span class="p">;))</span>
+</span><span class='line'><span class="n">b</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span><span class="nb">raw_input</span><span class="p">(</span><span class="o">&amp;</span><span class="n">ldquo</span><span class="p">;</span><span class="n">Enter</span> <span class="n">second</span> <span class="n">number</span><span class="p">:</span> <span class="o">&amp;</span><span class="n">rdquo</span><span class="p">;))</span>
+</span><span class='line'><span class="nb">sum</span> <span class="o">=</span> <span class="n">a</span> <span class="o">+</span> <span class="n">b</span>
+</span><span class='line'><span class="k">print</span> <span class="o">&amp;</span><span class="n">ldquo</span><span class="p">;</span><span class="n">The</span> <span class="nb">sum</span> <span class="n">of</span> <span class="n">two</span> <span class="n">numbers</span> <span class="ow">is</span><span class="p">:</span> <span class="o">%</span><span class="n">d</span><span class="o">&amp;</span><span class="n">rdquo</span><span class="p">;</span> <span class="o">%</span><span class="nb">sum</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div></p>
+
+<p>Well, the number of lines of code is decreased, but we can do even better. We can calculate the sum without creating <code>sum</code> variable. Let me show you how.</p>
+
+<p><div class='bogus-wrapper'><notextile><figure class='code'><figcaption><span>simple program to find sum of two numbers </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+</pre></td><td class='code'><pre><code class='python'><span class='line'><span class="n">a</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span><span class="nb">raw_input</span><span class="p">(</span><span class="o">&amp;</span><span class="n">ldquo</span><span class="p">;</span><span class="n">Enter</span> <span class="n">first</span> <span class="n">number</span><span class="p">:</span> <span class="o">&amp;</span><span class="n">rdquo</span><span class="p">;))</span>
+</span><span class='line'><span class="n">b</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span><span class="nb">raw_input</span><span class="p">(</span><span class="o">&amp;</span><span class="n">ldquo</span><span class="p">;</span><span class="n">Enter</span> <span class="n">second</span> <span class="n">number</span><span class="p">:</span> <span class="o">&amp;</span><span class="n">rdquo</span><span class="p">;))</span>
+</span><span class='line'><span class="k">print</span> <span class="o">&amp;</span><span class="n">ldquo</span><span class="p">;</span><span class="n">The</span> <span class="nb">sum</span> <span class="n">of</span> <span class="n">two</span> <span class="n">numbers</span> <span class="ow">is</span><span class="p">:</span> <span class="o">%</span><span class="n">d</span><span class="o">&amp;</span><span class="n">rdquo</span><span class="p">;</span> <span class="o">%</span><span class="p">(</span><span class="n">a</span><span class="o">+</span><span class="n">b</span><span class="p">)</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div></p>
+
+<p>Now that is neat. We can actually do above program in a single line, but let&rsquo;s not complicate things for now.</p>
+
+<h2>Exercise</h2>
+
+<p>So what are you going to do today? It&rsquo;s our first day, so I give you something easy to do.</p>
+
+<ul>
+<li><strong>Create a program which takes 5 numbers from user, and print their average.</strong></li>
+</ul>
+
+
+<p><em>Hint</em>: <em>Average = sum of all digits/total number of digits<br/>
+Beware of the fact that <code>/</code> is Python 2.x is not what you might expect.</em></p>
+
+<p>That&rsquo;s it for today. Next time we will take a look at conditionals in Python, and basic looping. We will finish basic Python in first 7 tuts, and then we will do some applications in week 2.</p>
+
+<p><em>Happy Coding! ^_^</em></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Python Tutorial Day 0: Hello Python! Nice to Meet Yea!]]></title>
